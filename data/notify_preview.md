@@ -1,24 +1,24 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-08-08
 
-> 今日待提醒：**25 条**｜7天内截止：**0 条**
+> 今日待提醒：**257 条**｜7天内截止：**1 条**
 
-> 📍 浙江 3｜江苏 6｜上海 4｜安徽 0
+> 📍 浙江 96｜江苏 66｜上海 80｜安徽 14
 
-> ⭐27届校园招聘 2｜🟦校园招聘/应届生 5｜🟨国企公开招聘 6｜🟩事业单位/人才引进 12
+> ⭐27届校园招聘 6｜🟦校园招聘/应届生 46｜🟨国企公开招聘 98｜🟧国企社会招聘 2｜🟩事业单位/人才引进 63｜🟪事业单位/编外 16｜⬜政府官方招聘公告 26
 
-[📋 一次查看全部 25 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 257 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [中建一局建设发展公司｜中建一局建设发展公司27届暑期实习生招聘](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=facec3645a034c26a80a2580a833a03c;)
-- [举办用人单位： 上海航空电器有限公司｜中国航空工业集团机载第六届重点高校招聘](https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=90a22128-23a9-c62d-c551-2911dee9a6fb)
-- [中国电信集团有限公司｜中国电信集团有限公司校园招聘](https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c98ec0ef10198f477fcee0a9c)
-- [中粮集团｜中粮集团2026届夏季校园招聘、暑期实习生招聘 2026-06-25](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=ecd70a34ddaf499699105178a8f257c6)
-- [中国科技出版传媒股份有限公司｜中国科技出版传媒股份有限公司校园招聘](https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c9f45a34d019f462e3e740003)
-- [南方电网公司2026年基础研究领域人才引进｜南方电网公司2026年基础研究领域人才引进](https://job.nju.edu.cn/#!/more/special_recruit_detail/5b5bf32c9f2212e6019f2b2dea7200dc)
-- [中国人民解放军32051部队入伍攻读研究生宣介会｜中国人民解放军32051部队入伍攻读研究生宣介会](https://job.nju.edu.cn/#!/more/special_recruit_detail/5b5bf32c9eab9ce0019eca28a86102a3)
-- [江西省国有资本运营控股集团有限公司2026年第二批｜江西省国有资本运营控股集团有限公司2026年第二批公开招聘公…](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=e84c55948d9b448681d1da99cc057b0e)
-- [国防大学｜国防大学2026年人才引进宣讲会](https://www.career.zju.edu.cn/notification/detail?xwid=54FD558751AFE349E0653A68DD0E9B18)
-- [让青春奔赴深蓝|｜让青春奔赴深蓝| 2026年海军士官学校人才引进宣讲](https://mp.weixin.qq.com/s/8Ah31J7tTmyiMA2W7zszAA)
+- [上海月星控股集团有限公司｜维修工｜1天后截止](https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2801420)
+- [浙江财经大学就业网｜欢迎访问浙江财经大学就业信息网](http://zccareer.zufe.edu.cn/)
+- [上海建科咨询集团暑期实习暨｜上海建科咨询集团暑期实习暨2027届秋招提前批次招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260525/aaaf1e33b4c042e087b15f638400ccd8.html)
+- [上汽集团｜上汽集团2027届暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/d421e95c01714a78bcfb972dc8c6ecaf.html)
+- [央企招聘 浙江三狮南方新材料有限公司｜央企招聘 浙江三狮南方新材料有限公司 2027届校园实习生招聘简章](http://zccareer.zufe.edu.cn/campus/view/id/869753)
+- [上海农商银行｜上海农商银行2027届暑期实习生招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260519/b53bdd320a214cbe9dded8d485b0702a.html)
+- [驰骋控股集团股份有限公司｜驰骋控股集团股份有限公司2027届招聘简章](http://zccareer.zufe.edu.cn/campus/view/id/869740)
+- [宁波大学｜宁波大学公开招聘教师公告（2025.12.11）](https://recruit.nbu.edu.cn/info/1009/2421.htm)
+- [连云港市海州区卫生健康委员会所属事业单位2026年｜连云港市海州区卫生健康委员会所属事业单位2026年公开招聘编…](http://www.lyghz.gov.cn/lyghzqrmzf/tzggg/content/4682e471-d269-4a0f-b7b5-0329025166d4.html)
+- [常州市武进区文体广电旅游局下属事业单位｜2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员公告](https://rsj.changzhou.gov.cn/html/czrsj/2026/IQCNPLQO_0804/49869.html)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
