@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-08 22:01:59",
+  "checked_at": "2026-08-08 23:54:46",
   "total": 80,
   "ok": 73,
   "items": [
@@ -604,6 +604,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-edu-28673cc7a4",
+      "name": "安徽农业大学就业网",
+      "url": "http://job.ahau.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-edu-6b9281c3c5",
       "name": "合肥大学就业网",
       "url": "https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm",
@@ -631,14 +639,6 @@
       "source_id": "auto-edu-0bdf27a6fd",
       "name": "淮北师范大学就业网",
       "url": "https://www.chnu.edu.cn/zsjy",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-d22d28ba5d",
-      "name": "安庆师范大学就业网",
-      "url": "https://www.aqnu.edu.cn/jyjx.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
