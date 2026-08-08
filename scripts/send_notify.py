@@ -1,126 +1,826 @@
 #!/usr/bin/env python3
-"""发送 Job Radar 新增推送。
+# -*- coding: utf-8 -*-
 
-默认只发送 notify_preview 选出的"未推新增"；发送成功后才写 notify_state.json。
-没有 webhook 环境变量时安全跳过，方便先接进 GitHub Actions。
 """
+江浙沪皖国资招聘雷达 - 企业微信批量推送
+
+功能：
+1. 获取所有未推送招聘；
+2. 江浙沪皖优先；
+3. 不限制8条；
+4. 自动将大量岗位拆成多条企业微信消息；
+5. 每一批成功后立即记录为已推送；
+6. 发送失败的岗位不做标记，下次继续发送；
+7. 防止单条企业微信消息过长；
+8. 检查企业微信业务层 errcode。
+"""
+
 from __future__ import annotations
 
 import argparse
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 
 import notify_preview
 
 
-def webhook_from_env() -> tuple[str, str]:
-    feishu = os.getenv("FEISHU_WEBHOOK_URL", "").strip()
-    wechat = os.getenv("WECHAT_WEBHOOK_URL", "").strip() or os.getenv("WECOM_WEBHOOK_URL", "").strip()
-    if feishu:
-        return "feishu", feishu
-    if wechat:
-        return "wecom", wechat
-    return "", ""
+# ============================================================
+# 企业微信消息控制
+# ============================================================
+
+# 不把消息撑到极限，
+# 给Markdown、中文UTF-8等预留安全空间。
+MAX_MARKDOWN_BYTES = 3300
+
+# 每两条企业微信消息之间等待4秒，
+# 避免发送过快。
+SEND_INTERVAL_SECONDS = 4
 
 
-def post_json(url: str, payload: dict, timeout: int = 15) -> tuple[int, str]:
-    data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-    req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
+# ============================================================
+# Webhook
+# ============================================================
+
+def webhook_from_env() -> str:
+
+    return (
+        os.getenv(
+            "WECHAT_WEBHOOK_URL",
+            "",
+        ).strip()
+        or
+        os.getenv(
+            "WECOM_WEBHOOK_URL",
+            "",
+        ).strip()
+    )
+
+
+# ============================================================
+# HTTP请求
+# ============================================================
+
+def post_json(
+    url: str,
+    payload: dict,
+    timeout: int = 20,
+) -> tuple[int, str]:
+
+    data = json.dumps(
+        payload,
+        ensure_ascii=False,
+    ).encode(
+        "utf-8"
+    )
+
+    request = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            "Content-Type": (
+                "application/json"
+            ),
+        },
+        method="POST",
+    )
+
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return resp.status, resp.read().decode("utf-8", errors="ignore")
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="ignore")
-        return e.code, body
+
+        with urllib.request.urlopen(
+            request,
+            timeout=timeout,
+        ) as response:
+
+            return (
+                response.status,
+                response.read().decode(
+                    "utf-8",
+                    errors="ignore",
+                ),
+            )
+
+    except urllib.error.HTTPError as exc:
+
+        return (
+            exc.code,
+            exc.read().decode(
+                "utf-8",
+                errors="ignore",
+            ),
+        )
+
+    except urllib.error.URLError as exc:
+
+        return (
+            0,
+            str(exc),
+        )
+
+    except Exception as exc:
+
+        return (
+            0,
+            str(exc),
+        )
 
 
-def feishu_post_payload(text: str) -> dict:
-    lines = text.splitlines()
-    title = (lines[0].lstrip("#").strip() if lines else "Job Radar") or "Job Radar"
-    content = []
-    for raw in lines[1:]:
-        line = raw.strip()
-        if not line:
-            content.append([{"tag": "text", "text": "\n"}])
-            continue
-        if line.startswith("## "):
-            content.append([{"tag": "text", "text": line[3:].strip()}])
-            continue
-        if line.startswith("http://") or line.startswith("https://"):
-            content.append([{"tag": "a", "text": "查看链接", "href": line}])
-            continue
-        if "：" in line and "https://" in line:
-            label, href = line.split("：", 1)
-            content.append([
-                {"tag": "text", "text": f"{label}："},
-                {"tag": "a", "text": href, "href": href},
-            ])
-            continue
-        content.append([{"tag": "text", "text": line}])
-    return {"msg_type": "post", "content": {"post": {"zh_cn": {"title": title, "content": content}}}}
+# ============================================================
+# 判断企业微信是否真正发送成功
+# ============================================================
+
+def wecom_success(
+    status: int,
+    body: str,
+) -> bool:
+
+    if not (
+        200
+        <= status
+        < 300
+    ):
+        return False
+
+    try:
+
+        result = json.loads(
+            body
+        )
+
+    except json.JSONDecodeError:
+        return False
+
+    return (
+        result.get(
+            "errcode",
+            -1,
+        )
+        == 0
+    )
 
 
-def payload_for(channel: str, text: str) -> dict:
-    if channel == "wecom":
-        return {"msgtype": "markdown", "markdown": {"content": text}}
-    return feishu_post_payload(text)
+# ============================================================
+# 企业微信payload
+# ============================================================
 
+def payload(
+    text: str,
+) -> dict:
+
+    return {
+        "msgtype": "markdown",
+        "markdown": {
+            "content": text,
+        },
+    }
+
+
+# ============================================================
+# 单个招聘Markdown
+# ============================================================
+
+def job_block(
+    job: dict,
+) -> str:
+
+    return (
+        notify_preview.line(job)
+        + "\n\n"
+    )
+
+
+# ============================================================
+# 根据地区分组
+# ============================================================
+
+def group_by_region(
+    jobs: list[dict],
+) -> dict[str, list[dict]]:
+
+    result = {
+        "浙江": [],
+        "江苏": [],
+        "上海": [],
+        "安徽": [],
+        "其他地区": [],
+    }
+
+    for job in jobs:
+
+        region = (
+            notify_preview.region_name(
+                job
+            )
+        )
+
+        result.setdefault(
+            region,
+            [],
+        ).append(job)
+
+    return result
+
+
+# ============================================================
+# 自动拆分企业微信消息
+# ============================================================
+
+def split_region_batches(
+    region: str,
+    jobs: list[dict],
+    workbench_url: str,
+) -> list[
+    tuple[
+        str,
+        list[dict],
+    ]
+]:
+
+    if not jobs:
+        return []
+
+    raw_batches: list[
+        tuple[
+            str,
+            list[dict],
+        ]
+    ] = []
+
+    current_text = ""
+    current_jobs: list[dict] = []
+
+    # 给标题、链接、批次信息预留空间
+    safe_body_limit = (
+        MAX_MARKDOWN_BYTES
+        - 600
+    )
+
+    for job in jobs:
+
+        block = job_block(job)
+
+        prospective = (
+            current_text
+            + block
+        )
+
+        prospective_size = len(
+            prospective.encode(
+                "utf-8"
+            )
+        )
+
+        if (
+            current_jobs
+            and prospective_size
+            > safe_body_limit
+        ):
+
+            raw_batches.append(
+                (
+                    current_text,
+                    current_jobs,
+                )
+            )
+
+            current_text = ""
+            current_jobs = []
+
+        # 极端情况：
+        # 单个岗位描述自身过长
+        # notify_preview.line本身很短，
+        # 正常不会触发。
+        current_text += block
+
+        current_jobs.append(
+            job
+        )
+
+    if current_jobs:
+
+        raw_batches.append(
+            (
+                current_text,
+                current_jobs,
+            )
+        )
+
+    final_batches: list[
+        tuple[
+            str,
+            list[dict],
+        ]
+    ] = []
+
+    total_parts = len(
+        raw_batches
+    )
+
+    for index, (
+        body,
+        rows,
+    ) in enumerate(
+        raw_batches,
+        start=1,
+    ):
+
+        header = (
+            "# 🎯 江浙沪皖国资招聘雷达\n"
+            f"> 📍 **{region}**"
+            f"｜第 {index}/{total_parts} 批"
+            f"｜本批 {len(rows)} 条\n\n"
+        )
+
+        if workbench_url:
+
+            header += (
+                "[📋 查看完整招聘信息台]"
+                f"({workbench_url})\n\n"
+            )
+
+        text = (
+            header
+            + body
+            + (
+                "> ✅ 已成功推送岗位"
+                "自动去重"
+            )
+        )
+
+        # 再检查一次最终字节大小
+        size = len(
+            text.encode(
+                "utf-8"
+            )
+        )
+
+        if size > MAX_MARKDOWN_BYTES:
+
+            print(
+                "::warning::"
+                f"{region} 第{index}批"
+                f"消息较长：{size} bytes"
+            )
+
+        final_batches.append(
+            (
+                text,
+                rows,
+            )
+        )
+
+    return final_batches
+
+
+# ============================================================
+# 建立全部发送批次
+# ============================================================
+
+def build_batches(
+    selected: list[dict],
+    workbench_url: str,
+) -> list[
+    tuple[
+        str,
+        list[dict],
+    ]
+]:
+
+    grouped = group_by_region(
+        selected
+    )
+
+    batches: list[
+        tuple[
+            str,
+            list[dict],
+        ]
+    ] = []
+
+    # 江浙沪皖永远优先发送
+    for region in (
+        "浙江",
+        "江苏",
+        "上海",
+        "安徽",
+        "其他地区",
+    ):
+
+        region_jobs = grouped.get(
+            region,
+            [],
+        )
+
+        batches.extend(
+            split_region_batches(
+                region,
+                region_jobs,
+                workbench_url,
+            )
+        )
+
+    return batches
+
+
+# ============================================================
+# 主程序
+# ============================================================
 
 def main() -> None:
-    p = argparse.ArgumentParser(description="发送 Job Radar 未推新增摘要。")
-    p.add_argument("--out", default=notify_preview.OUT)
-    p.add_argument("--state", default=notify_preview.STATE)
-    p.add_argument("--limit", type=int, default=8)
-    p.add_argument("--min-focus", type=int, default=120)
-    p.add_argument("--min-match", type=int, default=50)
-    p.add_argument("--since", default="")
-    p.add_argument("--include-existing-due", action="store_true")
-    p.add_argument("--channel", choices=("auto", "feishu", "wecom"), default="auto")
-    p.add_argument("--webhook", default="")
-    p.add_argument("--dry-run", action="store_true")
-    p.add_argument("--no-mark", action="store_true", help="发送成功后不写 notify_state.json")
-    p.add_argument("--workbench-url", default=os.getenv("WORKBENCH_URL", "").strip(),
-                   help="推送中展示的在线工作台链接")
-    args = p.parse_args()
 
-    md, selected = notify_preview.build(
-        limit=args.limit,
-        min_focus=args.min_focus,
-        min_match=args.min_match,
-        mode="new",
-        since=args.since,
-        include_existing_due=args.include_existing_due,
-        state_path=args.state,
-        workbench_url=args.workbench_url,
+    parser = argparse.ArgumentParser(
+        description=(
+            "江浙沪皖国资招聘雷达"
+            "企业微信批量推送"
+        )
     )
-    os.makedirs(os.path.dirname(args.out), exist_ok=True)
-    with open(args.out, "w", encoding="utf-8") as f:
-        f.write(md)
+
+    parser.add_argument(
+        "--out",
+        default=notify_preview.OUT,
+    )
+
+    parser.add_argument(
+        "--state",
+        default=notify_preview.STATE,
+    )
+
+    # 以下参数继续保留，
+    # 避免原GitHub Actions调用时报错。
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+    )
+
+    parser.add_argument(
+        "--min-focus",
+        type=int,
+        default=0,
+    )
+
+    parser.add_argument(
+        "--min-match",
+        type=int,
+        default=0,
+    )
+
+    parser.add_argument(
+        "--since",
+        default="",
+    )
+
+    parser.add_argument(
+        "--include-existing-due",
+        action="store_true",
+    )
+
+    parser.add_argument(
+        "--webhook",
+        default="",
+    )
+
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+    )
+
+    parser.add_argument(
+        "--no-mark",
+        action="store_true",
+    )
+
+    parser.add_argument(
+        "--workbench-url",
+        default=os.getenv(
+            "WORKBENCH_URL",
+            "",
+        ).strip(),
+    )
+
+    args = parser.parse_args()
+
+    # --------------------------------------------------------
+    # 获取全部未推送岗位
+    # --------------------------------------------------------
+
+    markdown_preview, selected = (
+        notify_preview.build(
+            limit=0,
+            min_focus=0,
+            min_match=0,
+            mode="new",
+            since=args.since,
+            include_existing_due=(
+                args.include_existing_due
+            ),
+            state_path=args.state,
+            workbench_url=(
+                args.workbench_url
+            ),
+        )
+    )
+
+    # 保存完整预览
+    os.makedirs(
+        os.path.dirname(args.out),
+        exist_ok=True,
+    )
+
+    with open(
+        args.out,
+        "w",
+        encoding="utf-8",
+    ) as file:
+
+        file.write(
+            markdown_preview
+        )
+
+    # --------------------------------------------------------
+    # 没有新招聘
+    # --------------------------------------------------------
 
     if not selected:
-        print("无未推新增重点岗位，跳过发送。")
+
+        print(
+            "✅ 当前没有未推送的"
+            "新增招聘信息。"
+        )
+
         return
 
-    channel, webhook = (args.channel, args.webhook.strip()) if args.webhook else webhook_from_env()
-    if args.channel != "auto":
-        channel = args.channel
-    if args.dry_run or not webhook:
-        print(f"生成预览但未发送：{args.out}（未配置 webhook 或 dry-run）。")
-        print(f"本次待推 {len(selected)} 条；不会写 {args.state}。")
+    print("=" * 60)
+
+    print(
+        "🎯 江浙沪皖国资招聘雷达"
+    )
+
+    print(
+        f"📦 待推送岗位总数："
+        f"{len(selected)}"
+    )
+
+    # 地区统计
+    grouped = group_by_region(
+        selected
+    )
+
+    for region in (
+        "浙江",
+        "江苏",
+        "上海",
+        "安徽",
+        "其他地区",
+    ):
+
+        print(
+            f"  - {region}: "
+            f"{len(grouped.get(region, []))} 条"
+        )
+
+    # --------------------------------------------------------
+    # Webhook
+    # --------------------------------------------------------
+
+    webhook = (
+        args.webhook.strip()
+        or webhook_from_env()
+    )
+
+    # --------------------------------------------------------
+    # 自动拆分批次
+    # --------------------------------------------------------
+
+    batches = build_batches(
+        selected,
+        args.workbench_url,
+    )
+
+    print(
+        f"📨 自动拆分为 "
+        f"{len(batches)} 条"
+        "企业微信消息"
+    )
+
+    print("=" * 60)
+
+    # --------------------------------------------------------
+    # dry-run
+    # --------------------------------------------------------
+
+    if args.dry_run:
+
+        print(
+            "⚠️ 当前为 dry-run，"
+            "不会真正发送。"
+        )
+
         return
 
-    status, body = post_json(webhook, payload_for(channel or "feishu", md))
-    if status < 200 or status >= 300:
-        print(f"推送失败：HTTP {status} {body}", file=sys.stderr)
+    if not webhook:
+
+        print(
+            "❌ 未找到企业微信Webhook。"
+        )
+
+        print(
+            "请检查GitHub Secret："
+            "WECHAT_WEBHOOK_URL"
+        )
+
         sys.exit(1)
 
-    print(f"推送成功：HTTP {status}")
-    if not args.no_mark:
-        added = notify_preview.mark_pushed(args.state, selected)
-        print(f"已标记 {added} 条为已推送：{args.state}")
+    # --------------------------------------------------------
+    # 开始逐批发送
+    # --------------------------------------------------------
+
+    successful_jobs = 0
+
+    failed_jobs = 0
+
+    successful_batches = 0
+
+    failed_batches = 0
+
+    for index, (
+        text,
+        rows,
+    ) in enumerate(
+        batches,
+        start=1,
+    ):
+
+        message_size = len(
+            text.encode(
+                "utf-8"
+            )
+        )
+
+        region = (
+            notify_preview.region_name(
+                rows[0]
+            )
+            if rows
+            else "未知"
+        )
+
+        print(
+            f"📨 发送第 "
+            f"{index}/{len(batches)} 批"
+        )
+
+        print(
+            f"   地区：{region}"
+        )
+
+        print(
+            f"   岗位：{len(rows)} 条"
+        )
+
+        print(
+            f"   消息大小："
+            f"{message_size} bytes"
+        )
+
+        status, body = post_json(
+            webhook,
+            payload(text),
+        )
+
+        if wecom_success(
+            status,
+            body,
+        ):
+
+            successful_batches += 1
+
+            successful_jobs += len(
+                rows
+            )
+
+            print(
+                f"✅ 第 {index} 批"
+                "发送成功"
+            )
+
+            # 只有真正发送成功后
+            # 才写入去重状态
+            if not args.no_mark:
+
+                added = (
+                    notify_preview.mark_pushed(
+                        args.state,
+                        rows,
+                    )
+                )
+
+                print(
+                    f"✅ 已记录 "
+                    f"{added} 条为已推送"
+                )
+
+        else:
+
+            failed_batches += 1
+
+            failed_jobs += len(
+                rows
+            )
+
+            print(
+                "::warning::"
+                f"第 {index} 批发送失败"
+            )
+
+            print(
+                f"HTTP状态：{status}"
+            )
+
+            print(
+                f"企业微信返回：{body}"
+            )
+
+            print(
+                "⚠️ 本批岗位不会写入"
+                "已推送状态，"
+                "下次会自动重试。"
+            )
+
+        # 避免机器人发送过快
+        if index < len(batches):
+
+            time.sleep(
+                SEND_INTERVAL_SECONDS
+            )
+
+    # --------------------------------------------------------
+    # 最终统计
+    # --------------------------------------------------------
+
+    print("=" * 60)
+
+    print(
+        "📊 推送结果"
+    )
+
+    print(
+        f"✅ 成功批次："
+        f"{successful_batches}"
+    )
+
+    print(
+        f"✅ 成功岗位："
+        f"{successful_jobs}"
+    )
+
+    print(
+        f"⚠️ 失败批次："
+        f"{failed_batches}"
+    )
+
+    print(
+        f"⚠️ 失败岗位："
+        f"{failed_jobs}"
+    )
+
+    print("=" * 60)
+
+    # 全部失败才让Action报错
+    if (
+        batches
+        and successful_batches == 0
+    ):
+
+        print(
+            "❌ 所有企业微信消息"
+            "均发送失败。",
+            file=sys.stderr,
+        )
+
+        sys.exit(1)
+
+    # 部分失败不退出，
+    # 成功的state让后面的Commit data保存；
+    # 失败的下次自动重试。
+    if failed_batches > 0:
+
+        print(
+            "::warning::"
+            "部分消息发送失败。"
+            "失败岗位将在下一次"
+            "自动运行时重新发送。"
+        )
+
+    else:
+
+        print(
+            "🎉 所有招聘信息"
+            "均已成功推送。"
+        )
 
 
 if __name__ == "__main__":
