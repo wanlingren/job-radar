@@ -1,181 +1,119 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""江浙沪皖国资招聘雷达同步计划。
 
+fast: 每天运行，HTML/API 信源 + 自动发现的市县政府门户。
+slow: Playwright 高校就业网等慢源。
+full: fast + slow。
 """
-27届国央企招聘雷达
-================
-
-fast:
-    每日扫描国聘、国资委、央企应届招聘专栏、
-    24365、人社部，以及无需浏览器的高校就业网。
-
-slow:
-    补扫需要 Playwright 的高校就业网。
-
-full:
-    fast + slow。
-
-本版本不再扫描互联网公司、外企、实习僧、牛客等普通招聘源。
-"""
-
 from __future__ import annotations
 
 import argparse
+import csv
 import os
 import sys
 
-sys.path.insert(
-    0,
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT)
 
 from job_radar import sync
-from scripts import export_html
+from scripts import filter_target_jobs, export_target_html
+
+DISCOVERED = os.path.join(ROOT, "config", "discovered_sources.csv")
 
 
-# ==============================
-# 国央企招聘核心信源
-# ==============================
+def _read_csv(path: str) -> list[dict[str, str]]:
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        lines = [ln for ln in f if ln.strip() and not ln.lstrip().startswith("#")]
+    return [{k: (v or "").strip() for k, v in r.items()} for r in csv.DictReader(lines)]
 
-CORE_SOURCE_IDS = {
-    "cn-iguopin",   # 国聘
-    "gov-sasac",    # 国务院国资委
-    "gov-qyzp",     # 中央企业招聘应届高校毕业生信息公开
-    "gov-ncss",     # 国家大学生就业服务平台 24365
-    "gov-mohrss",   # 中国公共招聘网 / 人社部
-}
+
+def _install_merged_sources() -> None:
+    """让 sync.run() 同时读取基础 sources.csv 与自动发现的 discovered_sources.csv。"""
+    base_reader = sync.read_sources
+
+    def merged(path=None):
+        base = base_reader(sync.SOURCES_CSV if path is None else path)
+        if path is not None and path != sync.SOURCES_CSV:
+            return base
+        extra = _read_csv(DISCOVERED)
+        seen = {r.get("source_id") for r in base}
+        base.extend(r for r in extra if r.get("source_id") not in seen)
+        return base
+
+    sync.read_sources = merged  # type: ignore[assignment]
+
+
+_install_merged_sources()
+
+CORE_SOURCE_IDS = {"cn-iguopin", "gov-sasac", "gov-qyzp", "gov-ncss", "gov-mohrss"}
 
 
 def _active_sources() -> list[dict[str, str]]:
-    """读取当前可运行信源。"""
-    return [
-        s
-        for s in sync.read_sources()
-        if s.get("status") in ("active", "unstable")
-    ]
+    return [s for s in sync.read_sources() if s.get("status") in ("active", "unstable")]
 
 
 def _fast_source_ids() -> set[str]:
-    """
-    每日快扫。
-
-    包括：
-    1. 国聘
-    2. 国务院国资委
-    3. 央企应届生招聘专栏
-    4. 24365
-    5. 人社部公共招聘
-    6. 无需 Playwright 的高校就业网
-    7. 已接入且可直接抓取的央国企官方源
-    """
-
     ids = set(CORE_SOURCE_IDS)
-
     for src in _active_sources():
         sid = src.get("source_id", "")
         method = src.get("fetch_method", "")
-        org_type = src.get("org_type", "")
-
-        # 高校就业网
+        # 区域官方源、自动发现市县源、非Playwright高校源、企业官网源
+        if sid.startswith(("reg-", "auto-gov-")) and method != "playwright":
+            ids.add(sid)
         if sid.startswith("edu-") and method != "playwright":
             ids.add(sid)
-
-        # 已接入且正常工作的央国企官方源
-        if org_type == "soe" and method != "playwright":
+        if src.get("org_type") == "soe" and method != "playwright":
             ids.add(sid)
-
     return ids
 
 
 def _slow_source_ids() -> set[str]:
-    """
-    慢源补扫。
-
-    只运行需要 Playwright 的高校就业网
-    和已接入的央国企浏览器源。
-    """
-
     ids: set[str] = set()
-
     for src in _active_sources():
         sid = src.get("source_id", "")
-        method = src.get("fetch_method", "")
-        org_type = src.get("org_type", "")
-
-        if sid.startswith("edu-") and method == "playwright":
+        if src.get("fetch_method") == "playwright" and (
+            sid.startswith(("edu-", "reg-", "auto-gov-")) or src.get("org_type") == "soe"
+        ):
             ids.add(sid)
-
-        if org_type == "soe" and method == "playwright":
-            ids.add(sid)
-
     return ids
 
 
-def _run_sources(label: str, ids: set[str]) -> None:
-    if not ids:
-        raise SystemExit(f"{label}：没有可运行信源")
+def _postprocess() -> None:
+    filter_target_jobs.main()
+    export_target_html.main()
 
-    print("=" * 60)
+
+def _run(label: str, ids: set[str]) -> None:
+    print("=" * 70)
     print(f"🚦 {label}")
     print(f"信源数量：{len(ids)}")
-    print("=" * 60)
-
+    print("=" * 70)
     for sid in sorted(ids):
         print(f"  - {sid}")
-
-    sync.run(
-        only_source_ids=ids,
-        preserve_unselected=True,
-    )
-
-    export_html.main()
+    if ids:
+        sync.run(only_source_ids=ids, preserve_unselected=True)
+    _postprocess()
 
 
 def run_plan(plan: str) -> None:
-
     if plan == "fast":
-        _run_sources(
-            "27届国央企招聘雷达｜每日快扫",
-            _fast_source_ids(),
-        )
-        return
-
-    if plan == "slow":
-        _run_sources(
-            "27届国央企招聘雷达｜高校就业网补扫",
-            _slow_source_ids(),
-        )
-        return
-
-    if plan == "full":
-        ids = _fast_source_ids() | _slow_source_ids()
-
-        _run_sources(
-            "27届国央企招聘雷达｜完整扫描",
-            ids,
-        )
-        return
-
-    raise SystemExit(f"未知扫描计划：{plan}")
+        _run("江浙沪皖国资招聘雷达｜每日快扫", _fast_source_ids())
+    elif plan == "slow":
+        _run("江浙沪皖国资招聘雷达｜慢源补扫", _slow_source_ids())
+    elif plan == "full":
+        _run("江浙沪皖国资招聘雷达｜完整扫描", _fast_source_ids() | _slow_source_ids())
+    else:
+        raise SystemExit(f"未知计划：{plan}")
 
 
 def main() -> None:
-
-    parser = argparse.ArgumentParser(
-        description="27届国央企招聘雷达"
-    )
-
-    parser.add_argument(
-        "plan",
-        choices=[
-            "fast",
-            "slow",
-            "full",
-        ],
-    )
-
-    args = parser.parse_args()
-
-    run_plan(args.plan)
+    p = argparse.ArgumentParser()
+    p.add_argument("plan", choices=["fast", "slow", "full"])
+    a = p.parse_args()
+    run_plan(a.plan)
 
 
 if __name__ == "__main__":
