@@ -126,7 +126,7 @@ def is_government_official_source(job: dict) -> bool:
     sid = clean(job.get("source_id"))
     ext = extra(job)
     # reg-/auto-gov- 是我们维护/自动发现的政府官方源
-    if sid.startswith(("reg-gov-", "reg-sasac-", "reg-hrss-", "auto-gov-")):
+    if sid.startswith(("reg-gov-", "reg-sasac-", "reg-hrss-", "auto-gov-", "auto-hrss-", "auto-sasac-", "auto-job-")):
         return True
     if ext.get("mode") == "government" and region_name(job) in CORE_REGIONS:
         return True
@@ -136,7 +136,7 @@ def is_government_official_source(job: dict) -> bool:
 def is_university_source(job: dict) -> bool:
     sid = clean(job.get("source_id"))
     ext = extra(job)
-    return sid.startswith("edu-") or ext.get("mode") == "career"
+    return sid.startswith(("edu-", "auto-edu-")) or ext.get("mode") == "career"
 
 
 def is_target_job(job: dict) -> bool:
@@ -179,7 +179,7 @@ def recruitment_kind(job: dict) -> str:
 def source_tier(job: dict) -> str:
     sid = clean(job.get("source_id"))
     ext = extra(job)
-    if sid.startswith(("reg-gov-", "reg-sasac-", "reg-hrss-", "auto-gov-")) or sid in CENTRAL_SOURCE_IDS:
+    if sid.startswith(("reg-gov-", "reg-sasac-", "reg-hrss-", "auto-gov-", "auto-hrss-", "auto-sasac-", "auto-job-")) or sid in CENTRAL_SOURCE_IDS:
         return "★★★★★ 官方政府/国资"
     if ext.get("mode") == "company" or clean(job.get("org_type")).lower() == "soe":
         return "★★★★★ 企业官网"

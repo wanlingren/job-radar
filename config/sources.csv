@@ -33,3 +33,9 @@ edu-fudan,复旦大学就业网,research,public_notice,uni_spa,https://career.fu
 edu-sjtu,上海交通大学就业网,research,public_notice,sjtu,https://www.job.sjtu.edu.cn/,1,playwright,no,上海,720,active,重点高校校招补漏
 edu-tongji,同济大学就业网,research,public_notice,regional_spa,http://tj91.tongji.edu.cn/||上海||同济大学就业网||career,1,playwright,no,上海,720,active,工程类央国企校招重点
 edu-ecust,华东理工大学就业网,research,public_notice,regional_notice,https://career.ecust.edu.cn/||上海||华东理工大学就业网||career,2,html,no,上海,720,active,材料化工央国企补漏
+
+# ===== V2.1新增：官方公共就业/高校就业补漏 =====
+reg-job-sh,上海公共就业招聘新平台,public_institution,official,regional_spa,https://jobs.rsj.sh.gov.cn/||上海||上海公共就业招聘新平台||government,1,playwright,no,上海,360,active,上海市人社部门官方公共就业招聘平台
+edu-cjlu,中国计量大学就业网,research,public_notice,regional_notice,https://jyb.cjlu.edu.cn/campus||浙江·杭州||中国计量大学就业网||career,1,html,no,浙江·杭州,720,active,招聘公告含国企和事业单位补漏
+edu-ecnu,华东师范大学就业网,research,public_notice,regional_notice,https://career.ecnu.edu.cn/career/index||上海||华东师范大学就业网||career,1,html,no,上海,720,active,上海高校就业网补漏
+edu-shu,上海大学就业服务网,research,public_notice,regional_notice,https://zbb.shu.edu.cn/||上海||上海大学就业服务网||career,1,html,no,上海,720,active,招聘信息与招聘日历补漏

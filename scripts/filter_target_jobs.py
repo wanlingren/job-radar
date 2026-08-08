@@ -34,13 +34,13 @@ def _semantic(job: dict) -> str:
 
 def _source_score(job: dict) -> int:
     sid = clean(job.get("source_id"))
-    if sid.startswith(("reg-sasac-", "reg-gov-", "reg-hrss-", "auto-gov-")):
+    if sid.startswith(("reg-sasac-", "reg-gov-", "reg-hrss-", "auto-gov-", "auto-hrss-", "auto-sasac-", "auto-job-")):
         return 100
     if sid in {"gov-sasac", "gov-qyzp"}:
         return 98
     if clean(job.get("org_type")).lower() == "soe":
         return 95
-    if sid.startswith("edu-"):
+    if sid.startswith(("edu-", "auto-edu-")):
         return 80
     if sid in {"cn-iguopin", "gov-ncss", "gov-mohrss"}:
         return 75
