@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 """
-27届国央企招聘雷达 - 企业微信推送预览
+江浙沪皖国资招聘雷达 - 招聘筛选与推送预览
 
-目标：
-1. 只保留央企 / 国企 / 省属国企 / 地方国企
-2. 重点识别 2027届、27届、校园招聘、秋招、提前批、应届毕业生
-3. 不再过滤机械、材料、电气、设备、工艺等岗位
-4. 自动过滤已经推送过的招聘
-5. 自动过滤已截止岗位
-6. 企业微信按央企 / 省属国企 / 地方国企分类推送
+主要目标：
+1. 全国央企、国企招聘保留；
+2. 浙江、江苏、上海、安徽招聘优先；
+3. 不再只限制“2027届”；
+4. 27届校招、普通校招、国企公开招聘、国企社招全部保留；
+5. 江浙沪皖事业单位、编外招聘作为补充频道保留；
+6. 不再限制只推8条；
+7. 不再限制同一家企业最多2条；
+8. 只要没有成功推送过，就一直保留在待推送队列；
+9. 已截止岗位自动过滤；
+10. 自动去重。
 """
 
 from __future__ import annotations
@@ -19,73 +24,63 @@ import datetime as dt
 import json
 import os
 import re
-from collections import Counter
 from zoneinfo import ZoneInfo
 
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT, "data")
+# ============================================================
+# 基础路径
+# ============================================================
 
-JOBS = os.path.join(DATA_DIR, "jobs.json")
-OUT = os.path.join(DATA_DIR, "notify_preview.md")
-STATE = os.path.join(DATA_DIR, "notify_state.json")
+ROOT = os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__))
+)
 
-DEFAULT_WORKBENCH_URL = os.getenv("WORKBENCH_URL", "").strip()
+DATA_DIR = os.path.join(
+    ROOT,
+    "data",
+)
+
+JOBS = os.path.join(
+    DATA_DIR,
+    "jobs.json",
+)
+
+OUT = os.path.join(
+    DATA_DIR,
+    "notify_preview.md",
+)
+
+STATE = os.path.join(
+    DATA_DIR,
+    "notify_state.json",
+)
+
+DEFAULT_WORKBENCH_URL = os.getenv(
+    "WORKBENCH_URL",
+    "",
+).strip()
 
 TZ = ZoneInfo("Asia/Shanghai")
 
 
 # ============================================================
-# 1. 央国企信源
+# 国家级核心招聘来源
 # ============================================================
 
-# 这两个来源本身就是央企官方/国家央企招聘专栏，可直接认为是央企来源
 CENTRAL_OFFICIAL_SOURCES = {
-    "gov-sasac",
-    "gov-qyzp",
+    "gov-sasac",   # 国务院国资委
+    "gov-qyzp",    # 中央企业应届高校毕业生招聘
 }
 
 
 # ============================================================
-# 2. 央企关键词
+# 全国重点央企关键词
 # ============================================================
 
 CENTRAL_SOE_KEYWORDS = (
+    # 电力
     "国家电网",
     "南方电网",
-
-    "中国核工业",
-    "中核集团",
-    "中核",
-
-    "中国航天科技",
-    "航天科技",
-    "中国航天科工",
-    "航天科工",
-
-    "航空工业",
-    "中国航空工业",
-    "中国航发",
-
-    "中国船舶",
-    "中国兵器工业",
-    "中国兵器装备",
-
-    "中国电子科技",
-    "中国电科",
-    "中电科",
-    "中国电子",
-
-    "中国石油",
-    "中石油",
-    "中国石化",
-    "中石化",
-    "中国海油",
-    "中海油",
-    "国家管网",
-
-    "国家能源集团",
-    "国家能源",
     "中国华能",
     "华能集团",
     "中国大唐",
@@ -94,83 +89,246 @@ CENTRAL_SOE_KEYWORDS = (
     "华电集团",
     "国家电投",
     "三峡集团",
+    "国家能源集团",
+    "国家能源",
 
+    # 石油能源
+    "中国石油",
+    "中石油",
+    "中国石化",
+    "中石化",
+    "中国海油",
+    "中海油",
+    "国家管网",
+    "中国中煤",
+
+    # 核工业
+    "中国核工业",
+    "中核集团",
+    "中核",
+    "中广核",
+
+    # 军工
+    "中国航天科技",
+    "航天科技",
+    "中国航天科工",
+    "航天科工",
+    "航空工业",
+    "中国航空工业",
+    "中国航发",
+    "中国船舶",
+    "中国兵器工业",
+    "中国兵器装备",
+    "中国电子科技",
+    "中国电科",
+    "中电科",
+    "中国电子",
+
+    # 通信
     "中国移动",
     "中国电信",
     "中国联通",
 
+    # 汽车交通
     "中国一汽",
     "东风汽车集团",
     "中国中车",
-
-    "中国宝武",
-    "鞍钢集团",
-    "中国铝业",
-
-    "中国远洋海运",
-    "招商局集团",
-    "华润集团",
-    "中信集团",
-
     "中国商飞",
-    "中国邮政",
-    "中国中煤",
 
-    "中国建材",
+    # 建筑交通基建
     "中国建筑",
     "中建集团",
     "中国中铁",
     "中国铁建",
     "中国交建",
-
     "中国能建",
     "中国电建",
-
-    "中粮集团",
-    "中国五矿",
     "中国化学",
+
+    # 金属材料
+    "中国宝武",
+    "鞍钢集团",
+    "中国铝业",
+    "中国五矿",
+    "中国建材",
+
+    # 综合央企
+    "招商局集团",
+    "华润集团",
+    "中信集团",
     "国投集团",
     "国家开发投资集团",
-    "中广核",
+    "中粮集团",
+    "中国邮政",
+    "中国远洋海运",
 )
 
 
 # ============================================================
-# 3. 招聘类型关键词
+# 招聘类型关键词
 # ============================================================
 
 COHORT_2027 = re.compile(
-    r"2027\s*届|27\s*届|2027校招|2027校园招聘|2027秋招",
+    r"2027\s*届|"
+    r"27\s*届|"
+    r"2027\s*校招|"
+    r"2027\s*校园招聘|"
+    r"2027\s*秋招|"
+    r"2027\s*届校园招聘",
     re.I,
 )
+
 
 CAMPUS_RE = re.compile(
-    r"校园招聘|校招|秋招|春招|提前批|应届生|应届毕业生|"
-    r"高校毕业生|毕业生招聘|管培生|管理培训生",
+    r"校园招聘|"
+    r"校招|"
+    r"秋招|"
+    r"春招|"
+    r"提前批|"
+    r"应届生|"
+    r"应届毕业生|"
+    r"高校毕业生|"
+    r"毕业生招聘|"
+    r"管培生|"
+    r"管理培训生",
     re.I,
 )
+
 
 SOCIAL_RE = re.compile(
-    r"社会招聘|社招|社会人员招聘",
+    r"社会招聘|"
+    r"社招|"
+    r"社会人员招聘",
     re.I,
 )
+
 
 STATE_OWNED_RE = re.compile(
-    r"央企|中央企业|国有企业|国企|国有控股|"
-    r"省属企业|省属国企|市属企业|市属国企|地方国企",
+    r"央企|"
+    r"中央企业|"
+    r"国有企业|"
+    r"国企|"
+    r"国有独资|"
+    r"国有全资|"
+    r"国有控股|"
+    r"国资控股|"
+    r"省属企业|"
+    r"省属国企|"
+    r"市属企业|"
+    r"市属国企|"
+    r"区属国企|"
+    r"地方国企",
     re.I,
 )
+
 
 PROVINCIAL_RE = re.compile(
-    r"省属国企|省属企业|省国资委|省属重点企业",
+    r"省属国企|"
+    r"省属企业|"
+    r"省国资委|"
+    r"省属重点企业",
     re.I,
 )
 
+
 LOCAL_RE = re.compile(
-    r"市属国企|市属企业|市国资委|区属国企|"
-    r"城投集团|交投集团|产投集团",
+    r"市属国企|"
+    r"市属企业|"
+    r"市国资委|"
+    r"区属国企|"
+    r"区国资委|"
+    r"城投集团|"
+    r"交投集团|"
+    r"产投集团|"
+    r"文旅集团|"
+    r"水务集团|"
+    r"轨道集团|"
+    r"公交集团",
     re.I,
 )
+
+
+# ============================================================
+# 江浙沪皖事业单位、编外招聘
+# ============================================================
+
+PUBLIC_SECTOR_RE = re.compile(
+    r"事业单位|"
+    r"直属事业单位|"
+    r"公益一类|"
+    r"公益二类|"
+    r"编外|"
+    r"劳务派遣|"
+    r"政府雇员|"
+    r"机关事业|"
+    r"工作人员公开招聘|"
+    r"公开招聘工作人员",
+    re.I,
+)
+
+
+# ============================================================
+# 江浙沪皖地区关键词
+# ============================================================
+
+REGION_KEYWORDS = {
+
+    "浙江": (
+        "浙江",
+        "杭州",
+        "宁波",
+        "温州",
+        "嘉兴",
+        "湖州",
+        "绍兴",
+        "金华",
+        "衢州",
+        "舟山",
+        "台州",
+        "丽水",
+    ),
+
+    "江苏": (
+        "江苏",
+        "南京",
+        "苏州",
+        "无锡",
+        "常州",
+        "南通",
+        "扬州",
+        "镇江",
+        "泰州",
+        "徐州",
+        "盐城",
+        "淮安",
+        "连云港",
+        "宿迁",
+    ),
+
+    "上海": (
+        "上海",
+    ),
+
+    "安徽": (
+        "安徽",
+        "合肥",
+        "芜湖",
+        "马鞍山",
+        "滁州",
+        "宣城",
+        "铜陵",
+        "池州",
+        "安庆",
+        "黄山",
+        "六安",
+        "淮南",
+        "淮北",
+        "宿州",
+        "蚌埠",
+        "阜阳",
+        "亳州",
+    ),
+}
 
 
 # ============================================================
@@ -181,17 +339,21 @@ def today() -> dt.date:
     return dt.datetime.now(TZ).date()
 
 
-def tags(job: dict) -> set[str]:
-    return set(job.get("tags") or [])
+def clean(value) -> str:
+    return re.sub(
+        r"\s+",
+        " ",
+        str(value or ""),
+    ).strip()
 
 
 def extra(job: dict) -> dict:
     value = job.get("extra")
-    return value if isinstance(value, dict) else {}
 
+    if isinstance(value, dict):
+        return value
 
-def clean(value) -> str:
-    return re.sub(r"\s+", " ", str(value or "")).strip()
+    return {}
 
 
 def job_text(job: dict) -> str:
@@ -201,164 +363,302 @@ def job_text(job: dict) -> str:
         job.get("company_name"),
         job.get("title"),
         job.get("jd_text"),
+        job.get("location"),
         job.get("org_type"),
         job.get("job_type"),
         " ".join(job.get("tags") or []),
         ext.get("nature"),
+        ext.get("nature_cn"),
         ext.get("recruitment_type"),
         ext.get("category"),
+        ext.get("company_type"),
     ]
 
-    return " ".join(clean(v) for v in values if v).lower()
+    return " ".join(
+        clean(v)
+        for v in values
+        if v
+    ).lower()
 
 
 def clean_title(job: dict) -> str:
-    title = clean(job.get("title"))
-    company = clean(job.get("company_name"))
+    title = clean(
+        job.get("title")
+    )
+
+    company = clean(
+        job.get("company_name")
+    )
 
     if company and title.startswith(company):
-        title = title[len(company):].strip(" -—·:：、，,")
-
-    return title or company or "招聘公告"
-
-
-def job_key(job: dict) -> str:
-    """
-    优先使用项目本身的 dedup_key。
-    """
-    return clean(
-        job.get("dedup_key")
-        or job.get("job_id")
-        or job.get("official_url")
-        or (
-            f"{job.get('source_id', '')}|"
-            f"{job.get('company_name', '')}|"
-            f"{job.get('title', '')}"
+        title = title[
+            len(company):
+        ].strip(
+            " -—·:：、，,"
         )
+
+    return (
+        title
+        or company
+        or "招聘公告"
     )
 
 
 def first_seen_day(job: dict) -> str:
-    return clean(job.get("first_seen"))[:10]
+    return clean(
+        job.get("first_seen")
+    )[:10]
 
 
 def publish_day(job: dict) -> str:
-    return clean(job.get("publish_time"))[:10]
+    return clean(
+        job.get("publish_time")
+    )[:10]
 
 
-def parse_date(value: str) -> dt.date | None:
+def parse_date(
+    value: str,
+) -> dt.date | None:
+
     value = clean(value)
 
-    if len(value) < 10:
+    if not value:
         return None
 
-    try:
-        return dt.date.fromisoformat(value[:10])
-    except ValueError:
-        return None
+    # ISO日期
+    match = re.search(
+        r"20\d{2}-\d{1,2}-\d{1,2}",
+        value,
+    )
+
+    if match:
+        try:
+            return dt.date.fromisoformat(
+                match.group(0)
+            )
+        except ValueError:
+            pass
+
+    # 中文日期
+    match = re.search(
+        r"(20\d{2})年"
+        r"(\d{1,2})月"
+        r"(\d{1,2})日",
+        value,
+    )
+
+    if match:
+        try:
+            return dt.date(
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3)),
+            )
+        except ValueError:
+            pass
+
+    return None
 
 
 def is_expired(job: dict) -> bool:
-    d = parse_date(job.get("deadline", ""))
+    deadline = parse_date(
+        job.get(
+            "deadline",
+            "",
+        )
+    )
 
-    if d is None:
+    if deadline is None:
         return False
 
-    return d < today()
+    return deadline < today()
 
 
 # ============================================================
-# 判断是不是央国企
+# 地区识别
+# ============================================================
+
+def region_name(job: dict) -> str:
+
+    ext = extra(job)
+
+    text = " ".join([
+        clean(job.get("location")),
+        clean(job.get("company_name")),
+        clean(job.get("title")),
+        clean(job.get("jd_text")),
+        clean(ext.get("province")),
+        clean(ext.get("city")),
+    ])
+
+    for region, keywords in REGION_KEYWORDS.items():
+
+        if any(
+            keyword in text
+            for keyword in keywords
+        ):
+            return region
+
+    return "其他地区"
+
+
+def is_core_region(job: dict) -> bool:
+    return region_name(job) in {
+        "浙江",
+        "江苏",
+        "上海",
+        "安徽",
+    }
+
+
+# ============================================================
+# 判断央国企
 # ============================================================
 
 def is_state_owned(job: dict) -> bool:
 
-    sid = clean(job.get("source_id"))
-    org_type = clean(job.get("org_type")).lower()
-    company = clean(job.get("company_name"))
+    sid = clean(
+        job.get("source_id")
+    )
+
+    org_type = clean(
+        job.get("org_type")
+    ).lower()
+
+    company = clean(
+        job.get("company_name")
+    )
+
     hay = job_text(job)
 
-    # 国资委、中央企业应届毕业生招聘专栏
+    # 国务院国资委、央企招聘专栏
     if sid in CENTRAL_OFFICIAL_SOURCES:
         return True
 
-    # 企业官网信源明确标记为 soe
-    if org_type == "soe":
+    # source明确标记为国企
+    if org_type in {
+        "soe",
+        "state-owned",
+        "state_owned",
+        "stateowned",
+    }:
         return True
 
-    # 数据中直接标明企业性质
+    # 数据中标注国企性质
     if STATE_OWNED_RE.search(hay):
         return True
 
     # 已知央企集团
-    if any(k in company for k in CENTRAL_SOE_KEYWORDS):
+    if any(
+        keyword in company
+        for keyword in CENTRAL_SOE_KEYWORDS
+    ):
         return True
 
     return False
 
 
 # ============================================================
-# 判断是不是 27 届 / 校招
+# 江浙沪皖事业单位/编外补充
 # ============================================================
 
-def is_2027_recruitment(job: dict) -> bool:
+def is_public_supplement(
+    job: dict,
+) -> bool:
 
-    hay = job_text(job)
-    sid = clean(job.get("source_id"))
-    job_type = clean(job.get("job_type")).lower()
-
-    # 明确写 2027 届
-    if COHORT_2027.search(hay):
-        return True
-
-    # 明确社招，并且没有任何校园招聘信息
-    if SOCIAL_RE.search(hay) and not CAMPUS_RE.search(hay):
+    if not is_core_region(job):
         return False
 
-    # 人社部央企应届毕业生专栏
-    if sid == "gov-qyzp":
-        return True
-
-    # 项目已经识别为 campus
-    campus_signal = (
-        job_type == "campus"
-        or bool(CAMPUS_RE.search(hay))
+    return bool(
+        PUBLIC_SECTOR_RE.search(
+            job_text(job)
+        )
     )
 
-    if not campus_signal:
-        return False
 
-    # 2026年7月以后出现的秋招/校园招聘，
-    # 在当前周期主要对应 2027 届
-    pub = parse_date(job.get("publish_time", ""))
+# ============================================================
+# 目标招聘判断
+# ============================================================
 
-    if pub and pub >= dt.date(2026, 7, 1):
+def is_target_job(job: dict) -> bool:
+
+    # 全国国央企招聘全部保留
+    if is_state_owned(job):
         return True
 
-    # 有些高校就业网不给发布日期。
-    # 如果是本次新抓到的校园招聘，也予以保留。
-    fs = parse_date(job.get("first_seen", ""))
-
-    if fs and fs >= dt.date(2026, 7, 1):
+    # 江浙沪皖事业单位/编外作为补充
+    if is_public_supplement(job):
         return True
 
     return False
 
 
 # ============================================================
-# 企业级别分类
+# 招聘类型
 # ============================================================
 
-def enterprise_level(job: dict) -> str:
+def recruitment_kind(
+    job: dict,
+) -> str:
 
-    sid = clean(job.get("source_id"))
-    company = clean(job.get("company_name"))
+    hay = job_text(job)
+
+    # 第一优先级：2027届
+    if COHORT_2027.search(hay):
+        return "⭐27届校园招聘"
+
+    # 普通校园招聘
+    if CAMPUS_RE.search(hay):
+        return "🟦校园招聘/应届生"
+
+    # 事业单位/编外
+    if is_public_supplement(job):
+
+        if re.search(
+            r"编外|劳务派遣|政府雇员",
+            hay,
+            re.I,
+        ):
+            return "🟪事业单位/编外"
+
+        return "🟩事业单位招聘"
+
+    # 国企社招
+    if SOCIAL_RE.search(hay):
+        return "🟧国企社会招聘"
+
+    # 其余国企公告
+    return "🟨国企公开招聘"
+
+
+# ============================================================
+# 企业级别
+# ============================================================
+
+def enterprise_level(
+    job: dict,
+) -> str:
+
+    if is_public_supplement(job) and not is_state_owned(job):
+        return "事业单位/编外"
+
+    sid = clean(
+        job.get("source_id")
+    )
+
+    company = clean(
+        job.get("company_name")
+    )
+
     hay = job_text(job)
 
     if sid in CENTRAL_OFFICIAL_SOURCES:
         return "央企"
 
-    if any(k in company for k in CENTRAL_SOE_KEYWORDS):
+    if any(
+        keyword in company
+        for keyword in CENTRAL_SOE_KEYWORDS
+    ):
         return "央企"
 
     if PROVINCIAL_RE.search(hay):
@@ -375,47 +675,73 @@ def enterprise_level(job: dict) -> str:
 # ============================================================
 
 def location_text(job: dict) -> str:
-    loc = clean(job.get("location"))
-    return loc or "地区见公告"
+
+    location = clean(
+        job.get("location")
+    )
+
+    return (
+        location
+        or region_name(job)
+        or "地区见公告"
+    )
 
 
 def deadline_text(job: dict) -> str:
 
-    raw = clean(job.get("deadline"))
+    raw = clean(
+        job.get("deadline")
+    )
 
     if not raw:
         return "截止时间见公告"
 
-    d = parse_date(raw)
+    deadline = parse_date(raw)
 
-    if d is None:
+    if deadline is None:
         return raw
 
-    left = (d - today()).days
+    left = (
+        deadline
+        - today()
+    ).days
 
     if left == 0:
-        return f"{d.isoformat()}（今天截止）"
+        return (
+            f"{deadline.isoformat()}"
+            "（今天截止）"
+        )
 
     if 0 < left <= 7:
-        return f"{d.isoformat()}（剩{left}天）"
+        return (
+            f"{deadline.isoformat()}"
+            f"（剩{left}天）"
+        )
 
-    return d.isoformat()
+    return deadline.isoformat()
 
 
 def publish_text(job: dict) -> str:
-    return publish_day(job) or first_seen_day(job) or "日期见公告"
+
+    return (
+        publish_day(job)
+        or first_seen_day(job)
+        or "日期见公告"
+    )
 
 
 def source_name(job: dict) -> str:
 
-    sid = clean(job.get("source_id"))
+    sid = clean(
+        job.get("source_id")
+    )
 
     mapping = {
         "cn-iguopin": "国聘",
         "gov-sasac": "国务院国资委",
-        "gov-qyzp": "央企应届招聘专栏",
+        "gov-qyzp": "央企招聘专栏",
         "gov-ncss": "国家24365",
-        "gov-mohrss": "人社部",
+        "gov-mohrss": "人社部/公共招聘",
     }
 
     if sid in mapping:
@@ -424,27 +750,103 @@ def source_name(job: dict) -> str:
     if sid.startswith("edu-"):
         return "高校就业网"
 
-    return "企业官网"
+    if sid.startswith("gov-"):
+        return "政府官方网站"
+
+    if sid:
+        return sid
+
+    return "招聘来源"
 
 
 def line(job: dict) -> str:
 
-    company = clean(job.get("company_name")) or "未知企业"
+    company = clean(
+        job.get("company_name")
+    ) or "未知单位"
+
     title = clean_title(job)
-    loc = location_text(job)
+
+    location = location_text(job)
+
     deadline = deadline_text(job)
-    pub = publish_text(job)
+
+    publish = publish_text(job)
+
     source = source_name(job)
-    url = clean(job.get("official_url"))
+
+    kind = recruitment_kind(job)
+
+    url = clean(
+        job.get("official_url")
+    )
+
+    if not url:
+        url = clean(
+            job.get("url")
+        )
 
     if url:
-        head = f"- [{company}｜{title}]({url})"
+        head = (
+            f"- [{company}｜{title}]"
+            f"({url})"
+        )
     else:
-        head = f"- {company}｜{title}"
+        head = (
+            f"- {company}｜{title}"
+        )
 
     return (
         f"{head}\n"
-        f"  地区：{loc}｜发布：{pub}｜截止：{deadline}｜来源：{source}"
+        f"> {kind}｜地区：{location}\n"
+        f"> 发布：{publish}｜"
+        f"截止：{deadline}｜"
+        f"来源：{source}"
+    )
+
+
+# ============================================================
+# 去重KEY
+# ============================================================
+
+def job_key(job: dict) -> str:
+
+    # 保留原项目key，避免之前已经推送的8条重新发送
+    return clean(
+        job.get("dedup_key")
+        or job.get("job_id")
+        or job.get("official_url")
+        or job.get("url")
+        or (
+            f"{job.get('source_id', '')}|"
+            f"{job.get('company_name', '')}|"
+            f"{job.get('title', '')}"
+        )
+    )
+
+
+def semantic_key(job: dict) -> str:
+    """
+    第二层语义去重。
+    用于不同网站重复发布同一条公告。
+    """
+
+    company = clean(
+        job.get("company_name")
+    ).lower()
+
+    title = clean_title(
+        job
+    ).lower()
+
+    location = clean(
+        job.get("location")
+    ).lower()
+
+    return (
+        f"{company}|"
+        f"{title}|"
+        f"{location}"
     )
 
 
@@ -454,45 +856,100 @@ def line(job: dict) -> str:
 
 def load_state(path: str) -> dict:
 
-    if not path or not os.path.exists(path):
-        return {
-            "version": 1,
-            "pushed_keys": {},
-        }
+    default = {
+        "version": 2,
+        "pushed_keys": {},
+        "semantic_keys": {},
+    }
+
+    if (
+        not path
+        or not os.path.exists(path)
+    ):
+        return default
 
     try:
-        with open(path, encoding="utf-8") as f:
+        with open(
+            path,
+            encoding="utf-8",
+        ) as f:
             state = json.load(f)
-    except (OSError, ValueError):
-        return {
-            "version": 1,
-            "pushed_keys": {},
-        }
 
-    if not isinstance(state.get("pushed_keys"), dict):
+    except (
+        OSError,
+        ValueError,
+        json.JSONDecodeError,
+    ):
+        return default
+
+    if not isinstance(
+        state.get("pushed_keys"),
+        dict,
+    ):
         state["pushed_keys"] = {}
 
-    state.setdefault("version", 1)
+    if not isinstance(
+        state.get("semantic_keys"),
+        dict,
+    ):
+        state["semantic_keys"] = {}
+
+    state["version"] = 2
 
     return state
 
 
-def is_pushed(job: dict, state: dict) -> bool:
+def is_pushed(
+    job: dict,
+    state: dict,
+) -> bool:
 
     key = job_key(job)
 
-    return bool(
-        key
-        and key in state.get("pushed_keys", {})
+    semantic = semantic_key(job)
+
+    pushed = state.get(
+        "pushed_keys",
+        {},
     )
 
+    semantic_pushed = state.get(
+        "semantic_keys",
+        {},
+    )
 
-def mark_pushed(path: str, jobs: list[dict]) -> int:
+    if key and key in pushed:
+        return True
+
+    if (
+        semantic
+        and semantic in semantic_pushed
+    ):
+        return True
+
+    return False
+
+
+def mark_pushed(
+    path: str,
+    jobs: list[dict],
+) -> int:
 
     state = load_state(path)
-    pushed = state.setdefault("pushed_keys", {})
 
-    now = dt.datetime.now(dt.timezone.utc).isoformat()
+    pushed = state.setdefault(
+        "pushed_keys",
+        {},
+    )
+
+    semantic_pushed = state.setdefault(
+        "semantic_keys",
+        {},
+    )
+
+    now = dt.datetime.now(
+        dt.timezone.utc
+    ).isoformat()
 
     added = 0
 
@@ -500,43 +957,78 @@ def mark_pushed(path: str, jobs: list[dict]) -> int:
 
         key = job_key(job)
 
-        if not key or key in pushed:
-            continue
+        semantic = semantic_key(job)
 
-        pushed[key] = {
+        info = {
             "pushed_at": now,
-            "first_seen": job.get("first_seen") or "",
-            "company": job.get("company_name") or "",
+            "first_seen": (
+                job.get("first_seen")
+                or ""
+            ),
+            "company": (
+                job.get("company_name")
+                or ""
+            ),
             "title": clean_title(job),
-            "source_id": job.get("source_id") or "",
+            "source_id": (
+                job.get("source_id")
+                or ""
+            ),
+            "region": region_name(job),
+            "kind": recruitment_kind(job),
         }
 
-        added += 1
+        if key and key not in pushed:
+            pushed[key] = info
+            added += 1
 
-    state["last_marked_at"] = now
-    state["last_marked_count"] = added
+        if semantic:
+            semantic_pushed[
+                semantic
+            ] = now
 
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    state[
+        "last_marked_at"
+    ] = now
 
-    with open(path, "w", encoding="utf-8") as f:
+    state[
+        "last_marked_count"
+    ] = added
+
+    os.makedirs(
+        os.path.dirname(path),
+        exist_ok=True,
+    )
+
+    with open(
+        path,
+        "w",
+        encoding="utf-8",
+    ) as f:
+
         json.dump(
             state,
             f,
             ensure_ascii=False,
             indent=2,
         )
+
         f.write("\n")
 
     return added
 
 
 # ============================================================
-# 排序
+# 来源优先级
 # ============================================================
 
-def source_score(job: dict) -> int:
+def source_score(
+    job: dict,
+) -> int:
 
-    sid = clean(job.get("source_id"))
+    sid = clean(
+        job.get("source_id")
+    )
 
     if sid == "gov-sasac":
         return 100
@@ -544,17 +1036,22 @@ def source_score(job: dict) -> int:
     if sid == "gov-qyzp":
         return 98
 
-    if clean(job.get("org_type")).lower() == "soe":
-        return 95
+    if clean(
+        job.get("org_type")
+    ).lower() == "soe":
+        return 96
+
+    if sid.startswith("gov-"):
+        return 94
 
     if sid == "cn-iguopin":
         return 90
 
     if sid == "gov-ncss":
-        return 85
+        return 88
 
     if sid == "gov-mohrss":
-        return 82
+        return 86
 
     if sid.startswith("edu-"):
         return 75
@@ -562,60 +1059,123 @@ def source_score(job: dict) -> int:
     return 70
 
 
-def sort_key(job: dict):
+# ============================================================
+# 排序
+# ============================================================
 
-    deadline = parse_date(job.get("deadline", ""))
+def priority_sort_key(
+    job: dict,
+):
+
+    region_score = {
+        "浙江": 100,
+        "江苏": 100,
+        "上海": 100,
+        "安徽": 100,
+        "其他地区": 20,
+    }
+
+    kind_score = {
+        "⭐27届校园招聘": 100,
+        "🟦校园招聘/应届生": 90,
+        "🟨国企公开招聘": 80,
+        "🟧国企社会招聘": 70,
+        "🟩事业单位招聘": 60,
+        "🟪事业单位/编外": 50,
+    }
+
+    deadline = parse_date(
+        job.get(
+            "deadline",
+            "",
+        )
+    )
 
     urgent = 0
 
     if deadline:
-        left = (deadline - today()).days
+        left = (
+            deadline
+            - today()
+        ).days
 
-        if 0 <= left <= 7:
-            urgent = 1
+        if 0 <= left <= 3:
+            urgent = 30
+        elif 4 <= left <= 7:
+            urgent = 20
+        elif 8 <= left <= 14:
+            urgent = 10
 
     return (
-        first_seen_day(job),
-        publish_day(job),
+        region_score.get(
+            region_name(job),
+            0,
+        ),
+        kind_score.get(
+            recruitment_kind(job),
+            0,
+        ),
         urgent,
+        publish_day(job),
+        first_seen_day(job),
         source_score(job),
     )
 
 
-def pick_rows(rows: list[dict], limit: int) -> list[dict]:
-    """
-    同一家企业最多推送 2 条，避免某一家企业刷屏。
-    """
+# ============================================================
+# 同一次运行中的跨来源去重
+# ============================================================
 
-    counts = Counter()
-    picked = []
+def deduplicate(
+    jobs: list[dict],
+) -> list[dict]:
 
-    for job in rows:
+    unique: dict[
+        str,
+        dict,
+    ] = {}
 
-        company = clean(job.get("company_name"))
+    for job in jobs:
 
-        if counts[company] >= 2:
+        signature = semantic_key(job)
+
+        old = unique.get(
+            signature
+        )
+
+        if old is None:
+            unique[
+                signature
+            ] = job
+
             continue
 
-        picked.append(job)
-        counts[company] += 1
+        # 同一条招聘多个来源时，
+        # 优先保留官方级别更高的来源
+        if (
+            source_score(job)
+            >
+            source_score(old)
+        ):
+            unique[
+                signature
+            ] = job
 
-        if len(picked) >= limit:
-            break
-
-    return picked
+    return list(
+        unique.values()
+    )
 
 
 # ============================================================
-# 核心 Build
+# 核心BUILD
 #
-# 参数保持与原项目一致，确保 send_notify.py 无需修改
+# 保留原参数，确保原workflow和send_notify兼容
 # ============================================================
 
 def build(
-    limit: int = 8,
-    min_focus: int = 120,
-    min_match: int = 50,
+    limit: int = 0,
+    min_focus: int = 0,
+    min_match: int = 0,
     mode: str = "new",
     since: str = "",
     include_existing_due: bool = False,
@@ -624,17 +1184,31 @@ def build(
     workbench_url: str = DEFAULT_WORKBENCH_URL,
 ) -> tuple[str, list[dict]]:
 
-    # min_focus / min_match 为兼容旧版参数保留
-    _ = min_focus, min_match, include_existing_due
+    # 这些旧参数仅为兼容原项目
+    _ = (
+        limit,
+        min_focus,
+        min_match,
+        include_existing_due,
+    )
 
-    with open(JOBS, encoding="utf-8") as f:
-        jobs = json.load(f)
+    if not os.path.exists(JOBS):
+
+        jobs = []
+
+    else:
+
+        with open(
+            JOBS,
+            encoding="utf-8",
+        ) as f:
+            jobs = json.load(f)
 
     # --------------------------------------------------------
-    # 第一步：只保留有效岗位
+    # 1. 过滤有效目标招聘
     # --------------------------------------------------------
 
-    candidates = []
+    candidates: list[dict] = []
 
     for job in jobs:
 
@@ -644,28 +1218,46 @@ def build(
         if is_expired(job):
             continue
 
-        if not is_state_owned(job):
-            continue
-
-        if not is_2027_recruitment(job):
+        if not is_target_job(job):
             continue
 
         candidates.append(job)
 
-    candidates.sort(
-        key=sort_key,
-        reverse=True,
+    # --------------------------------------------------------
+    # 2. 同一次抓取内部去重
+    # --------------------------------------------------------
+
+    candidates = deduplicate(
+        candidates
     )
 
     # --------------------------------------------------------
-    # 第二步：新增过滤
+    # 3. 读取历史推送状态
     # --------------------------------------------------------
 
-    state = (
-        load_state(state_path)
-        if state_path and not ignore_state
-        else {"pushed_keys": {}}
-    )
+    if (
+        state_path
+        and not ignore_state
+    ):
+
+        state = load_state(
+            state_path
+        )
+
+    else:
+
+        state = {
+            "pushed_keys": {},
+            "semantic_keys": {},
+        }
+
+    # --------------------------------------------------------
+    # 4. 新增过滤
+    #
+    # 最关键修改：
+    # 不再只选“最新first_seen那一天”。
+    # 只要没推送过，就永远留在待推送队列。
+    # --------------------------------------------------------
 
     if mode == "all":
 
@@ -673,143 +1265,147 @@ def build(
 
     else:
 
-        if since:
-            since_day = since
-        else:
-            latest = max(
-                (
-                    first_seen_day(j)
-                    for j in candidates
-                    if first_seen_day(j)
-                ),
-                default=today().isoformat(),
+        pool = [
+            job
+            for job in candidates
+            if not is_pushed(
+                job,
+                state,
             )
-
-            since_day = latest
-
-        pool = [
-            j
-            for j in candidates
-            if first_seen_day(j) >= since_day
         ]
 
-        pool = [
-            j
-            for j in pool
-            if not is_pushed(j, state)
-        ]
+        # 只有手动指定 --since 才限制日期
+        if since:
+
+            pool = [
+                job
+                for job in pool
+                if (
+                    first_seen_day(job)
+                    >= since
+                )
+            ]
 
     # --------------------------------------------------------
-    # 第三步：再次按招聘信息去重
+    # 5. 排序
     # --------------------------------------------------------
-
-    unique = {}
-
-    for job in pool:
-
-        signature = (
-            clean(job.get("company_name")).lower(),
-            clean_title(job).lower(),
-        )
-
-        old = unique.get(signature)
-
-        if old is None:
-            unique[signature] = job
-            continue
-
-        if source_score(job) > source_score(old):
-            unique[signature] = job
-
-    pool = list(unique.values())
 
     pool.sort(
-        key=sort_key,
+        key=priority_sort_key,
         reverse=True,
     )
 
-    # 企业微信单次推送保持精简
-    selected = pick_rows(
-        pool,
-        max(1, limit),
-    )
-
     # --------------------------------------------------------
-    # 第四步：按企业类型分组
+    # 6. 不再只推8条
+    #
+    # 所有未推送招聘全部进入发送队列。
     # --------------------------------------------------------
 
-    central = [
-        j for j in selected
-        if enterprise_level(j) == "央企"
-    ]
-
-    provincial = [
-        j for j in selected
-        if enterprise_level(j) == "省属国企"
-    ]
-
-    local = [
-        j for j in selected
-        if enterprise_level(j) == "地方国企"
-    ]
-
-    other = [
-        j for j in selected
-        if enterprise_level(j) == "国企"
-    ]
+    selected = pool
 
     # --------------------------------------------------------
-    # 第五步：企业微信 Markdown
+    # 7. 推送预览分组
+    # --------------------------------------------------------
+
+    region_groups = {
+        "浙江": [],
+        "江苏": [],
+        "上海": [],
+        "安徽": [],
+        "其他地区": [],
+    }
+
+    for job in selected:
+
+        region = region_name(job)
+
+        region_groups.setdefault(
+            region,
+            [],
+        ).append(job)
+
+    # --------------------------------------------------------
+    # 8. Markdown预览
     # --------------------------------------------------------
 
     lines = [
-        f"# 🎯 27届国央企招聘雷达｜{today().isoformat()}",
+        (
+            "# 🎯 江浙沪皖国资招聘雷达｜"
+            f"{today().isoformat()}"
+        ),
         "",
-        f"> 新增符合条件：**{len(pool)} 条**",
-        f"> 本次推送：**{len(selected)} 条**",
+        (
+            f"> 待推送招聘："
+            f"**{len(selected)} 条**"
+        ),
+        "",
+        (
+            "> ⭐ 江浙沪皖优先，"
+            "同时保留全国央企招聘"
+        ),
         "",
     ]
 
     if workbench_url:
+
         lines.extend([
-            f"[📋 查看完整招聘信息台]({workbench_url})",
+            (
+                "[📋 查看完整招聘信息台]"
+                f"({workbench_url})"
+            ),
             "",
         ])
 
-    groups = [
-        ("🏢 央企", central),
-        ("🏛️ 省属国企", provincial),
-        ("🏙️ 地方国企", local),
-        ("📌 其他国企", other),
-    ]
+    for region in (
+        "浙江",
+        "江苏",
+        "上海",
+        "安徽",
+        "其他地区",
+    ):
 
-    for title, rows in groups:
+        rows = region_groups.get(
+            region,
+            [],
+        )
 
         if not rows:
             continue
 
-        lines.append(f"## {title}")
-
-        for job in rows:
-            lines.append(line(job))
+        lines.append(
+            f"## 📍 {region}｜"
+            f"{len(rows)}条"
+        )
 
         lines.append("")
+
+        for job in rows:
+            lines.append(
+                line(job)
+            )
+            lines.append("")
 
     if not selected:
 
         lines.extend([
             "## 今日结果",
             "",
-            "今天暂未发现新的27届国央企校招信息。",
+            "当前没有新的未推送招聘信息。",
             "",
         ])
 
     lines.extend([
         "---",
-        "仅推送新增信息，历史岗位自动去重。",
+        (
+            "已成功推送的岗位自动去重；"
+            "未成功发送的岗位下次继续推送。"
+        ),
     ])
 
-    return "\n".join(lines), selected
+    return (
+        "\n".join(lines),
+        selected,
+    )
 
 
 # ============================================================
@@ -819,7 +1415,10 @@ def build(
 def main() -> None:
 
     parser = argparse.ArgumentParser(
-        description="27届国央企招聘雷达推送预览"
+        description=(
+            "江浙沪皖国资招聘雷达"
+            "推送预览"
+        )
     )
 
     parser.add_argument(
@@ -827,28 +1426,31 @@ def main() -> None:
         default=OUT,
     )
 
+    # 保留旧参数
     parser.add_argument(
         "--limit",
         type=int,
-        default=8,
+        default=0,
     )
 
-    # 保留旧参数兼容 send_notify.py
     parser.add_argument(
         "--min-focus",
         type=int,
-        default=120,
+        default=0,
     )
 
     parser.add_argument(
         "--min-match",
         type=int,
-        default=50,
+        default=0,
     )
 
     parser.add_argument(
         "--mode",
-        choices=("new", "all"),
+        choices=(
+            "new",
+            "all",
+        ),
         default="new",
     )
 
@@ -895,10 +1497,14 @@ def main() -> None:
         min_match=args.min_match,
         mode=args.mode,
         since=args.since,
-        include_existing_due=args.include_existing_due,
+        include_existing_due=(
+            args.include_existing_due
+        ),
         state_path=args.state,
         ignore_state=args.ignore_state,
-        workbench_url=args.workbench_url,
+        workbench_url=(
+            args.workbench_url
+        ),
     )
 
     with open(
@@ -909,12 +1515,48 @@ def main() -> None:
         f.write(md)
 
     print(
-        f"✅ 27届国央企招聘推送预览已生成：{args.out}"
+        "✅ 江浙沪皖国资招聘"
+        f"推送预览已生成：{args.out}"
     )
 
     print(
-        f"✅ 本次选中 {len(selected)} 条招聘信息"
+        f"✅ 当前待推送 "
+        f"{len(selected)} 条招聘信息"
     )
+
+    region_count = {}
+
+    for job in selected:
+
+        region = region_name(job)
+
+        region_count[
+            region
+        ] = (
+            region_count.get(
+                region,
+                0,
+            )
+            + 1
+        )
+
+    for region in (
+        "浙江",
+        "江苏",
+        "上海",
+        "安徽",
+        "其他地区",
+    ):
+
+        count = region_count.get(
+            region,
+            0,
+        )
+
+        print(
+            f"  - {region}: "
+            f"{count} 条"
+        )
 
     if args.mark_pushed:
 
@@ -924,7 +1566,8 @@ def main() -> None:
         )
 
         print(
-            f"✅ 已标记 {added} 条为已推送"
+            f"✅ 已标记 "
+            f"{added} 条为已推送"
         )
 
 
