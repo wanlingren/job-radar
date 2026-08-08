@@ -47,7 +47,7 @@
   "edu-sysu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:40:18.193609+00:00",
+    "last_success_at": "2026-08-08T07:23:04.977830+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -56,7 +56,7 @@
   "edu-csu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:41:36.279260+00:00",
+    "last_success_at": "2026-08-08T07:24:24.088365+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -65,7 +65,7 @@
   "edu-hnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:41:49.982265+00:00",
+    "last_success_at": "2026-08-08T07:24:29.165482+00:00",
     "last_error": "",
     "last_count": 20,
     "peak_count": 20,
@@ -74,7 +74,7 @@
   "edu-scnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:41:53.457455+00:00",
+    "last_success_at": "2026-08-08T07:24:44.076642+00:00",
     "last_error": "",
     "last_count": 7,
     "peak_count": 8,
@@ -110,7 +110,7 @@
   "edu-zju": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:42:55.066096+00:00",
+    "last_success_at": "2026-08-08T07:26:08.662989+00:00",
     "last_error": "",
     "last_count": 59,
     "peak_count": 60,
@@ -119,7 +119,7 @@
   "gov-ncss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:43:07.251351+00:00",
+    "last_success_at": "2026-08-08T07:26:23.369560+00:00",
     "last_error": "",
     "last_count": 177,
     "peak_count": 180,
@@ -128,7 +128,7 @@
   "gov-mohrss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:43:46.026512+00:00",
+    "last_success_at": "2026-08-08T07:26:54.557370+00:00",
     "last_error": "",
     "last_count": 78,
     "peak_count": 148,
@@ -137,7 +137,7 @@
   "gov-sasac": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:44:10.933866+00:00",
+    "last_success_at": "2026-08-08T07:27:20.918786+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 27,
@@ -146,7 +146,7 @@
   "gov-qyzp": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:44:42.378626+00:00",
+    "last_success_at": "2026-08-08T07:27:57.480241+00:00",
     "last_error": "",
     "last_count": 20,
     "peak_count": 20,
@@ -227,7 +227,7 @@
   "edu-xidian": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:42:49.957215+00:00",
+    "last_success_at": "2026-08-08T07:25:48.099930+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -317,7 +317,7 @@
   "cn-iguopin": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-08T06:44:59.629144+00:00",
+    "last_success_at": "2026-08-08T07:28:17.443987+00:00",
     "last_error": "",
     "last_count": 240,
     "peak_count": 240,

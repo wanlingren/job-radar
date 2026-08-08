@@ -1,5 +1,41 @@
 [
   {
+    "dedup_key": "1b19387d03b27d04",
+    "source_id": "edu-sysu",
+    "company_name": "中山大学2027届毕业生秋季重点行业领域专场招聘会（珠海校区）",
+    "title": "中山大学2027届毕业生秋季重点行业领域专场招聘会（珠海校区）",
+    "location": "中山大学·会（珠海校区·大学珠海校区·南校园",
+    "official_url": "https://career.sysu.edu.cn/jobfair/view/id/49342",
+    "first_seen": "2026-08-08T06:38:46.863521+00:00",
+    "last_seen": "2026-08-08T06:38:46.863521+00:00",
+    "archived_at": "2026-08-08T07:08:58.853247+00:00",
+    "match_score": 44
+  },
+  {
+    "dedup_key": "b455e112b714b262",
+    "source_id": "edu-sysu",
+    "company_name": "“才聚黄埔 职等您来—广州好揾工”中山大学专场招聘会",
+    "title": "“才聚黄埔 职等您来—广州好揾工”中山大学专场招聘会",
+    "location": "中山大学·东校园·南校园",
+    "official_url": "https://career.sysu.edu.cn/jobfair/view/id/49339",
+    "first_seen": "2026-08-08T06:38:46.863521+00:00",
+    "last_seen": "2026-08-08T06:38:46.863521+00:00",
+    "archived_at": "2026-08-08T07:08:58.853247+00:00",
+    "match_score": 14
+  },
+  {
+    "dedup_key": "a7fdcae8da12ac5b",
+    "source_id": "edu-sysu",
+    "company_name": "上海合绎投资管理有限公司",
+    "title": "合绎投资2026年校招实习线上宣讲会",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/teachin/view/id/174834",
+    "first_seen": "2026-08-08T06:38:46.863521+00:00",
+    "last_seen": "2026-08-08T06:38:46.863521+00:00",
+    "archived_at": "2026-08-08T07:08:58.853247+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "ab6363f55e4c72cd",
     "source_id": "cn-netease",
     "company_name": "网易",
@@ -119962,41 +119998,5 @@
     "last_seen": "2026-07-13T23:53:55.558673+00:00",
     "archived_at": "2026-07-14T23:52:52.096160+00:00",
     "match_score": 62
-  },
-  {
-    "dedup_key": "067dc62aa5ed4a44",
-    "source_id": "gov-ncss",
-    "company_name": "深圳市玖顺智能科技有限公司",
-    "title": "实习/智能制造操机员",
-    "location": "广东",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=D8eKbqhhJKTFs8KFidkxkL",
-    "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 61
-  },
-  {
-    "dedup_key": "e897cccd7a51bc18",
-    "source_id": "wd-pfizer",
-    "company_name": "辉瑞",
-    "title": "Medical Content Delivery Lead",
-    "location": "China - Zhejiang - Hangzhou",
-    "official_url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Zhejiang---Hangzhou/Medical-Content-Delivery-Lead_4960280",
-    "first_seen": "2026-07-10T23:56:54.624064+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 60
-  },
-  {
-    "dedup_key": "72a621eb27490bfd",
-    "source_id": "wd-pfizer",
-    "company_name": "辉瑞",
-    "title": "高级医学内容策划 Sr. Medical Content Strategist",
-    "location": "China - Zhejiang - Hangzhou",
-    "official_url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Zhejiang---Hangzhou/-Sr-Medical-Content-Strategist_4960279",
-    "first_seen": "2026-07-10T23:56:54.624064+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 60
   }
 ]
