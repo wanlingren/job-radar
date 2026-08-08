@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-08 10:41:52",
-  "total": 73,
-  "ok": 63,
+  "checked_at": "2026-08-08 22:01:59",
+  "total": 80,
+  "ok": 73,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ahu",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-shu",
@@ -270,7 +270,15 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/259178614844330",
+      "url": "https://www.changzhou.gov.cn/ns_news/797178618932531",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-c92a8863a6",
+      "name": "无锡市人民政府",
+      "url": "https://www.wuxi.gov.cn/doc/2026/07/03/4812265.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -295,6 +303,14 @@
       "source_id": "auto-gov-8db361269b",
       "name": "张家港市人民政府",
       "url": "https://www.zjg.gov.cn/zjg/tzgg/common_list.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-519f3837e3",
+      "name": "苏州市人民政府",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/tpxw/202608/dfe195c7cbc047c9ad65e984c85d40d7.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -343,6 +359,38 @@
       "source_id": "auto-sasac-3539806151",
       "name": "义乌市·国资办",
       "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-1802340230",
+      "name": "无锡市·市人力资源和社会保障局",
+      "url": "http://hrss.wuxi.gov.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-bd4beb8814",
+      "name": "无锡市·市政府国有资产监督管理委员会",
+      "url": "http://gzw.wuxi.gov.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-d8397e4215",
+      "name": "苏州市·苏州市人力资源和社会保障局",
+      "url": "http://hrss.suzhou.gov.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-cf813c093c",
+      "name": "苏州市·苏州市人民政府国有资产监督管理委员会",
+      "url": "http://guozw.suzhou.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -479,6 +527,14 @@
       "source_id": "auto-edu-d4df7537d2",
       "name": "南京信息工程大学就业网",
       "url": "http://nuist.91job.org.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-70727a47aa",
+      "name": "东华大学就业网",
+      "url": "https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"

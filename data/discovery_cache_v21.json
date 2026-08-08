@@ -59,6 +59,26 @@
       "url": "https://www.yw.gov.cn/",
       "label": "义乌市人民政府",
       "verification": "search+strict-name"
+    },
+    "3202": {
+      "unit_code": "3202",
+      "unit_name": "无锡市",
+      "province": "江苏",
+      "city": "无锡市",
+      "level": "city",
+      "url": "https://www.wuxi.gov.cn/",
+      "label": "无锡市人民政府",
+      "verification": "search+sitecode"
+    },
+    "3205": {
+      "unit_code": "3205",
+      "unit_name": "苏州市",
+      "province": "江苏",
+      "city": "苏州市",
+      "level": "city",
+      "url": "https://www.suzhou.gov.cn/",
+      "label": "苏州市人民政府",
+      "verification": "search+sitecode"
     }
   },
   "universities": {
@@ -306,9 +326,9 @@
       "name": "东华大学",
       "location": "上海",
       "root_url": "https://www.dhu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "上海大学": {
       "name": "上海大学",
@@ -463,5 +483,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-08 10:23:21"
+  "updated_at": "2026-08-08 21:55:41"
 }

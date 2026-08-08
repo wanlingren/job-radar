@@ -29,7 +29,7 @@ name,location,root_url,career_url,status,verification
 同济大学,上海,https://www.tongji.edu.cn/,http://tj91.tongji.edu.cn/,covered-static,configured
 华东师范大学,上海,https://www.ecnu.edu.cn/,https://career.ecnu.edu.cn/career/index,covered-static,configured
 华东理工大学,上海,https://www.ecust.edu.cn/,https://career.ecust.edu.cn/,covered-static,configured
-东华大学,上海,https://www.dhu.edu.cn/,,unresolved,
+东华大学,上海,https://www.dhu.edu.cn/,https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm,discovered,discovered-from-university-homepage
 上海大学,上海,https://www.shu.edu.cn/,https://zbb.shu.edu.cn/,covered-static,configured
 上海理工大学,上海,https://www.usst.edu.cn/,https://www.usst.edu.cn/sljy/list.htm,discovered,discovered-from-university-homepage
 上海财经大学,上海,https://www.sufe.edu.cn/,https://career.sufe.edu.cn/,discovered,discovered-from-university-homepage
