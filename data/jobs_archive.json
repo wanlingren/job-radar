@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "3cae143972a19f92",
+    "source_id": "edu-tongji",
+    "company_name": "泰达建设集团",
+    "title": "泰达建设集团2027届『格调新锐』实习生招聘 2026-08-04",
+    "location": "上海",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=50d9098ea69541b681290062dce45931",
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "archived_at": "2026-08-08T08:57:54.783762+00:00",
+    "match_score": 48
+  },
+  {
+    "dedup_key": "e136f7c960686558",
+    "source_id": "edu-tongji",
+    "company_name": "可口可乐2027",
+    "title": "可口可乐2027校园招聘简章 2026-07-14",
+    "location": "上海",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=cd86c471b0cb4c4a9f4a8e15d9436d11",
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "archived_at": "2026-08-08T08:57:54.783762+00:00",
+    "match_score": 42
+  },
+  {
+    "dedup_key": "ca7bf9e219aa2eb2",
+    "source_id": "edu-tongji",
+    "company_name": "嘉兴市新闻传媒中心（传媒集团） 企编紧缺",
+    "title": "嘉兴市新闻传媒中心（传媒集团） 企编紧缺人才招聘公告 2026-08-07",
+    "location": "上海",
+    "official_url": "https://mp.weixin.qq.com/s/5cjzKnHUDBufdIGd_nJj8g",
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "archived_at": "2026-08-08T08:57:54.783762+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "47f0941e53158808",
+    "source_id": "edu-tongji",
+    "company_name": "普源精电科技股份有限公司",
+    "title": "普源精电科技股份有限公司校园招聘简章 2026-08-04",
+    "location": "上海",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=ff16c0401fb44dfbbcf10d8671473509",
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "archived_at": "2026-08-08T08:57:54.783762+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "026ebfdcf376934a",
+    "source_id": "edu-tongji",
+    "company_name": "伊犁州直面向社会",
+    "title": "2026年伊犁州直面向社会公开招聘中学教师公告 2026-07-15",
+    "location": "上海",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=bb25a495d3a84b2e9c9d73a089827a52",
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "archived_at": "2026-08-08T08:57:54.783762+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "1b95628a449cca91",
+    "source_id": "edu-tongji",
+    "company_name": "张家港市国有企业专业化青年人才",
+    "title": "2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14",
+    "location": "上海",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419",
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "archived_at": "2026-08-08T08:57:54.783762+00:00",
+    "match_score": 24
+  },
+  {
     "dedup_key": "1b19387d03b27d04",
     "source_id": "edu-sysu",
     "company_name": "中山大学2027届毕业生秋季重点行业领域专场招聘会（珠海校区）",
@@ -119926,77 +119998,5 @@
     "last_seen": "2026-07-13T23:53:55.558673+00:00",
     "archived_at": "2026-07-14T23:52:52.096160+00:00",
     "match_score": 68
-  },
-  {
-    "dedup_key": "9339e7d2462b2677",
-    "source_id": "cn-huawei-campus",
-    "company_name": "华为",
-    "title": "处理器开发高级工程师",
-    "location": "中国/深圳,中国/上海,中国/北京,中国/杭州,中国/东莞,中国/南京,中国/成都,中国/武汉,中国/西安,中国/苏州",
-    "official_url": "https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=24588",
-    "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 68
-  },
-  {
-    "dedup_key": "fee177e423763ffa",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "生产主管",
-    "location": "石家庄市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4621431732",
-    "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 68
-  },
-  {
-    "dedup_key": "83cefe0d2b9b9e30",
-    "source_id": "gov-ncss",
-    "company_name": "东莞市联光科技有限公司",
-    "title": "【26届】智能制造实习生储干",
-    "location": "广东",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=9agAffuiEdBWuNnhgCegH2",
-    "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 67
-  },
-  {
-    "dedup_key": "edf25f14ee4be70e",
-    "source_id": "gov-ncss",
-    "company_name": "泰安聚星信息科技有限公司",
-    "title": "乌镇-AI人工智能训练师",
-    "location": "浙江",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=ToVu854cpofg8J3WXgdxfT",
-    "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 63
-  },
-  {
-    "dedup_key": "cd2002824c41b988",
-    "source_id": "gov-ncss",
-    "company_name": "上海新农科技股份有限公司",
-    "title": "育种管培生",
-    "location": "全国",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=3jQ8oJHnMzcvrF5B5jpvyJ",
-    "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 62
-  },
-  {
-    "dedup_key": "df78936ff37f8172",
-    "source_id": "gov-mohrss",
-    "company_name": "震达科技（上海）有限公司",
-    "title": "质量部经理",
-    "location": "上海市奉贤区",
-    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2798275",
-    "first_seen": "2026-07-12T23:53:35.597087+00:00",
-    "last_seen": "2026-07-13T23:53:55.558673+00:00",
-    "archived_at": "2026-07-14T23:52:52.096160+00:00",
-    "match_score": 62
   }
 ]

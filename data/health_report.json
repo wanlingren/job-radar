@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-08T08:18:48.299754+00:00",
-  "sources_total": 5,
-  "sources_catalog_total": 50,
+  "generated_at": "2026-08-08T08:57:54.783762+00:00",
+  "sources_total": 6,
+  "sources_catalog_total": 74,
   "preserve_unselected": true,
-  "jobs_raw": 95,
+  "jobs_raw": 101,
   "snapshot_after_dedup": 87,
-  "duplicates_removed": 8,
+  "duplicates_removed": 14,
   "store_total": 773,
-  "new_this_run": 87,
-  "gone_total": 0,
-  "archived_total": 0,
+  "new_this_run": 6,
+  "gone_total": 6,
+  "archived_total": 10000,
   "active_total": 773,
   "unhealthy": [],
   "alerts": [
@@ -24,7 +24,7 @@
       "adapter": "uni_spa",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-08-08T08:19:23.108019+00:00",
+      "last_success_at": "2026-08-08T08:58:28.060919+00:00",
       "last_error": "",
       "last_count": 7,
       "peak_count": 11,
@@ -35,7 +35,7 @@
       "adapter": "regional_spa",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-08-08T08:19:29.117158+00:00",
+      "last_success_at": "2026-08-08T08:58:35.337164+00:00",
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
@@ -46,7 +46,7 @@
       "adapter": "uni_spa",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-08-08T08:19:43.314551+00:00",
+      "last_success_at": "2026-08-08T08:58:50.579846+00:00",
       "last_error": "",
       "last_count": 34,
       "peak_count": 36,
@@ -57,7 +57,7 @@
       "adapter": "sjtu",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-08-08T08:20:13.354375+00:00",
+      "last_success_at": "2026-08-08T08:59:23.537547+00:00",
       "last_error": "",
       "last_count": 0,
       "peak_count": 11,
@@ -68,10 +68,21 @@
       "adapter": "regional_spa",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-08-08T08:21:14.106709+00:00",
+      "last_success_at": "2026-08-08T09:00:29.424823+00:00",
       "last_error": "",
-      "last_count": 54,
-      "peak_count": 54,
+      "last_count": 60,
+      "peak_count": 60,
+      "alert": ""
+    },
+    {
+      "source_id": "reg-job-sh",
+      "adapter": "regional_spa",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-08T09:00:36.616552+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
       "alert": ""
     },
     {
@@ -255,127 +266,265 @@
       "not_run": true
     },
     {
-      "source_id": "auto-gov-5bf6ad3fdc",
+      "source_id": "edu-cjlu",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-7c539aae92",
+      "source_id": "edu-ecnu",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-4cfb4057e5",
+      "source_id": "edu-shu",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-41bb08c430",
+      "source_id": "auto-gov-0558706808",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-ffe59d24e8",
+      "source_id": "auto-gov-f3e4808073",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-a79f08f68e",
+      "source_id": "auto-gov-60ba8daff1",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-0a553fe4b5",
+      "source_id": "auto-gov-8db361269b",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-6349542b5a",
+      "source_id": "auto-gov-99796e2338",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-2811101b47",
+      "source_id": "auto-gov-3539806151",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-081337bac0",
+      "source_id": "auto-hrss-daebf5d697",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-f712dbe616",
+      "source_id": "auto-hrss-f62beae81a",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-c92a8863a6",
+      "source_id": "auto-sasac-60ba8daff1",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-c2f7f1bcc9",
+      "source_id": "auto-sasac-3539806151",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-c2f7f1bcc9",
+      "source_id": "auto-edu-dca9d563dc",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-5ef38c39f7",
+      "source_id": "auto-edu-41bf68a365",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-b7700bcc56",
+      "source_id": "auto-edu-35ede7ded0",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-1a7816c935",
+      "source_id": "auto-edu-64cdab6b9f",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-21720ac80e",
+      "source_id": "auto-edu-0c70ec8c8f",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-ea97319fea",
+      "source_id": "auto-edu-1bdfa82e2d",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-1113a78166",
+      "source_id": "auto-edu-93d5f4363b",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true
     },
     {
-      "source_id": "auto-gov-3b6dcff626",
+      "source_id": "auto-edu-dc83729230",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-a6b99f30bc",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-7d5c71b631",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-7ec6b1de75",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-08d4ce59e7",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-7696c762e1",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-bb381bb457",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-5775f995a3",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-31d2b66ead",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-d4df7537d2",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-70727a47aa",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-0ad4885831",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-40dffc5e09",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-3204305aee",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-fb50dafe38",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-366b9c0ea5",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-5c45ff5e44",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-8fe89cb27c",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-2b5d1aa5f5",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-6b9281c3c5",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-35478d3e6a",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-c8dc90c783",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-0bdf27a6fd",
+      "adapter": "regional_notice",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-d22d28ba5d",
       "adapter": "regional_notice",
       "status": "active",
       "not_run": true

@@ -360,7 +360,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "regional_portal",
@@ -1297,7 +1297,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -1535,7 +1535,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -1574,7 +1574,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "regional_portal",
@@ -1613,7 +1613,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -1894,7 +1894,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -1933,50 +1933,11 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
       "school": "南京大学",
-      "needs_ai": true
-    }
-  },
-  {
-    "job_id": "edu-tongji:1b95628a449cca91",
-    "dedup_key": "1b95628a449cca91",
-    "source_id": "edu-tongji",
-    "company_name": "张家港市国有企业专业化青年人才",
-    "title": "2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14",
-    "tags": [
-      "行业:其他",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 24,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
       "needs_ai": true
     }
   },
@@ -2009,7 +1970,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "regional_portal",
@@ -2821,7 +2782,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -2858,7 +2819,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -9424,7 +9385,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -9657,7 +9618,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -9774,7 +9735,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -12730,7 +12691,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -12766,7 +12727,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -12802,7 +12763,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-08T08:57:54.783762+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
