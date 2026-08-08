@@ -28,7 +28,7 @@ jobs:
 
       - name: Build notify preview
         env:
-          WORKBENCH_URL: https://jasmine-liu-min.github.io/job-radar/
+          WORKBENCH_URL: https://wanlingren.github.io/job-radar/
         run: python3 scripts/notify_preview.py
 
       - name: Send new-only notify
@@ -36,7 +36,7 @@ jobs:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
           WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
-          WORKBENCH_URL: https://jasmine-liu-min.github.io/job-radar/
+          WORKBENCH_URL: https://wanlingren.github.io/job-radar/
         run: python3 scripts/send_notify.py
 
       - name: Commit data
