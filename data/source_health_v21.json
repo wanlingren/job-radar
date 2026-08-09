@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-08 23:54:46",
-  "total": 80,
-  "ok": 73,
+  "checked_at": "2026-08-09 10:57:08",
+  "total": 79,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -326,10 +326,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229187644/art/2026/art_6ff9249e67e544f989e5f1954d622d8d.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.yw.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-hrss-daebf5d697",
@@ -351,14 +351,6 @@
       "source_id": "auto-sasac-60ba8daff1",
       "name": "吴中区·区国资办举办“百团进百万企业千万员工”宣讲暨安全生产重大隐患判定专题培训",
       "url": "http://www.szwz.gov.cn/szwz/c108682/202607/d9d61c336cd8480a9199a5dcf62866cb.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-3539806151",
-      "name": "义乌市·国资办",
-      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -431,9 +423,9 @@
       "source_id": "auto-edu-0c70ec8c8f",
       "name": "浙江师范大学就业网",
       "url": "http://career.zjnu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "RemoteDisconnected"
     },
     {
       "source_id": "auto-edu-1bdfa82e2d",
@@ -604,14 +596,6 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-edu-28673cc7a4",
-      "name": "安徽农业大学就业网",
-      "url": "http://job.ahau.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
       "source_id": "auto-edu-6b9281c3c5",
       "name": "合肥大学就业网",
       "url": "https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm",
@@ -639,6 +623,14 @@
       "source_id": "auto-edu-0bdf27a6fd",
       "name": "淮北师范大学就业网",
       "url": "https://www.chnu.edu.cn/zsjy",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-d22d28ba5d",
+      "name": "安庆师范大学就业网",
+      "url": "https://www.aqnu.edu.cn/jyjx.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
