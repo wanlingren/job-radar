@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-09 23:53:44",
-  "total": 80,
-  "ok": 73,
+  "checked_at": "2026-08-10 11:33:50",
+  "total": 79,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -270,7 +270,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/18178583072315",
+      "url": "https://www.changzhou.gov.cn/ns_news/264178634465570",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -278,7 +278,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/07/03/4812265.shtml",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/10/4815851.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -286,7 +286,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/sqdt/art/2026/art_bef72babea6f47dcac14a5bf8af1b48e.html",
+      "url": "https://www.taizhou.gov.cn/xwzx/tzgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -310,7 +310,7 @@
     {
       "source_id": "auto-gov-519f3837e3",
       "name": "苏州市人民政府",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/qxkx/202608/4d5eb83b05034a18af4f3189a8ec4955.shtml",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/jycyzt/jycy.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -326,10 +326,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.yw.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-hrss-daebf5d697",
@@ -351,14 +351,6 @@
       "source_id": "auto-sasac-60ba8daff1",
       "name": "吴中区·区国资办举办“百团进百万企业千万员工”宣讲暨安全生产重大隐患判定专题培训",
       "url": "http://www.szwz.gov.cn/szwz/c108682/202607/d9d61c336cd8480a9199a5dcf62866cb.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-3539806151",
-      "name": "义乌市·国资办",
-      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
