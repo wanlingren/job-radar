@@ -1,24 +1,24 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-08-11
 
-> 今日待提醒：**11 条**｜7天内截止：**0 条**
+> 今日待提醒：**105 条**｜7天内截止：**2 条**
 
-> 📍 浙江 7｜江苏 2｜上海 0｜安徽 0
+> 📍 浙江 2｜江苏 8｜上海 6｜安徽 3
 
-> 🟦校园招聘/应届生 2｜🟩事业单位/人才引进 3｜🟪事业单位/编外 4｜⬜政府官方招聘公告 2
+> ⭐27届校园招聘 4｜🟦校园招聘/应届生 71｜🟨国企公开招聘 8｜🟧国企社会招聘 17｜🟩事业单位/人才引进 3｜⬜政府官方招聘公告 2
 
-[📋 一次查看全部 11 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 105 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [义乌市卫生健康系统部分事业单位｜2026年义乌市卫生健康系统部分事业单位公开招聘笔试成绩及入围资格复审人员名单公…](https://www.yw.gov.cn/col/col1229129594/art/2026/art_d23e481735264818ab0c3087439bed29.html)
-- [事业单位|浙江商业技师学院2026年｜事业单位|浙江商业技师学院2026年公开招聘工作人员公告](https://career.zjnu.edu.cn/news/view/aid/432627/tag/gzgx)
-- [事业单位|2026年下半年永嘉县事业单位｜事业单位|2026年下半年永嘉县事业单位公开招聘工作人员公告](https://career.zjnu.edu.cn/news/view/aid/432632/tag/gzgx)
-- [事业单位|杭州西湖风景名胜区钱江管理处｜事业单位|杭州西湖风景名胜区钱江管理处公开招聘编外工作人员公告](https://career.zjnu.edu.cn/news/view/aid/432629/tag/gzgx)
-- [浙江师范大学就业网｜事业单位|杭州市西湖区留下街道招聘编外合同制工作人员公告](https://career.zjnu.edu.cn/news/view/aid/432628/tag/gzgx)
-- [事业单位|派遣至浙江大学机械工程学院｜事业单位|派遣至浙江大学机械工程学院招聘公告](https://career.zjnu.edu.cn/news/view/aid/432631/tag/gzgx)
-- [事业单位|派遣至浙江大学医学院｜事业单位|派遣至浙江大学医学院招聘公告](https://career.zjnu.edu.cn/news/view/aid/432630/tag/gzgx)
-- [关于公布连云港市海州区教育局所属学校2026年｜关于公布连云港市海州区教育局所属学校2026年公开招聘新教师总成…](http://www.lyghz.gov.cn/lyghzqrmzf/tzggg/content/c0093fd1-f735-4b92-8b38-bda3496581d0.html)
-- [附件：连云港市海州区教育局所属学校2026年｜附件：连云港市海州区教育局所属学校2026年公开招聘新教师总成绩及…](http://www.lyghz.gov.cn/TrueCMS/attachmentController/download.do?id=193cc34a-2a12-451c-9280-2dbe5546b916)
-- [中材水泥海外发展（天津）有限公司｜安全环保](https://www.iguopin.com/job/detail?id=210052939216062705)
+- [北京市鼎新新技术有限责任公司｜综合测绘岗｜5天后截止](https://www.iguopin.com/job/detail?id=213282997623848996)
+- [中盐勘察设计院有限公司｜采矿工程设计岗｜7天后截止](https://www.iguopin.com/job/detail?id=213276369080025127)
+- [沪东重机有限公司｜纪检干事（2027届）](https://www.iguopin.com/job/detail?id=213248982707601447)
+- [银联国际有限公司｜数字化运营岗实习生](https://www.iguopin.com/job/detail?id=213262786782822437)
+- [银联国际有限公司｜运营支持岗实习生](https://www.iguopin.com/job/detail?id=213249196331892772)
+- [广州虹科电子科技有限公司｜TOB大客户销售（上海、广州、苏州、北京）(J10024)](https://www.iguopin.com/job/detail?id=213244779645894691)
+- [浙江省机电产品质量检测所有限公司｜辅助接线（劳务外包）](https://www.iguopin.com/job/detail?id=213281827614359583)
+- [上海海事职业技术学院｜计算机教师（2026）](https://www.iguopin.com/job/detail?id=213280249733972003)
+- [中国联合网络通信有限公司安徽省分公司｜财务会计](https://www.iguopin.com/job/detail?id=189941862360943081)
+- [标题｜标题：2026届毕业生秋季校园招聘活动安排 点击数：2588 发表时间：2025-09-01](https://jyzd.chnu.edu.cn/tzgg/content_133536)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

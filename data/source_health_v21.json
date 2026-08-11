@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10 23:55:45",
+  "checked_at": "2026-08-11 11:07:07",
   "total": 80,
   "ok": 73,
   "items": [
@@ -270,7 +270,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/264178634465570",
+      "url": "https://www.changzhou.gov.cn/ns_news/18178583072315",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -278,7 +278,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/08/10/4815851.shtml",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/11/4816688.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -604,14 +604,6 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-edu-28673cc7a4",
-      "name": "安徽农业大学就业网",
-      "url": "http://job.ahau.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
       "source_id": "auto-edu-6b9281c3c5",
       "name": "合肥大学就业网",
       "url": "https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm",
@@ -639,6 +631,14 @@
       "source_id": "auto-edu-0bdf27a6fd",
       "name": "淮北师范大学就业网",
       "url": "https://www.chnu.edu.cn/zsjy",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-d22d28ba5d",
+      "name": "安庆师范大学就业网",
+      "url": "https://www.aqnu.edu.cn/jyjx.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
