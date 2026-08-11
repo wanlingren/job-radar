@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-11 11:07:07",
-  "total": 80,
-  "ok": 73,
+  "checked_at": "2026-08-11 22:27:03",
+  "total": 108,
+  "ok": 96,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-ahu",
@@ -255,14 +255,94 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-shu",
       "name": "上海大学就业服务网",
       "url": "https://zbb.shu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-85e7cd484a",
+      "name": "奉贤区人民政府",
+      "url": "https://www.fengxian.gov.cn/gzw/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-811c22a6ac",
+      "name": "松江区人民政府",
+      "url": "https://www.songjiang.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-5bf6ad3fdc",
+      "name": "闵行区人民政府",
+      "url": "https://www.gzw.sh.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-012bc75882",
+      "name": "六安市人民政府",
+      "url": "https://www.luan.gov.cn/zwzx/gsgg/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-396bb4b1c7",
+      "name": "霍山县人民政府",
+      "url": "https://www.ahhuoshan.gov.cn/zwzx/gsgg/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-1288c544c1",
+      "name": "太湖县人民政府",
+      "url": "https://www.tba.gov.cn/slbthlyglj/tzgg/content/9282990a-95c1-4a42-b2bb-34d9cf30f548.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-cea59b92fb",
+      "name": "宁国市人民政府",
+      "url": "https://www.ningguo.gov.cn/Search/?keyword=%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&amp;field=all",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-32c20dfdbe",
+      "name": "旌德县人民政府",
+      "url": "https://www.ahjd.gov.cn/News/showList/7030/page_1.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-8a0942d95f",
+      "name": "淮北市人民政府",
+      "url": "https://www.huaibei.gov.cn/xwzx/gsgg/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-08b73507d1",
+      "name": "通州区人民政府",
+      "url": "http://www.bjtzh.gov.cn/so/s?qt=%E5%B0%B1%E4%B8%9A%E6%8B%9B%E8%81%98",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -284,9 +364,49 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-gov-1d46b1e644",
+      "name": "江阴市人民政府",
+      "url": "https://www.jiangyin.gov.cn/doc/2026/08/07/1409993.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-4f330c574e",
+      "name": "兴化市人民政府",
+      "url": "https://www.xinghua.gov.cn/xwzx/bmdt/art/2026/art_1e997b56dca8405391f7ec40bd1b644a.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-f66bd5bce0",
+      "name": "泰兴市人民政府",
+      "url": "https://www.taixing.gov.cn/xwzx/tzgg/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
       "url": "https://www.taizhou.gov.cn/xwzx/tzgg/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-5e563df7a3",
+      "name": "淮安市人民政府",
+      "url": "http://www.huaian.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-cfa0f79b7b",
+      "name": "盐城市人民政府",
+      "url": "https://www.yancheng.gov.cn/col/col50/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -308,9 +428,17 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-gov-fc8b3c4107",
+      "name": "昆山市人民政府",
+      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-gov-519f3837e3",
       "name": "苏州市人民政府",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202608/69c2387ebef244cbbe668db6ec271c7a.shtml",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/jycyzt/jycy.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -326,10 +454,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.yw.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-hrss-daebf5d697",
@@ -351,14 +479,6 @@
       "source_id": "auto-sasac-60ba8daff1",
       "name": "吴中区·区国资办举办“百团进百万企业千万员工”宣讲暨安全生产重大隐患判定专题培训",
       "url": "http://www.szwz.gov.cn/szwz/c108682/202607/d9d61c336cd8480a9199a5dcf62866cb.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-3539806151",
-      "name": "义乌市·国资办",
-      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -394,6 +514,110 @@
       "ok": true,
       "http_status": 200,
       "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-2ea7ea9a95",
+      "name": "闵行区·市人力资源和社会保障局",
+      "url": "http://rsj.sh.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-8139dbf9a1",
+      "name": "闵行区·市国资委",
+      "url": "https://www.gzw.sh.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-b74729843d",
+      "name": "闵行区·人力资源和社会保障部",
+      "url": "http://www.mohrss.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-d70b515ce4",
+      "name": "闵行区·国务院国有资产监督管理委员会",
+      "url": "http://www.sasac.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-85e7cd484a",
+      "name": "奉贤区·人社局",
+      "url": "https://www.fengxian.gov.cn/rsj/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-85e7cd484a",
+      "name": "奉贤区·国资委",
+      "url": "https://www.fengxian.gov.cn/gzw/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-1d46b1e644",
+      "name": "江阴市·市人力资源和社会保障局",
+      "url": "https://www.jiangyin.gov.cn/rsj/index.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-11d1447638",
+      "name": "通州区·市国资委",
+      "url": "http://gzw.beijing.gov.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-4f330c574e",
+      "name": "兴化市·市人社局办好技能夜校赋能就业增收",
+      "url": "https://www.xinghua.gov.cn/xwzx/bmdt/art/2026/art_1e997b56dca8405391f7ec40bd1b644a.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-job-32c20dfdbe",
+      "name": "旌德县·就业服务",
+      "url": "https://www.ahjd.gov.cn/Service/showList.html?nav=2&serviceObject=P&ztmb=28&itemName=%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&cityCode=341825000000&cityName=%E6%97%8C%E5%BE%B7%E5%8E%BF",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-c5ab870169",
+      "name": "宁国市·市人社局",
+      "url": "https://xc.ahzwfw.gov.cn/bog-bsdt/static/workProcess/departmentHoem.html?deptCode=34181401230200000000&cityCode=341881000000&cityName=%25E5%25AE%2581%25E5%259B%25BD%25E5%25B8%2582",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-cea59b92fb",
+      "name": "宁国市·财政局国资委",
+      "url": "https://www.ningguo.gov.cn/XxgkContent/showList/395/0/page_1.html",
+      "ok": false,
+      "http_status": 408,
+      "error": "HTTPError"
+    },
+    {
+      "source_id": "auto-hrss-cea59b92fb",
+      "name": "宁国市·人社局",
+      "url": "https://www.ningguo.gov.cn/XxgkContent/showList/441/0/page_1.html",
+      "ok": false,
+      "http_status": 408,
+      "error": "HTTPError"
     },
     {
       "source_id": "auto-edu-dca9d563dc",
@@ -532,14 +756,6 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-edu-70727a47aa",
-      "name": "东华大学就业网",
-      "url": "https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
       "source_id": "auto-edu-0ad4885831",
       "name": "上海理工大学就业网",
       "url": "https://www.usst.edu.cn/sljy/list.htm",
@@ -599,6 +815,14 @@
       "source_id": "auto-edu-2b5d1aa5f5",
       "name": "安徽财经大学就业网",
       "url": "http://jyfw.aufe.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-28673cc7a4",
+      "name": "安徽农业大学就业网",
+      "url": "http://job.ahau.edu.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"

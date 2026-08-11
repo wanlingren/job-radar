@@ -619,48 +619,6 @@
     }
   },
   {
-    "job_id": "edu-tongji:79b3582a23bae4cb",
-    "dedup_key": "79b3582a23bae4cb",
-    "source_id": "edu-tongji",
-    "company_name": "中建一局建设发展公司",
-    "title": "中建一局建设发展公司27届暑期实习生招聘",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "房地产/建筑/工程",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=facec3645a034c26a80a2580a833a03c;",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "中建一局建设发展公司27届暑期实习生招聘",
-    "tags": [
-      "行业:房地产/建筑/工程",
-      "27届",
-      "暑期实习",
-      "央国企",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 58,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "reg-sasac-sh:b9362b7a54f1eef4",
     "dedup_key": "b9362b7a54f1eef4",
     "source_id": "reg-sasac-sh",
@@ -738,6 +696,45 @@
       "source_label": "浙江财经大学就业网",
       "region": "浙江·杭州",
       "needs_ai": true
+    }
+  },
+  {
+    "job_id": "auto-hrss-f62beae81a:c7a637d28ee4870c",
+    "dedup_key": "c7a637d28ee4870c",
+    "source_id": "auto-hrss-f62beae81a",
+    "company_name": "常州市武进区文体广电旅游局下属事业单位",
+    "title": "2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员公告",
+    "location": "江苏·常州市·常州市",
+    "org_type": "public_institution",
+    "industry": "政府/事业单位",
+    "job_type": "unknown",
+    "publish_time": "2026-08-04",
+    "deadline": "2026-08-26",
+    "official_url": "https://rsj.changzhou.gov.cn/html/czrsj/2026/IQCNPLQO_0804/49869.html",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "﻿ 常州市人力资源和社会保障局 首 页 新闻中心 政府信息公开 公共服务 ---> 公众参与 专题专栏 办事服务 自助服务大厅 您当前的位置： 首页 >> 专题专栏 >> 事业单位公开招聘专栏 >> 招聘公告公示 >> 内容 2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员公告 发布日期：2026-08-04 来源：人社局 浏览次数： 字号：〖 默认 大 超大 〗 根据《江苏省事业单位公开招聘人员办法》（苏办发〔2020〕9号），常州市武进区文体广电旅游局下属事业单位面向社会公开招聘2名工作人员（进编），现将有关事项公告如下： 一、报考条件 （一）具有中华人民共和国国籍，遵纪守法，拥护中国共产党领导和社会主义制度，品行端正，无违法犯罪记录，具备正常履行岗位职责必备的身体条件和招聘岗位规定的具体资格条件，详见《2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员岗位表》（附件1，以下简称“岗位表”）。 （二）本次招聘不限户籍。年龄在18周岁以上，38周岁以下（1987年8月10日至2008年8月14日之间出生）；具有博士研究生学历并取得相应学位的人员，以及依法退出现役的退役军人，年龄可放宽至43周岁（1982年8月10日后出生）。 （三）报考人员须于报名前取得毕业证书、学位证书，其中：能够提供《毕业生就业推荐表》（原件）的2026年普通高校毕业生，毕业证书、学位证书取得时间可放宽至2026年12月31日。 （四）国（境）外留学人员须于报名前完成教育部留学服务中心学历认证，其中：2026年国（境）外毕业人员，取得学历、学位证书的日期可适当放宽，但须在2026年12月31日前完成教育部留学服务中心学历认证。 （五）取得祖国大陆普通高校学历的台湾学生和取得祖国大陆承认学历的其他台湾居民应聘时按国家和江苏省的有关规定执行。 （六）下列人员不得报考： 1.现役军人或国民教育序列普通高校在读非2026届毕业生； 2.《事业单位人事管理回避规定》明确应当回避的人员； 3.被依法列为失信联合惩戒对象的人员； 4.报名时，经公开招聘被江苏省地方各类事业单位聘用且规定服务期未满的在编（在册）人员、有规定（含协议明确）不得解聘离开现工作单位（岗位）的人员； 5.国家和江苏省另有规定不得应聘到事业单位或者有关岗位工作的人员。 二、报名程序和办法 报考人员可通过下列网站查询招聘岗位及具体条件等 有关信息：常州市人力资源和社会保障局网（rsj.changzhou.gov.cn）、武进人力资源网（www.wjjy.org.cn）。 （一）报名方式与时间 本次公开招聘采用网络报名方式。报名、照片上传、资格初审和缴费确认均通过网络进行。报名网址：武进人力资源网（www.wjjy.org.cn）－“武进区机关事业单位公开招聘专栏”。 1.报名、照片上传、资格初审时间 2026年8月10日9:00—8月14日16:00 2.报考人员对资格初审异议的陈述申辩时间 2026年8月10日—8月15日期间的9:00—16:00 3. 资格初审单位对资格初审异议的处理时间： 2026年8月10日9:00—8月16日16:00 4.缴费确认时间 2026年8月10日9:00—8月17日12:00 （二）报名注意事项 1.报考人员每人只能选择一个岗位进行报名，报名与考试时使用的身份证必须一致。 2.本次公开招聘岗位专业参照《江苏省2026年度考试录用公务员专业参考目录》设置，报考人员所学专业应符合报考岗位的专业要求。专业参考目录未列出的专业、留学人员的毕业专业，由招聘单位",
+    "tags": [
+      "行业:政府/事业单位",
+      "研究",
+      "推荐"
+    ],
+    "match_score": 49,
+    "source_confidence": 100,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-08T10:23:22.388414+00:00",
+    "last_seen": "2026-08-11T10:44:18.081873+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "regional_portal",
+      "mode": "government",
+      "source_label": "市人社局",
+      "region": "江苏·常州市·常州市",
+      "needs_ai": false
     }
   },
   {
@@ -1822,45 +1819,6 @@
     }
   },
   {
-    "job_id": "auto-hrss-f62beae81a:c7a637d28ee4870c",
-    "dedup_key": "c7a637d28ee4870c",
-    "source_id": "auto-hrss-f62beae81a",
-    "company_name": "常州市武进区文体广电旅游局下属事业单位",
-    "title": "2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员公告",
-    "location": "江苏·常州市·常州市",
-    "org_type": "public_institution",
-    "industry": "政府/事业单位",
-    "job_type": "unknown",
-    "publish_time": "2026-08-04",
-    "deadline": "2026-08-26",
-    "official_url": "https://rsj.changzhou.gov.cn/html/czrsj/2026/IQCNPLQO_0804/49869.html",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "﻿ 常州市人力资源和社会保障局 首 页 新闻中心 政府信息公开 公共服务 ---> 公众参与 专题专栏 办事服务 自助服务大厅 您当前的位置： 首页 >> 专题专栏 >> 事业单位公开招聘专栏 >> 招聘公告公示 >> 内容 2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员公告 发布日期：2026-08-04 来源：人社局 浏览次数： 字号：〖 默认 大 超大 〗 根据《江苏省事业单位公开招聘人员办法》（苏办发〔2020〕9号），常州市武进区文体广电旅游局下属事业单位面向社会公开招聘2名工作人员（进编），现将有关事项公告如下： 一、报考条件 （一）具有中华人民共和国国籍，遵纪守法，拥护中国共产党领导和社会主义制度，品行端正，无违法犯罪记录，具备正常履行岗位职责必备的身体条件和招聘岗位规定的具体资格条件，详见《2026年常州市武进区文体广电旅游局下属事业单位公开招聘工作人员岗位表》（附件1，以下简称“岗位表”）。 （二）本次招聘不限户籍。年龄在18周岁以上，38周岁以下（1987年8月10日至2008年8月14日之间出生）；具有博士研究生学历并取得相应学位的人员，以及依法退出现役的退役军人，年龄可放宽至43周岁（1982年8月10日后出生）。 （三）报考人员须于报名前取得毕业证书、学位证书，其中：能够提供《毕业生就业推荐表》（原件）的2026年普通高校毕业生，毕业证书、学位证书取得时间可放宽至2026年12月31日。 （四）国（境）外留学人员须于报名前完成教育部留学服务中心学历认证，其中：2026年国（境）外毕业人员，取得学历、学位证书的日期可适当放宽，但须在2026年12月31日前完成教育部留学服务中心学历认证。 （五）取得祖国大陆普通高校学历的台湾学生和取得祖国大陆承认学历的其他台湾居民应聘时按国家和江苏省的有关规定执行。 （六）下列人员不得报考： 1.现役军人或国民教育序列普通高校在读非2026届毕业生； 2.《事业单位人事管理回避规定》明确应当回避的人员； 3.被依法列为失信联合惩戒对象的人员； 4.报名时，经公开招聘被江苏省地方各类事业单位聘用且规定服务期未满的在编（在册）人员、有规定（含协议明确）不得解聘离开现工作单位（岗位）的人员； 5.国家和江苏省另有规定不得应聘到事业单位或者有关岗位工作的人员。 二、报名程序和办法 报考人员可通过下列网站查询招聘岗位及具体条件等 有关信息：常州市人力资源和社会保障局网（rsj.changzhou.gov.cn）、武进人力资源网（www.wjjy.org.cn）。 （一）报名方式与时间 本次公开招聘采用网络报名方式。报名、照片上传、资格初审和缴费确认均通过网络进行。报名网址：武进人力资源网（www.wjjy.org.cn）－“武进区机关事业单位公开招聘专栏”。 1.报名、照片上传、资格初审时间 2026年8月10日9:00—8月14日16:00 2.报考人员对资格初审异议的陈述申辩时间 2026年8月10日—8月15日期间的9:00—16:00 3. 资格初审单位对资格初审异议的处理时间： 2026年8月10日9:00—8月16日16:00 4.缴费确认时间 2026年8月10日9:00—8月17日12:00 （二）报名注意事项 1.报考人员每人只能选择一个岗位进行报名，报名与考试时使用的身份证必须一致。 2.本次公开招聘岗位专业参照《江苏省2026年度考试录用公务员专业参考目录》设置，报考人员所学专业应符合报考岗位的专业要求。专业参考目录未列出的专业、留学人员的毕业专业，由招聘单位",
-    "tags": [
-      "行业:政府/事业单位",
-      "研究",
-      "推荐"
-    ],
-    "match_score": 49,
-    "source_confidence": 100,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T10:23:22.388414+00:00",
-    "last_seen": "2026-08-11T10:44:18.081873+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "government",
-      "source_label": "市人社局",
-      "region": "江苏·常州市·常州市",
-      "needs_ai": false
-    }
-  },
-  {
     "job_id": "auto-gov-3539806151:f078b5283174c279",
     "dedup_key": "f078b5283174c279",
     "source_id": "auto-gov-3539806151",
@@ -2226,7 +2184,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -2809,6 +2767,43 @@
     }
   },
   {
+    "job_id": "edu-nju:e70d52ec6545c0e1",
+    "dedup_key": "e70d52ec6545c0e1",
+    "source_id": "edu-nju",
+    "company_name": "中信证券股份有限公司上海分公司",
+    "title": "中信证券股份有限公司上海分公司校园招聘",
+    "location": "南京大学",
+    "org_type": "research",
+    "industry": "金融",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c9ecab7bc019ed86dbf4800e8",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "中信证券股份有限公司上海分公司校园招聘",
+    "tags": [
+      "行业:金融",
+      "央国企",
+      "缺截止"
+    ],
+    "match_score": 24,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "spa",
+      "school": "南京大学",
+      "needs_ai": true
+    }
+  },
+  {
     "job_id": "auto-edu-0bdf27a6fd:a1ff6e31480e3658",
     "dedup_key": "a1ff6e31480e3658",
     "source_id": "auto-edu-0bdf27a6fd",
@@ -3198,44 +3193,6 @@
     }
   },
   {
-    "job_id": "edu-nju:58a3e892b9698259",
-    "dedup_key": "58a3e892b9698259",
-    "source_id": "edu-nju",
-    "company_name": "中国电信集团有限公司",
-    "title": "中国电信集团有限公司校园招聘",
-    "location": "南京大学",
-    "org_type": "research",
-    "industry": "通信",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c98ec0ef10198f477fcee0a9c",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "中国电信集团有限公司校园招聘",
-    "tags": [
-      "行业:通信",
-      "industry_match",
-      "央国企",
-      "缺截止"
-    ],
-    "match_score": 64,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "spa",
-      "school": "南京大学",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "edu-ahpu:d39fe55c52029bf8",
     "dedup_key": "d39fe55c52029bf8",
     "source_id": "edu-ahpu",
@@ -3272,6 +3229,44 @@
       "mode": "career",
       "source_label": "安徽工程大学就业网",
       "region": "安徽·芜湖",
+      "needs_ai": true
+    }
+  },
+  {
+    "job_id": "edu-nju:58a3e892b9698259",
+    "dedup_key": "58a3e892b9698259",
+    "source_id": "edu-nju",
+    "company_name": "中国电信集团有限公司",
+    "title": "中国电信集团有限公司校园招聘",
+    "location": "南京大学",
+    "org_type": "research",
+    "industry": "通信",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c98ec0ef10198f477fcee0a9c",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "中国电信集团有限公司校园招聘",
+    "tags": [
+      "行业:通信",
+      "industry_match",
+      "央国企",
+      "缺截止"
+    ],
+    "match_score": 64,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "spa",
+      "school": "南京大学",
       "needs_ai": true
     }
   },
@@ -3394,7 +3389,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "regional_portal",
@@ -3521,43 +3516,6 @@
       "mode": "career",
       "source_label": "中国计量大学就业网",
       "region": "浙江·杭州",
-      "needs_ai": true
-    }
-  },
-  {
-    "job_id": "edu-nju:61ed4d7af87ef672",
-    "dedup_key": "61ed4d7af87ef672",
-    "source_id": "edu-nju",
-    "company_name": "中国科技出版传媒股份有限公司",
-    "title": "中国科技出版传媒股份有限公司校园招聘",
-    "location": "南京大学",
-    "org_type": "research",
-    "industry": "传媒/文娱/广告",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c9f45a34d019f462e3e740003",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "中国科技出版传媒股份有限公司校园招聘",
-    "tags": [
-      "行业:传媒/文娱/广告",
-      "央国企",
-      "缺截止"
-    ],
-    "match_score": 44,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "spa",
-      "school": "南京大学",
       "needs_ai": true
     }
   },
@@ -5645,7 +5603,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -5684,7 +5642,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -8123,45 +8081,6 @@
     }
   },
   {
-    "job_id": "edu-tongji:ca617611e81ccf3c",
-    "dedup_key": "ca617611e81ccf3c",
-    "source_id": "edu-tongji",
-    "company_name": "江西省国有资本运营控股集团有限公司2026年第二批",
-    "title": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=e84c55948d9b448681d1da99cc057b0e",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
-    "tags": [
-      "行业:其他",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 24,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "edu-ahpu:50a0e3fa06d20058",
     "dedup_key": "50a0e3fa06d20058",
     "source_id": "edu-ahpu",
@@ -8236,6 +8155,45 @@
       "mode": "career",
       "source_label": "中国计量大学就业网",
       "region": "浙江·杭州",
+      "needs_ai": true
+    }
+  },
+  {
+    "job_id": "edu-tongji:ca617611e81ccf3c",
+    "dedup_key": "ca617611e81ccf3c",
+    "source_id": "edu-tongji",
+    "company_name": "江西省国有资本运营控股集团有限公司2026年第二批",
+    "title": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
+    "location": "上海",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=e84c55948d9b448681d1da99cc057b0e",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
+    "tags": [
+      "行业:其他",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 24,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "regional_portal",
+      "mode": "career",
+      "source_label": "同济大学就业网",
+      "region": "上海",
       "needs_ai": true
     }
   },
@@ -10645,7 +10603,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -11066,7 +11024,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -16270,6 +16228,47 @@
     }
   },
   {
+    "job_id": "cn-iguopin:b831e1aff8b564c9",
+    "dedup_key": "b831e1aff8b564c9",
+    "source_id": "cn-iguopin",
+    "company_name": "北京航天世景信息技术有限公司",
+    "title": "综合管理专员",
+    "location": "北京-石景山区",
+    "org_type": "aggregator",
+    "industry": "航空航天/军工",
+    "job_type": "unknown",
+    "publish_time": "2026-07-16",
+    "deadline": "2026-08-15",
+    "official_url": "https://www.iguopin.com/job/detail?id=209500809862318221",
+    "backup_url": "",
+    "salary": "8000-12000元/月",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "校园招聘 · 校招 · 行政专员/助理 · 硕士 · 应届生 · 8000-12000元/月",
+    "tags": [
+      "行业:航空航天/军工",
+      "industry_match",
+      "央国企",
+      "city_match"
+    ],
+    "match_score": 70,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-08T06:38:46.863521+00:00",
+    "last_seen": "2026-08-11T10:44:18.081873+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "iguopin",
+      "salary": "8000-12000元/月",
+      "recruitment_type": "校园招聘",
+      "nature": "校招",
+      "category": "行政专员/助理",
+      "needs_ai": false
+    }
+  },
+  {
     "job_id": "cn-iguopin:42326554c3b64c61",
     "dedup_key": "42326554c3b64c61",
     "source_id": "cn-iguopin",
@@ -16346,47 +16345,6 @@
       "recruitment_type": "校园招聘",
       "nature": "校招",
       "category": "测绘员",
-      "needs_ai": false
-    }
-  },
-  {
-    "job_id": "cn-iguopin:b831e1aff8b564c9",
-    "dedup_key": "b831e1aff8b564c9",
-    "source_id": "cn-iguopin",
-    "company_name": "北京航天世景信息技术有限公司",
-    "title": "综合管理专员",
-    "location": "北京-石景山区",
-    "org_type": "aggregator",
-    "industry": "航空航天/军工",
-    "job_type": "unknown",
-    "publish_time": "2026-07-16",
-    "deadline": "2026-08-15",
-    "official_url": "https://www.iguopin.com/job/detail?id=209500809862318221",
-    "backup_url": "",
-    "salary": "8000-12000元/月",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "校园招聘 · 校招 · 行政专员/助理 · 硕士 · 应届生 · 8000-12000元/月",
-    "tags": [
-      "行业:航空航天/军工",
-      "industry_match",
-      "央国企",
-      "city_match"
-    ],
-    "match_score": 70,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T06:38:46.863521+00:00",
-    "last_seen": "2026-08-11T10:44:18.081873+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "iguopin",
-      "salary": "8000-12000元/月",
-      "recruitment_type": "校园招聘",
-      "nature": "校招",
-      "category": "行政专员/助理",
       "needs_ai": false
     }
   },
@@ -22248,7 +22206,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -22481,7 +22439,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -22598,7 +22556,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -23108,6 +23066,48 @@
     }
   },
   {
+    "job_id": "cn-iguopin:613d3f6ff02cd09d",
+    "dedup_key": "613d3f6ff02cd09d",
+    "source_id": "cn-iguopin",
+    "company_name": "中粮营养健康研究院有限公司",
+    "title": "粮食储运数字孪生与智能预警技术学科带头人",
+    "location": "北京-昌平区",
+    "org_type": "aggregator",
+    "industry": "教育/科研",
+    "job_type": "unknown",
+    "publish_time": "2026-08-11",
+    "deadline": "2026-08-26",
+    "official_url": "https://www.iguopin.com/job/detail?id=202416518116409981",
+    "backup_url": "",
+    "salary": "17000-20000元/月",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "社会招聘 · 社招 · 数据分析师 · 博士 · 3-5年 · 17000-20000元/月",
+    "tags": [
+      "行业:教育/科研",
+      "数据",
+      "数据科学",
+      "央国企",
+      "city_match"
+    ],
+    "match_score": 82,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-11T10:44:18.081873+00:00",
+    "last_seen": "2026-08-11T10:44:18.081873+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "iguopin",
+      "salary": "17000-20000元/月",
+      "recruitment_type": "社会招聘",
+      "nature": "社招",
+      "category": "数据分析师",
+      "needs_ai": false
+    }
+  },
+  {
     "job_id": "cn-iguopin:c8689083301c92d7",
     "dedup_key": "c8689083301c92d7",
     "source_id": "cn-iguopin",
@@ -23319,48 +23319,6 @@
       "recruitment_type": "社会招聘",
       "nature": "社招",
       "category": "自然语言处理",
-      "needs_ai": false
-    }
-  },
-  {
-    "job_id": "cn-iguopin:613d3f6ff02cd09d",
-    "dedup_key": "613d3f6ff02cd09d",
-    "source_id": "cn-iguopin",
-    "company_name": "中粮营养健康研究院有限公司",
-    "title": "粮食储运数字孪生与智能预警技术学科带头人",
-    "location": "北京-昌平区",
-    "org_type": "aggregator",
-    "industry": "教育/科研",
-    "job_type": "unknown",
-    "publish_time": "2026-08-11",
-    "deadline": "2026-08-26",
-    "official_url": "https://www.iguopin.com/job/detail?id=202416518116409981",
-    "backup_url": "",
-    "salary": "17000-20000元/月",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "社会招聘 · 社招 · 数据分析师 · 博士 · 3-5年 · 17000-20000元/月",
-    "tags": [
-      "行业:教育/科研",
-      "数据",
-      "数据科学",
-      "央国企",
-      "city_match"
-    ],
-    "match_score": 82,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-11T10:44:18.081873+00:00",
-    "last_seen": "2026-08-11T10:44:18.081873+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "iguopin",
-      "salary": "17000-20000元/月",
-      "recruitment_type": "社会招聘",
-      "nature": "社招",
-      "category": "数据分析师",
       "needs_ai": false
     }
   },
@@ -25590,7 +25548,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -25626,7 +25584,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -25662,7 +25620,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-08T21:55:41.568024+00:00",
+    "last_seen": "2026-08-11T22:20:01.037214+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",

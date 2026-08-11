@@ -79,6 +79,176 @@
       "url": "https://www.suzhou.gov.cn/",
       "label": "苏州市人民政府",
       "verification": "search+sitecode"
+    },
+    "3208": {
+      "unit_code": "3208",
+      "unit_name": "淮安市",
+      "province": "江苏",
+      "city": "淮安市",
+      "level": "city",
+      "url": "http://www.huaian.gov.cn/",
+      "label": "淮安市人民政府",
+      "verification": "search+strict-name"
+    },
+    "3209": {
+      "unit_code": "3209",
+      "unit_name": "盐城市",
+      "province": "江苏",
+      "city": "盐城市",
+      "level": "city",
+      "url": "https://www.yancheng.gov.cn/",
+      "label": "盐城市人民政府",
+      "verification": "search+strict-name"
+    },
+    "3406": {
+      "unit_code": "3406",
+      "unit_name": "淮北市",
+      "province": "安徽",
+      "city": "淮北市",
+      "level": "city",
+      "url": "https://www.huaibei.gov.cn/",
+      "label": "淮北市人民政府",
+      "verification": "search+sitecode"
+    },
+    "3415": {
+      "unit_code": "3415",
+      "unit_name": "六安市",
+      "province": "安徽",
+      "city": "六安市",
+      "level": "city",
+      "url": "https://www.luan.gov.cn/",
+      "label": "六安市人民政府",
+      "verification": "search+sitecode"
+    },
+    "310112": {
+      "unit_code": "310112",
+      "unit_name": "闵行区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shanghai.gov.cn/",
+      "label": "闵行区人民政府",
+      "verification": "search+strict-name"
+    },
+    "310120": {
+      "unit_code": "310120",
+      "unit_name": "奉贤区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.fengxian.gov.cn/",
+      "label": "奉贤区人民政府",
+      "verification": "search+strict-name"
+    },
+    "310117": {
+      "unit_code": "310117",
+      "unit_name": "松江区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.songjiang.gov.cn/",
+      "label": "松江区人民政府",
+      "verification": "search+sitecode"
+    },
+    "320281": {
+      "unit_code": "320281",
+      "unit_name": "江阴市",
+      "province": "江苏",
+      "city": "无锡市",
+      "level": "county",
+      "url": "https://www.jiangyin.gov.cn/",
+      "label": "江阴市人民政府",
+      "verification": "search+sitecode"
+    },
+    "320583": {
+      "unit_code": "320583",
+      "unit_name": "昆山市",
+      "province": "江苏",
+      "city": "苏州市",
+      "level": "county",
+      "url": "https://www.ks.gov.cn/",
+      "label": "昆山市人民政府",
+      "verification": "search+sitecode"
+    },
+    "320803": {
+      "unit_code": "320803",
+      "unit_name": "淮安区",
+      "province": "江苏",
+      "city": "淮安市",
+      "level": "county",
+      "url": "http://www.huaian.gov.cn/",
+      "label": "淮安区人民政府",
+      "verification": "search+strict-name"
+    },
+    "320612": {
+      "unit_code": "320612",
+      "unit_name": "通州区",
+      "province": "江苏",
+      "city": "南通市",
+      "level": "county",
+      "url": "https://www.bjtzh.gov.cn/",
+      "label": "通州区人民政府",
+      "verification": "search+strict-name"
+    },
+    "321283": {
+      "unit_code": "321283",
+      "unit_name": "泰兴市",
+      "province": "江苏",
+      "city": "泰州市",
+      "level": "county",
+      "url": "https://www.taixing.gov.cn/",
+      "label": "泰兴市人民政府",
+      "verification": "search+strict-name"
+    },
+    "321281": {
+      "unit_code": "321281",
+      "unit_name": "兴化市",
+      "province": "江苏",
+      "city": "泰州市",
+      "level": "county",
+      "url": "https://www.xinghua.gov.cn/",
+      "label": "兴化市人民政府",
+      "verification": "search+strict-name"
+    },
+    "340825": {
+      "unit_code": "340825",
+      "unit_name": "太湖县",
+      "province": "安徽",
+      "city": "安庆市",
+      "level": "county",
+      "url": "https://www.tba.gov.cn/",
+      "label": "太湖县人民政府",
+      "verification": "search+strict-name"
+    },
+    "341525": {
+      "unit_code": "341525",
+      "unit_name": "霍山县",
+      "province": "安徽",
+      "city": "六安市",
+      "level": "county",
+      "url": "https://www.ahhuoshan.gov.cn/",
+      "label": "霍山县人民政府",
+      "verification": "search+sitecode"
+    },
+    "341825": {
+      "unit_code": "341825",
+      "unit_name": "旌德县",
+      "province": "安徽",
+      "city": "宣城市",
+      "level": "county",
+      "url": "https://www.ahjd.gov.cn/",
+      "label": "旌德县人民政府",
+      "verification": "search+sitecode"
+    },
+    "341881": {
+      "unit_code": "341881",
+      "unit_name": "宁国市",
+      "province": "安徽",
+      "city": "宣城市",
+      "level": "county",
+      "url": "https://www.ningguo.gov.cn/",
+      "label": "宁国市人民政府",
+      "verification": "search+sitecode"
     }
   },
   "universities": {
@@ -326,9 +496,9 @@
       "name": "东华大学",
       "location": "上海",
       "root_url": "https://www.dhu.edu.cn/",
-      "career_url": "https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "上海大学": {
       "name": "上海大学",
@@ -438,9 +608,9 @@
       "name": "安徽农业大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahau.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://job.ahau.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "合肥大学": {
       "name": "合肥大学",
@@ -483,5 +653,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-11 10:44:17"
+  "updated_at": "2026-08-11 22:20:00"
 }
