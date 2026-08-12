@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-11 22:27:03",
-  "total": 108,
-  "ok": 96,
+  "checked_at": "2026-08-12 00:09:18",
+  "total": 80,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ahu",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-shu",
@@ -430,7 +430,7 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
+      "url": "https://www.ks.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -454,10 +454,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-hrss-daebf5d697",
@@ -479,6 +479,14 @@
       "source_id": "auto-sasac-60ba8daff1",
       "name": "吴中区·区国资办举办“百团进百万企业千万员工”宣讲暨安全生产重大隐患判定专题培训",
       "url": "http://www.szwz.gov.cn/szwz/c108682/202607/d9d61c336cd8480a9199a5dcf62866cb.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-3539806151",
+      "name": "义乌市·国资办",
+      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -631,238 +639,6 @@
       "source_id": "auto-edu-41bf68a365",
       "name": "浙江理工大学就业网",
       "url": "https://www.zstu.edu.cn/kxyj/dfyjy.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-35ede7ded0",
-      "name": "宁波大学就业网",
-      "url": "https://www.nbu.edu.cn/ztjj/xxgcxjpxsdzgtsshzysxztjygw.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-64cdab6b9f",
-      "name": "浙江财经大学就业网",
-      "url": "http://zccareer.zufe.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-0c70ec8c8f",
-      "name": "浙江师范大学就业网",
-      "url": "http://career.zjnu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-1bdfa82e2d",
-      "name": "杭州师范大学就业网",
-      "url": "http://career.hznu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-93d5f4363b",
-      "name": "温州大学就业网",
-      "url": "https://job.wzu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-dc83729230",
-      "name": "浙江农林大学就业网",
-      "url": "http://jy.zafu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-a6b99f30bc",
-      "name": "南京航空航天大学就业网",
-      "url": "https://nuaa.91job.org.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-7d5c71b631",
-      "name": "河海大学就业网",
-      "url": "http://hhu.91job.org.cn",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-7ec6b1de75",
-      "name": "苏州大学就业网",
-      "url": "https://www.suda.edu.cn/enroll_job/jyzd.jsp",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-08d4ce59e7",
-      "name": "南京邮电大学就业网",
-      "url": "http://njupt.91job.org.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-7696c762e1",
-      "name": "南京工业大学就业网",
-      "url": "http://njtech.91job.org.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-bb381bb457",
-      "name": "江南大学就业网",
-      "url": "http://jiangnan.91job.org.cn",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-5775f995a3",
-      "name": "中国矿业大学就业网",
-      "url": "http://www.91job.org.cn/sub-station/home/10290",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-31d2b66ead",
-      "name": "江苏大学就业网",
-      "url": "https://ujs.91job.org.cn/sub-station/home/10299",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-d4df7537d2",
-      "name": "南京信息工程大学就业网",
-      "url": "http://nuist.91job.org.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-0ad4885831",
-      "name": "上海理工大学就业网",
-      "url": "https://www.usst.edu.cn/sljy/list.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-40dffc5e09",
-      "name": "上海财经大学就业网",
-      "url": "https://career.sufe.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-3204305aee",
-      "name": "上海海事大学就业网",
-      "url": "https://job.shmtu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-fb50dafe38",
-      "name": "上海电力大学就业网",
-      "url": "https://career.shiep.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-a7c05b1517",
-      "name": "安徽工业大学就业网",
-      "url": "https://www.ahut.edu.cn/info/1002/28701.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-5c45ff5e44",
-      "name": "安徽理工大学就业网",
-      "url": "https://ztjy.aust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-8fe89cb27c",
-      "name": "安徽师范大学就业网",
-      "url": "http://career.ahnu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-2b5d1aa5f5",
-      "name": "安徽财经大学就业网",
-      "url": "http://jyfw.aufe.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-28673cc7a4",
-      "name": "安徽农业大学就业网",
-      "url": "http://job.ahau.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-6b9281c3c5",
-      "name": "合肥大学就业网",
-      "url": "https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-35478d3e6a",
-      "name": "安徽建筑大学就业网",
-      "url": "https://www.ahjzu.edu.cn/styjy/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-c8dc90c783",
-      "name": "合肥师范学院就业网",
-      "url": "https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-0bdf27a6fd",
-      "name": "淮北师范大学就业网",
-      "url": "https://www.chnu.edu.cn/zsjy",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-d22d28ba5d",
-      "name": "安庆师范大学就业网",
-      "url": "https://www.aqnu.edu.cn/jyjx.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
