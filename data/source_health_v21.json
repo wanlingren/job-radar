@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-13 00:13:19",
+  "checked_at": "2026-08-13 11:32:15",
   "total": 80,
-  "ok": 69,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ustc",
@@ -350,7 +350,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/18178583072315",
+      "url": "https://www.changzhou.gov.cn/ns_news/464178660110761",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -358,7 +358,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/07/03/4812265.shtml",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/13/4817777.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -366,7 +366,7 @@
     {
       "source_id": "auto-gov-1d46b1e644",
       "name": "江阴市人民政府",
-      "url": "https://www.jiangyin.gov.cn/doc/2026/08/07/1409993.shtml",
+      "url": "https://wxjy.jszwfw.gov.cn/jszwfw/bscx/itemlist/gr_index.do?webId=39&themid=B106&deptid=",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -414,7 +414,7 @@
     {
       "source_id": "auto-gov-60ba8daff1",
       "name": "吴中区人民政府",
-      "url": "http://www.szwz.gov.cn/szwz/bmdt/202607/1fbb9407555d42fa98b1edcfebfd0f63.shtml",
+      "url": "http://www.szwz.gov.cn/szwz/zwyw/202608/5de81142a75943c1b5f7ba72dd386117.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -454,7 +454,15 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229129919/art/2026/art_aca3e4d257b248a1b2333ceb30691311.html",
+      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-job-0558706808",
+      "name": "常州市·公共就业服务迈入智能化新阶段常州市推出“AI求职管家”",
+      "url": "https://www.changzhou.gov.cn/ns_news/464178660110761",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -634,14 +642,6 @@
       "ok": false,
       "http_status": 408,
       "error": "HTTPError"
-    },
-    {
-      "source_id": "auto-edu-dca9d563dc",
-      "name": "浙江工业大学就业网",
-      "url": "https://www.zjut.edu.cn/4498/list.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
     }
   ]
 }
