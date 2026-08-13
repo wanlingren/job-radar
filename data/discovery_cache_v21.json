@@ -368,9 +368,9 @@
       "name": "南京航空航天大学",
       "location": "江苏·南京",
       "root_url": "https://www.nuaa.edu.cn/",
-      "career_url": "https://nuaa.91job.org.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "南京理工大学": {
       "name": "南京理工大学",
@@ -592,9 +592,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://career.ahnu.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -653,5 +653,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-12 10:56:20"
+  "updated_at": "2026-08-12 23:46:37"
 }

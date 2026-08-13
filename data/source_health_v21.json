@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12 11:26:16",
+  "checked_at": "2026-08-13 00:13:19",
   "total": 80,
   "ok": 69,
   "items": [
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",
@@ -366,7 +366,7 @@
     {
       "source_id": "auto-gov-1d46b1e644",
       "name": "江阴市人民政府",
-      "url": "https://www.jiangyin.gov.cn/",
+      "url": "https://www.jiangyin.gov.cn/doc/2026/08/07/1409993.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"

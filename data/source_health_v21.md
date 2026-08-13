@@ -11,8 +11,8 @@
 - reg-gov-ah｜安徽省人民政府｜HTTP 403｜HTTPError｜https://www.ah.gov.cn/
 - reg-hrss-zj｜浙江省人社厅｜HTTP 0｜URLError｜https://rlsbt.zj.gov.cn/
 - reg-hrss-ah｜安徽省人社厅｜HTTP 403｜HTTPError｜https://hrss.ah.gov.cn/
+- edu-hdu｜杭州电子科技大学就业网｜HTTP 0｜TimeoutError｜https://job.hdu.edu.cn/
 - edu-ahu｜安徽大学就业网｜HTTP 412｜HTTPError｜http://job.ahu.edu.cn/
-- edu-ahpu｜安徽工程大学就业网｜HTTP 0｜URLError｜https://job.ahpu.edu.cn/
 - auto-gov-fc8b3c4107｜昆山市人民政府｜HTTP 0｜URLError｜https://www.ks.gov.cn/
 - auto-sasac-cea59b92fb｜宁国市·财政局国资委｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/395/0/page_1.html
 - auto-hrss-cea59b92fb｜宁国市·人社局｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/441/0/page_1.html
