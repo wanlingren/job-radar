@@ -624,9 +624,9 @@
       "name": "安徽建筑大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahjzu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "https://www.ahjzu.edu.cn/styjy/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "合肥师范学院": {
       "name": "合肥师范学院",
@@ -653,5 +653,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-13 10:58:34"
+  "updated_at": "2026-08-13 23:44:39"
 }
