@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-14 00:10:59",
+  "checked_at": "2026-08-14 11:31:02",
   "total": 80,
-  "ok": 70,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -342,7 +342,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "http://www.bjtzh.gov.cn/so/s?qt=%E5%B0%B1%E4%B8%9A%E6%8B%9B%E8%81%98",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081417245569151/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -350,7 +350,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/464178660110761",
+      "url": "https://www.changzhou.gov.cn/ns_news/500178649981955",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -358,7 +358,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/08/13/4817777.shtml",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/14/4818451.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/tzgg/index.html",
+      "url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_c397fc8d0ef34247a3e6622f8218a74e.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -454,18 +454,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-job-0558706808",
-      "name": "常州市·公共就业服务迈入智能化新阶段常州市推出“AI求职管家”",
-      "url": "https://www.changzhou.gov.cn/ns_news/464178660110761",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.yw.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-hrss-0558706808",
@@ -487,22 +479,6 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-60ba8daff1",
-      "name": "吴中区·区国资办举办“百团进百万企业千万员工”宣讲暨安全生产重大隐患判定专题培训",
-      "url": "http://www.szwz.gov.cn/szwz/c108682/202607/d9d61c336cd8480a9199a5dcf62866cb.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-3539806151",
-      "name": "义乌市·国资办",
-      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -596,6 +572,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-hrss-08b73507d1",
+      "name": "通州区·关于向北京漂亮娃娃科贸有限公司送达《北京市通州区人力资源和社会保障局催告书》的公告",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081416445221955/index.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-sasac-11d1447638",
       "name": "通州区·市国资委",
       "url": "http://gzw.beijing.gov.cn",
@@ -642,6 +626,22 @@
       "ok": false,
       "http_status": 408,
       "error": "HTTPError"
+    },
+    {
+      "source_id": "auto-edu-dca9d563dc",
+      "name": "浙江工业大学就业网",
+      "url": "https://www.zjut.edu.cn/4498/list.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-41bf68a365",
+      "name": "浙江理工大学就业网",
+      "url": "https://www.zstu.edu.cn/kxyj/dfyjy.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     }
   ]
 }

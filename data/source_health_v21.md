@@ -1,8 +1,8 @@
 # 信源健康检查 V2.1
 
 - 检查：80
-- 正常：70
-- 异常：10
+- 正常：69
+- 异常：11
 
 ## 异常信源
 - reg-sasac-zj｜浙江省国资委｜HTTP 0｜URLError｜https://gzw.zj.gov.cn/
@@ -13,5 +13,6 @@
 - reg-hrss-ah｜安徽省人社厅｜HTTP 403｜HTTPError｜https://hrss.ah.gov.cn/
 - edu-ahu｜安徽大学就业网｜HTTP 412｜HTTPError｜http://job.ahu.edu.cn/
 - auto-gov-fc8b3c4107｜昆山市人民政府｜HTTP 0｜URLError｜https://www.ks.gov.cn/
+- auto-gov-3539806151｜义乌市人民政府｜HTTP 0｜URLError｜https://www.yw.gov.cn/
 - auto-sasac-cea59b92fb｜宁国市·财政局国资委｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/395/0/page_1.html
 - auto-hrss-cea59b92fb｜宁国市·人社局｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/441/0/page_1.html
