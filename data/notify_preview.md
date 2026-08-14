@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-08-14
+# 🎯 江浙沪皖国资招聘雷达｜2026-08-15
 
-> 今日待提醒：**134 条**｜7天内截止：**1 条**
+> 今日待提醒：**28 条**｜7天内截止：**0 条**
 
-> 📍 浙江 7｜江苏 7｜上海 6｜安徽 3
+> 📍 浙江 12｜江苏 0｜上海 3｜安徽 1
 
-> ⭐27届校园招聘 10｜🟦校园招聘/应届生 53｜🟨国企公开招聘 4｜🟧国企社会招聘 63｜🟩事业单位/人才引进 3｜🟪事业单位/编外 1
+> 🟦校园招聘/应届生 13｜🟨国企公开招聘 1｜🟧国企社会招聘 3｜🟩事业单位/人才引进 3｜🟪事业单位/编外 8
 
-[📋 一次查看全部 134 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 28 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [国投生物能源（铁岭）有限公司｜会计｜0天后截止](https://www.iguopin.com/job/detail?id=212254571731356419)
-- [中国能源建设集团浙江火电建设有限公司｜海外项目供应链专员](https://www.iguopin.com/job/detail?id=213674124558467926)
-- [广州虹科电子科技有限公司｜自动驾驶仿真测试工程师(J10040)](https://www.iguopin.com/job/detail?id=213672754547786575)
-- [广州虹科电子科技有限公司｜商业领袖计划 - 销售精英方向(J10086)](https://www.iguopin.com/job/detail?id=213703150752760655)
-- [上海胡润百富投资管理咨询有限公司｜IT前端工程师实习生（官网优化）](https://www.iguopin.com/job/detail?id=213713338700399432)
-- [麒麟软件有限公司｜销售专员（安徽-合肥）](https://www.iguopin.com/job/detail?id=213713529809666921)
-- [广州虹科电子科技有限公司｜解决方案工程师-软件方向(J10209)](https://www.iguopin.com/job/detail?id=213605999850816307)
-- [广州虹科电子科技有限公司｜平面设计师(J10009)](https://www.iguopin.com/job/detail?id=213673992857322291)
-- [广州虹科电子科技有限公司｜网站与数字化运维工程师(J10195)](https://www.iguopin.com/job/detail?id=207342638238532372)
-- [标题｜标题：2026届毕业生秋季校园招聘活动安排 点击数：2600 发表时间：2025-09-01](https://jyzd.chnu.edu.cn/tzgg/content_133536)
+- [洛阳栾川钼业集团股份有限公司｜职能类-财务方向](https://www.iguopin.com/job/detail?id=213566290579686088)
+- [洛阳栾川钼业集团股份有限公司｜技术类-HSE方向](https://www.iguopin.com/job/detail?id=213570005374075567)
+- [洛阳栾川钼业集团股份有限公司｜职能类-人力资源方向](https://www.iguopin.com/job/detail?id=213568062941561473)
+- [标题：国企-蚌埠国钛纳米材料有限公司｜标题：国企-蚌埠国钛纳米材料有限公司校园招聘简章（材料化学、应用化学、化学…](https://jyzd.chnu.edu.cn/xsfw/gwxx/content_149910)
+- [企业招聘|绍兴市文旅集团｜企业招聘|绍兴市文旅集团招聘公告](http://career.zjnu.edu.cn/campus/view/id/871975)
+- [事业单位|浙江省产业发展中心2026年下半年｜事业单位|浙江省产业发展中心2026年下半年公开招聘人员公告](https://career.zjnu.edu.cn/news/view/aid/432688/tag/gzgx)
+- [事业单位|永康市司法局工作人员｜事业单位|永康市司法局工作人员招聘公告](https://career.zjnu.edu.cn/news/view/aid/432687/tag/gzgx)
+- [事业单位|永康市人民政府江南街道办事处工作人员｜事业单位|永康市人民政府江南街道办事处工作人员招聘公告](https://career.zjnu.edu.cn/news/view/aid/432686/tag/gzgx)
+- [浙江师范大学就业网｜教师招聘|杭州市余杭区黄湖小学2026年招聘编外教师公告](https://career.zjnu.edu.cn/news/view/aid/432685/tag/jszp)
+- [浙江师范大学就业网｜教师招聘|杭州市余杭区中泰小学2026年招聘编外教师公告](https://career.zjnu.edu.cn/news/view/aid/432684/tag/jszp)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

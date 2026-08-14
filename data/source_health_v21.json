@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-14 11:31:02",
+  "checked_at": "2026-08-14 23:53:04",
   "total": 80,
-  "ok": 69,
+  "ok": 67,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-ahu",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-nju",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-shu",
@@ -454,10 +454,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-hrss-0558706808",
@@ -479,6 +479,14 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-3539806151",
+      "name": "义乌市·国资办",
+      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -631,14 +639,6 @@
       "source_id": "auto-edu-dca9d563dc",
       "name": "浙江工业大学就业网",
       "url": "https://www.zjut.edu.cn/4498/list.htm",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-edu-41bf68a365",
-      "name": "浙江理工大学就业网",
-      "url": "https://www.zstu.edu.cn/kxyj/dfyjy.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"

@@ -29,7 +29,7 @@ name,location,root_url,career_url,status,verification
 同济大学,上海,https://www.tongji.edu.cn/,http://tj91.tongji.edu.cn/,covered-static,configured
 华东师范大学,上海,https://www.ecnu.edu.cn/,https://career.ecnu.edu.cn/career/index,covered-static,configured
 华东理工大学,上海,https://www.ecust.edu.cn/,https://career.ecust.edu.cn/,covered-static,configured
-东华大学,上海,https://www.dhu.edu.cn/,https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm,discovered,discovered-from-university-homepage
+东华大学,上海,https://www.dhu.edu.cn/,,unresolved,
 上海大学,上海,https://www.shu.edu.cn/,https://zbb.shu.edu.cn/,covered-static,configured
 上海理工大学,上海,https://www.usst.edu.cn/,https://www.usst.edu.cn/sljy/list.htm,discovered,discovered-from-university-homepage
 上海财经大学,上海,https://www.sufe.edu.cn/,https://career.sufe.edu.cn/,discovered,discovered-from-university-homepage
@@ -43,7 +43,7 @@ name,location,root_url,career_url,status,verification
 安徽理工大学,安徽·淮南,https://www.aust.edu.cn/,https://ztjy.aust.edu.cn/,discovered,discovered-from-university-homepage
 安徽师范大学,安徽·芜湖,https://www.ahnu.edu.cn/,http://career.ahnu.edu.cn/,discovered,discovered-from-university-homepage
 安徽财经大学,安徽·蚌埠,https://www.aufe.edu.cn/,http://jyfw.aufe.edu.cn/,discovered,discovered-from-university-homepage
-安徽农业大学,安徽·合肥,https://www.ahau.edu.cn/,,unresolved,
+安徽农业大学,安徽·合肥,https://www.ahau.edu.cn/,http://job.ahau.edu.cn/,discovered,discovered-from-university-homepage
 合肥大学,安徽·合肥,https://www.hfuu.edu.cn/,https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm,discovered,discovered-from-university-homepage
 安徽建筑大学,安徽·合肥,https://www.ahjzu.edu.cn/,https://www.ahjzu.edu.cn/2026/0814/c19a273300/page.htm,discovered,discovered-from-university-homepage
 合肥师范学院,安徽·合肥,https://www.hfnu.edu.cn/,https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm,discovered,discovered-from-university-homepage
