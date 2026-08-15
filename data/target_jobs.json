@@ -2702,7 +2702,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -3119,6 +3119,83 @@
       "mode": "career",
       "source_label": "中国计量大学就业网",
       "region": "浙江·杭州",
+      "needs_ai": true
+    }
+  },
+  {
+    "job_id": "edu-nju:d1ff24e26e4322a2",
+    "dedup_key": "d1ff24e26e4322a2",
+    "source_id": "edu-nju",
+    "company_name": "中国船舶重工集团有限公司第七一0研究所 关于举办2026年度“博士十所行”开放日活动的邀请函",
+    "title": "中国船舶重工集团有限公司第七一0研究所 关于举办2026年度“博士十所行”开放日活动的邀请函",
+    "location": "南京大学",
+    "org_type": "research",
+    "industry": "航空航天/军工",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c9fc56bee019fca9ef668036d",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "中国船舶重工集团有限公司第七一0研究所 关于举办2026年度“博士十所行”开放日活动的邀请函",
+    "tags": [
+      "行业:航空航天/军工",
+      "研究",
+      "提前批",
+      "industry_match",
+      "央国企",
+      "缺截止"
+    ],
+    "match_score": 86,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-15T21:46:52.020919+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "spa",
+      "school": "南京大学",
+      "needs_ai": true
+    }
+  },
+  {
+    "job_id": "edu-nju:bc73a1a45a96dfd4",
+    "dedup_key": "bc73a1a45a96dfd4",
+    "source_id": "edu-nju",
+    "company_name": "中国国际海运集装箱（集团）股份有限公司",
+    "title": "中国国际海运集装箱（集团）股份有限公司校园招聘",
+    "location": "南京大学",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c997f9d4601998511e20207eb",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "中国国际海运集装箱（集团）股份有限公司校园招聘",
+    "tags": [
+      "行业:其他",
+      "央国企",
+      "缺截止"
+    ],
+    "match_score": 44,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-15T21:46:52.020919+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "spa",
+      "school": "南京大学",
       "needs_ai": true
     }
   },
@@ -3561,43 +3638,6 @@
     }
   },
   {
-    "job_id": "edu-nju:e70d52ec6545c0e1",
-    "dedup_key": "e70d52ec6545c0e1",
-    "source_id": "edu-nju",
-    "company_name": "中信证券股份有限公司上海分公司",
-    "title": "中信证券股份有限公司上海分公司校园招聘",
-    "location": "南京大学",
-    "org_type": "research",
-    "industry": "金融",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c9ecab7bc019ed86dbf4800e8",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "中信证券股份有限公司上海分公司校园招聘",
-    "tags": [
-      "行业:金融",
-      "央国企",
-      "缺截止"
-    ],
-    "match_score": 24,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-11T22:20:01.037214+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "spa",
-      "school": "南京大学",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "edu-cjlu:a0b6e77ffa220728",
     "dedup_key": "a0b6e77ffa220728",
     "source_id": "edu-cjlu",
@@ -3949,44 +3989,6 @@
     }
   },
   {
-    "job_id": "edu-nju:58a3e892b9698259",
-    "dedup_key": "58a3e892b9698259",
-    "source_id": "edu-nju",
-    "company_name": "中国电信集团有限公司",
-    "title": "中国电信集团有限公司校园招聘",
-    "location": "南京大学",
-    "org_type": "research",
-    "industry": "通信",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://job.nju.edu.cn/#!/more/fulltime_info_detail/5b5bf32c98ec0ef10198f477fcee0a9c",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "中国电信集团有限公司校园招聘",
-    "tags": [
-      "行业:通信",
-      "industry_match",
-      "央国企",
-      "缺截止"
-    ],
-    "match_score": 64,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "spa",
-      "school": "南京大学",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "edu-ahpu:d39fe55c52029bf8",
     "dedup_key": "d39fe55c52029bf8",
     "source_id": "edu-ahpu",
@@ -4145,7 +4147,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "regional_portal",
@@ -8145,7 +8147,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -8184,7 +8186,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -10581,45 +10583,6 @@
     }
   },
   {
-    "job_id": "edu-tongji:ca617611e81ccf3c",
-    "dedup_key": "ca617611e81ccf3c",
-    "source_id": "edu-tongji",
-    "company_name": "江西省国有资本运营控股集团有限公司2026年第二批",
-    "title": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=e84c55948d9b448681d1da99cc057b0e",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
-    "tags": [
-      "行业:其他",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 24,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "edu-ahpu:50a0e3fa06d20058",
     "dedup_key": "50a0e3fa06d20058",
     "source_id": "edu-ahpu",
@@ -10655,6 +10618,45 @@
       "mode": "career",
       "source_label": "安徽工程大学就业网",
       "region": "安徽·芜湖",
+      "needs_ai": true
+    }
+  },
+  {
+    "job_id": "edu-tongji:ca617611e81ccf3c",
+    "dedup_key": "ca617611e81ccf3c",
+    "source_id": "edu-tongji",
+    "company_name": "江西省国有资本运营控股集团有限公司2026年第二批",
+    "title": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
+    "location": "上海",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=e84c55948d9b448681d1da99cc057b0e",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
+    "tags": [
+      "行业:其他",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 24,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-08T08:18:48.299754+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "regional_portal",
+      "mode": "career",
+      "source_label": "同济大学就业网",
+      "region": "上海",
       "needs_ai": true
     }
   },
@@ -13705,7 +13707,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -15385,7 +15387,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -20325,48 +20327,6 @@
       "source_label": "市人社局",
       "region": "江苏·常州市·常州市",
       "needs_ai": true
-    }
-  },
-  {
-    "job_id": "cn-iguopin:44326a6a69d3af23",
-    "dedup_key": "44326a6a69d3af23",
-    "source_id": "cn-iguopin",
-    "company_name": "中电投广西核电有限公司",
-    "title": "广西核电2027届提前批",
-    "location": "防城港",
-    "org_type": "aggregator",
-    "industry": "能源/电力/石化",
-    "job_type": "unknown",
-    "publish_time": "2026-08-03",
-    "deadline": "2026-08-15",
-    "official_url": "https://www.iguopin.com/job/detail?id=212080597269482248",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "校园招聘 · 校招 · 核电_电气工程师 · 本科 · 应届生",
-    "tags": [
-      "行业:能源/电力/石化",
-      "27届",
-      "提前批",
-      "industry_match",
-      "央国企"
-    ],
-    "match_score": 88,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T06:38:46.863521+00:00",
-    "last_seen": "2026-08-15T10:18:55.706831+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "iguopin",
-      "salary": "",
-      "recruitment_type": "校园招聘",
-      "nature": "校招",
-      "category": "核电_电气工程师",
-      "needs_ai": false
     }
   },
   {
@@ -25558,7 +25518,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -25791,7 +25751,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -25908,7 +25868,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -26215,46 +26175,6 @@
     }
   },
   {
-    "job_id": "cn-iguopin:3286e0a5ac4a6052",
-    "dedup_key": "3286e0a5ac4a6052",
-    "source_id": "cn-iguopin",
-    "company_name": "重庆渝江压铸股份有限公司",
-    "title": "产品开发工程师",
-    "location": "重庆",
-    "org_type": "aggregator",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "2026-08-14",
-    "deadline": "2026-08-24",
-    "official_url": "https://www.iguopin.com/job/detail?id=213679546937901875",
-    "backup_url": "",
-    "salary": "7000-12000元/月",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "社会招聘 · 社招 · 其他职位 · 本科 · 3-5年 · 7000-12000元/月",
-    "tags": [
-      "行业:其他",
-      "产品",
-      "央国企"
-    ],
-    "match_score": 74,
-    "source_confidence": 50,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-14T23:25:50.480834+00:00",
-    "last_seen": "2026-08-15T10:18:55.706831+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "iguopin",
-      "salary": "7000-12000元/月",
-      "recruitment_type": "社会招聘",
-      "nature": "社招",
-      "category": "其他职位",
-      "needs_ai": false
-    }
-  },
-  {
     "job_id": "cn-iguopin:52239327f88196ef",
     "dedup_key": "52239327f88196ef",
     "source_id": "cn-iguopin",
@@ -26371,6 +26291,46 @@
       "recruitment_type": "社会招聘",
       "nature": "社招",
       "category": "销售经理/主管",
+      "needs_ai": false
+    }
+  },
+  {
+    "job_id": "cn-iguopin:3286e0a5ac4a6052",
+    "dedup_key": "3286e0a5ac4a6052",
+    "source_id": "cn-iguopin",
+    "company_name": "重庆渝江压铸股份有限公司",
+    "title": "产品开发工程师",
+    "location": "重庆",
+    "org_type": "aggregator",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "2026-08-14",
+    "deadline": "2026-08-24",
+    "official_url": "https://www.iguopin.com/job/detail?id=213679546937901875",
+    "backup_url": "",
+    "salary": "7000-12000元/月",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "社会招聘 · 社招 · 其他职位 · 本科 · 3-5年 · 7000-12000元/月",
+    "tags": [
+      "行业:其他",
+      "产品",
+      "央国企"
+    ],
+    "match_score": 74,
+    "source_confidence": 50,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-14T23:25:50.480834+00:00",
+    "last_seen": "2026-08-15T10:18:55.706831+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "iguopin",
+      "salary": "7000-12000元/月",
+      "recruitment_type": "社会招聘",
+      "nature": "社招",
+      "category": "其他职位",
       "needs_ai": false
     }
   },
@@ -30093,7 +30053,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -30129,7 +30089,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -30165,7 +30125,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-11T22:20:01.037214+00:00",
+    "last_seen": "2026-08-15T21:46:52.020919+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",

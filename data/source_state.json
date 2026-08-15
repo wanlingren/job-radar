@@ -83,25 +83,25 @@
   "edu-fudan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-11T22:20:55.206885+00:00",
+    "last_success_at": "2026-08-15T21:47:45.439029+00:00",
     "last_error": "",
-    "last_count": 34,
+    "last_count": 32,
     "peak_count": 36,
     "alert": ""
   },
   "edu-nju": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-11T22:20:35.213031+00:00",
+    "last_success_at": "2026-08-15T21:47:25.159200+00:00",
     "last_error": "",
-    "last_count": 6,
+    "last_count": 10,
     "peak_count": 11,
     "alert": ""
   },
   "edu-sjtu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-11T22:21:27.072840+00:00",
+    "last_success_at": "2026-08-15T21:48:18.373973+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 11,
@@ -353,7 +353,7 @@
   "edu-seu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-11T22:20:40.425800+00:00",
+    "last_success_at": "2026-08-15T21:47:30.554441+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -362,16 +362,16 @@
   "edu-tongji": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-11T22:22:22.268706+00:00",
+    "last_success_at": "2026-08-15T21:49:14.308007+00:00",
     "last_error": "",
-    "last_count": 60,
-    "peak_count": 60,
+    "last_count": 70,
+    "peak_count": 70,
     "alert": ""
   },
   "reg-job-sh": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-11T22:22:27.510332+00:00",
+    "last_success_at": "2026-08-15T21:49:19.140714+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,

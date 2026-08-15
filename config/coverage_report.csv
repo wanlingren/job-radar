@@ -73,7 +73,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,无锡市,320213,梁溪区,county,missing,,
 江苏,无锡市,320214,新吴区,county,missing,,
 江苏,无锡市,320281,江阴市,county,covered,https://www.jiangyin.gov.cn/,search+sitecode
-江苏,无锡市,320282,宜兴市,county,missing,,
+江苏,无锡市,320282,宜兴市,county,covered,https://www.yixing.gov.cn/,search+sitecode
 江苏,徐州市,320302,鼓楼区,county,missing,,
 江苏,徐州市,320303,云龙区,county,missing,,
 江苏,徐州市,320305,贾汪区,county,missing,,
@@ -97,7 +97,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,苏州市,320508,姑苏区,county,missing,,
 江苏,苏州市,320509,吴江区,county,missing,,
 江苏,苏州市,320576,苏州工业园区,functional,missing,,
-江苏,苏州市,320581,常熟市,county,missing,,
+江苏,苏州市,320581,常熟市,county,covered,https://www.changshu.gov.cn/,search+sitecode
 江苏,苏州市,320582,张家港市,county,covered,https://www.zjg.gov.cn/,search+sitecode
 江苏,苏州市,320583,昆山市,county,covered,https://www.ks.gov.cn/,search+sitecode
 江苏,苏州市,320585,太仓市,county,missing,,
@@ -368,4 +368,4 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,宣城市,341825,旌德县,county,covered,https://www.ahjd.gov.cn/,search+sitecode
 安徽,宣城市,341871,宣城市经济开发区,functional,missing,,
 安徽,宣城市,341881,宁国市,county,covered,https://www.ningguo.gov.cn/,search+sitecode
-安徽,宣城市,341882,广德市,county,missing,,
+安徽,宣城市,341882,广德市,county,covered,https://www.guangde.gov.cn/,search+strict-name
