@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-14 23:53:04",
+  "checked_at": "2026-08-15 10:45:13",
   "total": 80,
   "ok": 67,
   "items": [
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",
@@ -279,9 +279,9 @@
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-5bf6ad3fdc",
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_c397fc8d0ef34247a3e6622f8218a74e.html",
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_c397fc8d0ef34247a3e6622f8218a74e.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"

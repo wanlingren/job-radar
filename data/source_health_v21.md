@@ -13,8 +13,8 @@
 - reg-hrss-ah｜安徽省人社厅｜HTTP 403｜HTTPError｜https://hrss.ah.gov.cn/
 - edu-hfut｜合肥工业大学就业网｜HTTP 0｜URLError｜https://gdjy.hfut.edu.cn/
 - edu-ahu｜安徽大学就业网｜HTTP 412｜HTTPError｜http://job.ahu.edu.cn/
-- edu-ahpu｜安徽工程大学就业网｜HTTP 0｜URLError｜https://job.ahpu.edu.cn/
 - edu-ecnu｜华东师范大学就业网｜HTTP 0｜URLError｜https://career.ecnu.edu.cn/career/index
+- auto-gov-811c22a6ac｜松江区人民政府｜HTTP 0｜URLError｜https://www.songjiang.gov.cn/
 - auto-gov-fc8b3c4107｜昆山市人民政府｜HTTP 0｜URLError｜https://www.ks.gov.cn/
 - auto-sasac-cea59b92fb｜宁国市·财政局国资委｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/395/0/page_1.html
 - auto-hrss-cea59b92fb｜宁国市·人社局｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/441/0/page_1.html
