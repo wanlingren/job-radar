@@ -638,9 +638,9 @@
       "name": "安徽农业大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahau.edu.cn/",
-      "career_url": "http://job.ahau.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "合肥大学": {
       "name": "合肥大学",
@@ -678,10 +678,10 @@
       "name": "安庆师范大学",
       "location": "安徽·安庆",
       "root_url": "https://www.aqnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "https://www.aqnu.edu.cn/jyjx.htm",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-15 21:46:51"
+  "updated_at": "2026-08-15 23:23:56"
 }
