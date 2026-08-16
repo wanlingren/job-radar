@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-08-16 10:46:27",
+  "checked_at": "2026-08-16 23:57:14",
   "total": 80,
-  "ok": 68,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
       "name": "国务院国资委·人事招聘",
       "url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "gov-qyzp",
@@ -215,9 +215,9 @@
       "source_id": "edu-sjtu",
       "name": "上海交通大学就业网",
       "url": "https://www.job.sjtu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-tongji",
@@ -567,9 +567,9 @@
       "source_id": "auto-sasac-d70b515ce4",
       "name": "闵行区·国务院国有资产监督管理委员会",
       "url": "http://www.sasac.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-hrss-85e7cd484a",
