@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-08-15 23:50:21",
+  "checked_at": "2026-08-16 10:46:27",
   "total": 80,
-  "ok": 71,
+  "ok": 68,
   "items": [
     {
       "source_id": "gov-sasac",
       "name": "国务院国资委·人事招聘",
       "url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "gov-qyzp",
@@ -374,7 +374,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/08/14/4818451.shtml",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/16/4818607.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -478,10 +478,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.yw.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-hrss-0558706808",
@@ -503,14 +503,6 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-3539806151",
-      "name": "义乌市·国资办",
-      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -575,9 +567,9 @@
       "source_id": "auto-sasac-d70b515ce4",
       "name": "闵行区·国务院国有资产监督管理委员会",
       "url": "http://www.sasac.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "auto-hrss-85e7cd484a",
@@ -639,6 +631,14 @@
       "source_id": "auto-job-32c20dfdbe",
       "name": "旌德县·就业服务",
       "url": "https://www.ahjd.gov.cn/Service/showList.html?nav=2&serviceObject=P&ztmb=28&itemName=%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&cityCode=341825000000&cityName=%E6%97%8C%E5%BE%B7%E5%8E%BF",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-c5ab870169",
+      "name": "宁国市·市人社局",
+      "url": "https://xc.ahzwfw.gov.cn/bog-bsdt/static/workProcess/departmentHoem.html?deptCode=34181401230200000000&cityCode=341881000000&cityName=%25E5%25AE%2581%25E5%259B%25BD%25E5%25B8%2582",
       "ok": true,
       "http_status": 200,
       "error": "ok"

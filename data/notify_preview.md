@@ -1,24 +1,22 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-08-16
 
-> 今日待提醒：**19 条**｜7天内截止：**1 条**
+> 今日待提醒：**8 条**｜7天内截止：**1 条**
 
-> 📍 浙江 13｜江苏 5｜上海 0｜安徽 1
+> 📍 浙江 6｜江苏 0｜上海 0｜安徽 0
 
-> 🟦校园招聘/应届生 5｜🟨国企公开招聘 1｜🟩事业单位/人才引进 4｜🟪事业单位/编外 9
+> ⭐27届校园招聘 1｜🟦校园招聘/应届生 5｜🟨国企公开招聘 2
 
-[📋 一次查看全部 19 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 8 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [宜兴市｜2026年宜兴市公开招聘社区工作者公告｜7天后截止](http://www.yixing.gov.cn/doc/2026/08/10/1410313.shtml)
-- [宜兴市卫生健康系统研究生｜2026年宜兴市卫生健康系统研究生校园招聘（第...](http://www.yixing.gov.cn/doc/2026/08/13/1410993.shtml)
-- [宜兴市卫生健康系统研究生｜2026年宜兴市卫生健康系统研究生校园招聘拟聘...](http://www.yixing.gov.cn/doc/2026/08/13/1410991.shtml)
-- [中国航发南京航空动力有限责任公司｜工艺技术岗](https://www.iguopin.com/job/detail?id=211207523632417012)
-- [常熟市人民政府｜对市十六届人大四次会议第247号建议的答复（关于常熟地区人才引进政策支持的建议）](https://www.changshu.gov.cn/zgcs/rdjybljggk/202509/310e7c6d51ba4ed18c9a45205e199f2f.shtml)
-- [标题：国企-蚌埠国钛纳米材料有限公司｜标题：国企-蚌埠国钛纳米材料有限公司校园招聘简章（材料化学、应用化学、化学…](https://jyzd.chnu.edu.cn/xsfw/gwxx/content_149910)
-- [事业单位|中共浙江省纪委浙江省监委关于2026年｜事业单位|中共浙江省纪委浙江省监委关于2026年公开招聘派驻省…](https://career.zjnu.edu.cn/news/view/aid/432701/tag/gzgx)
-- [事业单位|杭州市拱墅区人民法院｜事业单位|杭州市拱墅区人民法院公开招聘辅助人员公告](https://career.zjnu.edu.cn/news/view/aid/432703/tag/gzgx)
-- [事业单位|浙江省文化广电和旅游厅关于部分直属事业单位2026年｜事业单位|浙江省文化广电和旅游厅关于部分直属事业…](https://career.zjnu.edu.cn/news/view/aid/432702/tag/gzgx)
-- [事业单位|2026年嘉兴市南湖区“南湖·初心起航”揽才计划暨南湖区党政机关事业单位｜事业单位|2026年嘉兴市南…](https://career.zjnu.edu.cn/news/view/aid/432699/tag/gzgx)
+- [中国人寿保险股份有限公司广州市天河支公司｜人事助理｜3天后截止](https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1780125936711536642&bcb009=2087090883677986818)
+- [吉利控股集团｜吉利控股集团2027届秋季全球校园招聘简章](https://jyb.cjlu.edu.cn/campus/view/id/353948)
+- [杭州师范大学就业网｜招聘会报名预留展位模板.xls](http://career.hznu.edu.cn/news/view/aid/223202/tag/cyxz)
+- [吉利控股集团｜吉利控股集团2026届全球校园招聘会](http://jyb.zstu.edu.cn/job/view/id/467626)
+- [中国计量大学就业网｜商务实习生 浙江浙峰云智科技有限公司](https://jyb.cjlu.edu.cn/job/view/id/428637)
+- [中国计量大学就业网｜实习生 浙江浙峰云智科技有限公司](https://jyb.cjlu.edu.cn/job/view/id/428635)
+- [中国计量大学就业网｜施工管理实习生 港立建设（浙江）有限公司](https://jyb.cjlu.edu.cn/job/view/id/428634)
+- [中国人寿保险股份有限公司广州市黄埔支公司第二营销服务部｜业务经理](https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1899723601540550657&bcb009=2087094166093545473)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
