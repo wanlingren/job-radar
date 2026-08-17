@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-17 10:50:39",
+  "checked_at": "2026-08-17 23:57:09",
   "total": 80,
   "ok": 71,
   "items": [
@@ -398,7 +398,7 @@
     {
       "source_id": "auto-gov-f66bd5bce0",
       "name": "泰兴市人民政府",
-      "url": "https://www.taixing.gov.cn/",
+      "url": "https://www.taixing.gov.cn/xwzx/tzgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
