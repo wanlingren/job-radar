@@ -1,24 +1,17 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-08-18
+# 🎯 江浙沪皖国资招聘雷达｜2026-08-19
 
-> 今日待提醒：**177 条**｜7天内截止：**6 条**
+> 今日待提醒：**3 条**｜7天内截止：**0 条**
 
-> 📍 浙江 19｜江苏 32｜上海 7｜安徽 8
+> 📍 浙江 0｜江苏 0｜上海 3｜安徽 0
 
-> ⭐27届校园招聘 10｜🟦校园招聘/应届生 103｜🟨国企公开招聘 8｜🟧国企社会招聘 35｜🟩事业单位/人才引进 15｜🟪事业单位/编外 5｜⬜政府官方招聘公告 1
+> 🟦校园招聘/应届生 1｜🟨国企公开招聘 2
 
-[📋 一次查看全部 177 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 3 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [国药控股德阳有限公司｜项目销售内勤｜2天后截止](https://www.iguopin.com/job/detail?id=214288475220870137)
-- [新疆天山水泥有限责任公司｜设备维修员｜4天后截止](https://www.iguopin.com/job/detail?id=214166242498446323)
-- [国影佳映（北京）文化传播有限公司｜影片策展岗｜6天后截止](https://www.iguopin.com/job/detail?id=214294367261688830)
-- [国影佳映（北京）文化传播有限公司｜媒体专员岗（新媒体编辑）｜6天后截止](https://www.iguopin.com/job/detail?id=214294282100540416)
-- [国影佳映（北京）文化传播有限公司｜文创管理岗｜6天后截止](https://www.iguopin.com/job/detail?id=214284860452242427)
-- [国影佳映（北京）文化传播有限公司｜人力资源行政岗｜6天后截止](https://www.iguopin.com/job/detail?id=214286700560516088)
-- [08-18 顶 中国计量大学｜2026-08-18 顶 中国计量大学2027届毕业生生源情况及招聘联系方式](https://jyb.cjlu.edu.cn/news/view/aid/28283/tag/tzgg)
-- [中国计量大学就业网｜2026-08-18 中国计量大学2026年下半年毕业生招聘服务工作整体安排](https://jyb.cjlu.edu.cn/news/view/aid/28284/tag/tzgg)
-- [深圳市沐联恒科技有限公司｜自动化技术员 欢迎27届实习生](https://www.iguopin.com/job/detail?id=214253252361847800)
-- [中冶建筑研究总院有限公司｜设备管理工程师-2027校招](https://www.iguopin.com/job/detail?id=214264327153124344)
+- [同济大学就业网｜2026 08月17日 中建投租赁（上海）有限责任公司 【实习生 可留用】中建投租赁（金融央企子…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=dd024eb9684b4d32a73dbc010a5b2da7;)
+- [08月18日 中国科学院长春光学精密机械与物理研究所 中国科学院长春光学精密机械与物理研究所(长春光机所)管理岗…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=4a9ec0b0762043d0abd4c18277557666;)
+- [张家港市国有企业专业化青年人才｜2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

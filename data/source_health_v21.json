@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-18 10:49:40",
-  "total": 80,
-  "ok": 69,
+  "checked_at": "2026-08-18 21:56:40",
+  "total": 129,
+  "ok": 116,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-ahu",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-nju",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-shu",
@@ -276,6 +276,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-gov-5bf6ad3fdc",
+      "name": "青浦区人民政府",
+      "url": "https://www.gzw.sh.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/",
@@ -284,17 +292,17 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-gov-5bf6ad3fdc",
-      "name": "闵行区人民政府",
-      "url": "https://www.gzw.sh.gov.cn/",
+      "source_id": "auto-gov-012bc75882",
+      "name": "六安市人民政府",
+      "url": "https://www.luan.gov.cn/zwzx/gsgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
     },
     {
-      "source_id": "auto-gov-012bc75882",
-      "name": "六安市人民政府",
-      "url": "https://www.luan.gov.cn/zwzx/gsgg/index.html",
+      "source_id": "auto-gov-cc842a0836",
+      "name": "金寨县人民政府",
+      "url": "https://www.ahjinzhai.gov.cn/zwzx/gsgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -319,9 +327,17 @@
       "source_id": "auto-gov-cea59b92fb",
       "name": "宁国市人民政府",
       "url": "https://www.ningguo.gov.cn/Search/?keyword=%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&amp;field=all",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-70f08226da",
+      "name": "宣城市人民政府",
+      "url": "https://www.xuancheng.gov.cn/Search?keyword=%E5%B0%B1%E4%B8%9A",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-3858dcf74d",
@@ -348,6 +364,30 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-gov-c4677255f3",
+      "name": "凤台县人民政府",
+      "url": "https://www.ft.gov.cn/xwzx/gsgg/index.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-e09137f3c0",
+      "name": "铜陵市人民政府",
+      "url": "https://www.tl.gov.cn/tlsrmzf/zgz/pc/list.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-2d2275cee3",
+      "name": "玄武区人民政府",
+      "url": "https://www.xwzf.gov.cn/xwqrmzf/?id=xxgk_252",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
       "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081816541259042/index.shtml",
@@ -359,6 +399,14 @@
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
       "url": "https://www.changzhou.gov.cn/ns_news/500178649981955",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-cfad440442",
+      "name": "溧阳市人民政府",
+      "url": "https://www.liyang.gov.cn/html/czly/2026/IQKPQDDP_0811/240317.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -436,6 +484,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-gov-130c24ba79",
+      "name": "姑苏区人民政府",
+      "url": "https://www.gusu.gov.cn/gsq/gsgg/nav_list.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-gov-910bc9ec58",
       "name": "常熟市人民政府",
       "url": "https://www.changshu.gov.cn/zgcs/c100280/list.shtml",
@@ -454,10 +510,10 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-519f3837e3",
@@ -471,6 +527,14 @@
       "source_id": "auto-gov-99796e2338",
       "name": "海州区人民政府",
       "url": "http://www.lyghz.gov.cn/lyghzqrmzf/tzggg/tzggg.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-gov-2f1982813b",
+      "name": "连云港市人民政府",
+      "url": "https://www.gov.cn/zhengce/content/202606/content_7072481.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -573,7 +637,7 @@
     },
     {
       "source_id": "auto-sasac-d70b515ce4",
-      "name": "闵行区·国务院国有资产监督管理委员会",
+      "name": "玄武区·国务院国资委",
       "url": "http://www.sasac.gov.cn/",
       "ok": true,
       "http_status": 200,
@@ -599,6 +663,14 @@
       "source_id": "auto-hrss-1d46b1e644",
       "name": "江阴市·市人力资源和社会保障局",
       "url": "https://www.jiangyin.gov.cn/rsj/index.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-fc8b3c4107",
+      "name": "昆山市·关于昆山市人力资源和社会保障局行政许可窗口地址变更的通知",
+      "url": "https://www.ks.gov.cn/kss/gsgg/202608/c1e6774bd0514756aca0b9e03003748f.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -642,6 +714,326 @@
       "ok": false,
       "http_status": 408,
       "error": "HTTPError"
+    },
+    {
+      "source_id": "auto-hrss-cea59b92fb",
+      "name": "宁国市·人社局",
+      "url": "https://www.ningguo.gov.cn/XxgkContent/showList/441/0/page_1.html",
+      "ok": false,
+      "http_status": 408,
+      "error": "HTTPError"
+    },
+    {
+      "source_id": "auto-hrss-9854727e16",
+      "name": "宜兴市·市人力资源和社会保障局",
+      "url": "http://www.yixing.gov.cn/rsj/index.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-638e15f1ce",
+      "name": "常熟市·人社局",
+      "url": "http://szcs.jszwfw.gov.cn/jszwfw/bscx/itemlist/gr_index.do?webId=30&themid=&deptid=11320581014173412K",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-2f1982813b",
+      "name": "连云港市·连云港市国资委、连云港港口控股集团有限公司、连云港市城建控股集团、连云港市交通控股集团走进《政风热线》访谈预告",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/ftyg/content/d09c7f19-2d90-4e4d-8f59-929f4ff75b68.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-696a1fc19e",
+      "name": "铜陵市·人力资源和社会保障局",
+      "url": "https://rsj.tl.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-job-70f08226da",
+      "name": "宣城市·就业服务",
+      "url": "https://www.xuancheng.gov.cn/Livelihood/index/3.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-0bdaf66bb8",
+      "name": "宣城市·市人社局",
+      "url": "http://rsj.xuancheng.gov.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-4806251b90",
+      "name": "玄武区·区人社局",
+      "url": "https://njxw.jszwfw.gov.cn/jszwfw/publicservice/itemlist/gg_index.do?webId=14&themid=&deptid=113201020129658707&fwtype=",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-319c0cdc89",
+      "name": "溧阳市·市人社局",
+      "url": "https://czly.jszwfw.gov.cn/jszwfw/publicservice/itemlist/gg_index.do?webId=46&themid=&deptid=123204814674542847&fwtype=",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-4e70ab4b72",
+      "name": "凤台县·县人社局",
+      "url": "http://hn.ahzwfw.gov.cn/bog-bsdt/static/workProcess/departmentHoem.html?cityCode=340421000000&deptCode=34042123170000000000&cityName=%25E5%2587%25A4%25E5%258F%25B0%25E5%258E%25BF",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-hrss-cc842a0836",
+      "name": "金寨县·县人社局：坚持以“四个有力”扎实做好高校毕业生档案转递接收工作",
+      "url": "https://www.ahjinzhai.gov.cn/zwzx/bmxx/38844017.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-dca9d563dc",
+      "name": "浙江工业大学就业网",
+      "url": "https://www.zjut.edu.cn/4498/list.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-41bf68a365",
+      "name": "浙江理工大学就业网",
+      "url": "https://www.zstu.edu.cn/kxyj/dfyjy.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-35ede7ded0",
+      "name": "宁波大学就业网",
+      "url": "https://www.nbu.edu.cn/ztjj/xxgcxjpxsdzgtsshzysxztjygw.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-64cdab6b9f",
+      "name": "浙江财经大学就业网",
+      "url": "http://zccareer.zufe.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-0c70ec8c8f",
+      "name": "浙江师范大学就业网",
+      "url": "http://career.zjnu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-1bdfa82e2d",
+      "name": "杭州师范大学就业网",
+      "url": "http://career.hznu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-93d5f4363b",
+      "name": "温州大学就业网",
+      "url": "https://job.wzu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-dc83729230",
+      "name": "浙江农林大学就业网",
+      "url": "http://jy.zafu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-a6b99f30bc",
+      "name": "南京航空航天大学就业网",
+      "url": "https://nuaa.91job.org.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-7d5c71b631",
+      "name": "河海大学就业网",
+      "url": "http://hhu.91job.org.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-7ec6b1de75",
+      "name": "苏州大学就业网",
+      "url": "https://www.suda.edu.cn/enroll_job/jyzd.jsp",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-08d4ce59e7",
+      "name": "南京邮电大学就业网",
+      "url": "http://njupt.91job.org.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-7696c762e1",
+      "name": "南京工业大学就业网",
+      "url": "http://njtech.91job.org.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-bb381bb457",
+      "name": "江南大学就业网",
+      "url": "http://jiangnan.91job.org.cn",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-5775f995a3",
+      "name": "中国矿业大学就业网",
+      "url": "http://www.91job.org.cn/sub-station/home/10290",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-31d2b66ead",
+      "name": "江苏大学就业网",
+      "url": "https://ujs.91job.org.cn/sub-station/home/10299",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-d4df7537d2",
+      "name": "南京信息工程大学就业网",
+      "url": "http://nuist.91job.org.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-0ad4885831",
+      "name": "上海理工大学就业网",
+      "url": "https://www.usst.edu.cn/sljy/list.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-40dffc5e09",
+      "name": "上海财经大学就业网",
+      "url": "https://career.sufe.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-3204305aee",
+      "name": "上海海事大学就业网",
+      "url": "https://job.shmtu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-a7c05b1517",
+      "name": "安徽工业大学就业网",
+      "url": "https://www.ahut.edu.cn/info/1002/28701.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-5c45ff5e44",
+      "name": "安徽理工大学就业网",
+      "url": "https://ztjy.aust.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-8fe89cb27c",
+      "name": "安徽师范大学就业网",
+      "url": "http://career.ahnu.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-2b5d1aa5f5",
+      "name": "安徽财经大学就业网",
+      "url": "http://jyfw.aufe.edu.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-6b9281c3c5",
+      "name": "合肥大学就业网",
+      "url": "https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-35478d3e6a",
+      "name": "安徽建筑大学就业网",
+      "url": "https://www.ahjzu.edu.cn/2026/0814/c19a273300/page.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-c8dc90c783",
+      "name": "合肥师范学院就业网",
+      "url": "https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-0bdf27a6fd",
+      "name": "淮北师范大学就业网",
+      "url": "https://www.chnu.edu.cn/zsjy",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-edu-d22d28ba5d",
+      "name": "安庆师范大学就业网",
+      "url": "https://www.aqnu.edu.cn/jyjx.htm",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     }
   ]
 }

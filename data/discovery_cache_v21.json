@@ -279,6 +279,116 @@
       "url": "https://www.guangde.gov.cn/",
       "label": "广德市人民政府",
       "verification": "search+strict-name"
+    },
+    "3207": {
+      "unit_code": "3207",
+      "unit_name": "连云港市",
+      "province": "江苏",
+      "city": "连云港市",
+      "level": "city",
+      "url": "https://www.lyg.gov.cn/",
+      "label": "连云港市人民政府",
+      "verification": "search+strict-name"
+    },
+    "3407": {
+      "unit_code": "3407",
+      "unit_name": "铜陵市",
+      "province": "安徽",
+      "city": "铜陵市",
+      "level": "city",
+      "url": "https://www.tl.gov.cn/",
+      "label": "铜陵市人民政府",
+      "verification": "search+sitecode"
+    },
+    "3418": {
+      "unit_code": "3418",
+      "unit_name": "宣城市",
+      "province": "安徽",
+      "city": "宣城市",
+      "level": "city",
+      "url": "https://www.xuancheng.gov.cn/",
+      "label": "宣城市人民政府",
+      "verification": "search+sitecode"
+    },
+    "310110": {
+      "unit_code": "310110",
+      "unit_name": "杨浦区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shanghai.gov.cn/",
+      "label": "杨浦区人民政府",
+      "verification": "search+strict-name"
+    },
+    "310115": {
+      "unit_code": "310115",
+      "unit_name": "浦东新区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "functional",
+      "url": "https://www.shanghai.gov.cn/",
+      "label": "浦东新区人民政府",
+      "verification": "search+strict-name"
+    },
+    "310118": {
+      "unit_code": "310118",
+      "unit_name": "青浦区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shanghai.gov.cn/",
+      "label": "青浦区人民政府",
+      "verification": "search+strict-name"
+    },
+    "320102": {
+      "unit_code": "320102",
+      "unit_name": "玄武区",
+      "province": "江苏",
+      "city": "南京市",
+      "level": "county",
+      "url": "https://www.xwzf.gov.cn/",
+      "label": "玄武区人民政府",
+      "verification": "search+sitecode"
+    },
+    "320508": {
+      "unit_code": "320508",
+      "unit_name": "姑苏区",
+      "province": "江苏",
+      "city": "苏州市",
+      "level": "county",
+      "url": "https://www.gusu.gov.cn/",
+      "label": "姑苏区人民政府",
+      "verification": "search+sitecode"
+    },
+    "320481": {
+      "unit_code": "320481",
+      "unit_name": "溧阳市",
+      "province": "江苏",
+      "city": "常州市",
+      "level": "county",
+      "url": "https://www.liyang.gov.cn/",
+      "label": "溧阳市人民政府",
+      "verification": "search+sitecode"
+    },
+    "340421": {
+      "unit_code": "340421",
+      "unit_name": "凤台县",
+      "province": "安徽",
+      "city": "淮南市",
+      "level": "county",
+      "url": "https://www.ft.gov.cn/",
+      "label": "凤台县人民政府",
+      "verification": "search+sitecode"
+    },
+    "341524": {
+      "unit_code": "341524",
+      "unit_name": "金寨县",
+      "province": "安徽",
+      "city": "六安市",
+      "level": "county",
+      "url": "https://www.ahjinzhai.gov.cn/",
+      "label": "金寨县人民政府",
+      "verification": "search+sitecode"
     }
   },
   "universities": {
@@ -566,9 +676,9 @@
       "name": "上海电力大学",
       "location": "上海",
       "root_url": "https://www.shiep.edu.cn/",
-      "career_url": "https://career.shiep.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "中国科学技术大学": {
       "name": "中国科学技术大学",
@@ -622,9 +732,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://career.ahnu.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -683,5 +793,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-18 10:22:55"
+  "updated_at": "2026-08-18 21:50:00"
 }
