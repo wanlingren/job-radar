@@ -1,17 +1,24 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-08-19
 
-> 今日待提醒：**3 条**｜7天内截止：**0 条**
+> 今日待提醒：**91 条**｜7天内截止：**0 条**
 
-> 📍 浙江 0｜江苏 0｜上海 3｜安徽 0
+> 📍 浙江 9｜江苏 42｜上海 0｜安徽 38
 
-> 🟦校园招聘/应届生 1｜🟨国企公开招聘 2
+> ⭐27届校园招聘 2｜🟦校园招聘/应届生 12｜🟨国企公开招聘 12｜🟧国企社会招聘 5｜🟩事业单位/人才引进 44｜🟪事业单位/编外 7｜⬜政府官方招聘公告 9
 
-[📋 一次查看全部 3 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 91 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [同济大学就业网｜2026 08月17日 中建投租赁（上海）有限责任公司 【实习生 可留用】中建投租赁（金融央企子…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=dd024eb9684b4d32a73dbc010a5b2da7;)
-- [08月18日 中国科学院长春光学精密机械与物理研究所 中国科学院长春光学精密机械与物理研究所(长春光机所)管理岗…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=4a9ec0b0762043d0abd4c18277557666;)
-- [张家港市国有企业专业化青年人才｜2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419)
+- [企业招聘|荣盛集团｜企业招聘|荣盛集团2027届全球校园招聘公告](http://career.zjnu.edu.cn/campus/view/id/871991)
+- [淮北师范大学就业网｜就业信息网](https://jyzd.chnu.edu.cn)
+- [苏州国家历史文化名城保护区、苏州市姑苏区区属国有企业专业化青年｜2026年苏州国家历史文化名城保护区、苏州市姑苏…](https://www.gusu.gov.cn/gsq/gsgg/202603/1e0d412c58234c948490c8ff72e462d5.shtml)
+- [标题：淮北师范大学2026年管理助理、 教学助理｜标题：淮北师范大学2026年管理助理、 教学助理招聘公告 点击…](https://jyzd.chnu.edu.cn/tzgg/content_151427)
+- [金寨县人民政府｜金寨县2026年机关事业单位公开招募就业见习人员公告](https://www.ahjinzhai.gov.cn/zwzx/gsgg/38842306.html)
+- [苏州市姑苏区教体文旅委下属学校｜2026年苏州市姑苏区教体文旅委下属学校公开招聘事业编制教师资格复审公告](https://www.gusu.gov.cn/gsq/gsgg/202601/ee9236d6d5144b4ca9e94d9d0cc45c91.shtml)
+- [就业服务｜国企见习专场招聘会精准助力青年就业](https://www.xuancheng.gov.cn/OpennessContent/show/3580940.html)
+- [宣城市人民政府｜关于印发《宣城市高技能人才引进培养办法》的通知](http://rsj.xuancheng.gov.cn/OpennessContent/show/3315670.html)
+- [玄武区人民政府｜玄武区2026年8月高校毕业生线上专场招聘会（2026.8.14）](http://www.xwzf.gov.cn/xwqrmzf/202608/t20260814_5894175.html)
+- [玄武区人民政府｜玄武区2026年7月离校未就业高校毕业生线上专场招聘会（2026.7.31）](http://www.xwzf.gov.cn/xwqrmzf/202607/t20260731_5887026.html)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
