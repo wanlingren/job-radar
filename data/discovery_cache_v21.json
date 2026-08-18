@@ -526,9 +526,9 @@
       "name": "东华大学",
       "location": "上海",
       "root_url": "https://www.dhu.edu.cn/",
-      "career_url": "https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "上海大学": {
       "name": "上海大学",
@@ -622,9 +622,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "http://career.ahnu.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -683,5 +683,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-17 23:27:35"
+  "updated_at": "2026-08-18 10:22:55"
 }

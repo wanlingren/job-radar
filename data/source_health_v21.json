@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-17 23:57:09",
+  "checked_at": "2026-08-18 10:49:40",
   "total": 80,
-  "ok": 71,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -278,7 +278,7 @@
     {
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
-      "url": "https://www.songjiang.gov.cn/xwzx/001001/20260817/864f6669-4e9a-407b-aa75-55a194fbfbb4.html",
+      "url": "https://www.songjiang.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -319,9 +319,9 @@
       "source_id": "auto-gov-cea59b92fb",
       "name": "宁国市人民政府",
       "url": "https://www.ningguo.gov.cn/Search/?keyword=%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&amp;field=all",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-3858dcf74d",
@@ -350,7 +350,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "http://www.bjtzh.gov.cn/so/s?qt=%E5%B0%B1%E4%B8%9A%E6%8B%9B%E8%81%98",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081816541259042/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -374,7 +374,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/07/03/4812265.shtml",
+      "url": "https://wx.jszwfw.gov.cn/ipgs/ipgs/gotoWxQjdFwListZRR.do?iddict_matter_class=ZRR030",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -382,7 +382,7 @@
     {
       "source_id": "auto-gov-1d46b1e644",
       "name": "江阴市人民政府",
-      "url": "https://wxjy.jszwfw.gov.cn/jszwfw/bscx/itemlist/gr_index.do?webId=39&themid=B106&deptid=",
+      "url": "https://www.jiangyin.gov.cn/doc/2026/08/18/1411670.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_c397fc8d0ef34247a3e6622f8218a74e.html",
+      "url": "https://www.taizhou.gov.cn/xwzx/bmdt/art/2026/art_56915fef7ac04c7e8ee5b04e6ecf8fbb.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -612,14 +612,6 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-hrss-f66bd5bce0",
-      "name": "泰兴市·人社局：聚力“123”行动绘就民生新图景",
-      "url": "https://www.taixing.gov.cn/xwzx/txxw/art/2026/art_a587defdb8124163a29bd02320f321b6.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
       "source_id": "auto-hrss-4f330c574e",
       "name": "兴化市·市人社局办好技能夜校赋能就业增收",
       "url": "https://www.xinghua.gov.cn/xwzx/bmdt/art/2026/art_1e997b56dca8405391f7ec40bd1b644a.html",
@@ -642,6 +634,14 @@
       "ok": true,
       "http_status": 200,
       "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-cea59b92fb",
+      "name": "宁国市·财政局国资委",
+      "url": "https://www.ningguo.gov.cn/XxgkContent/showList/395/0/page_1.html",
+      "ok": false,
+      "http_status": 408,
+      "error": "HTTPError"
     }
   ]
 }
