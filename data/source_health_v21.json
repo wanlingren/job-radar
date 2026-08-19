@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-18 23:54:46",
+  "checked_at": "2026-08-19 10:54:34",
   "total": 80,
-  "ok": 68,
+  "ok": 72,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -95,9 +95,9 @@
       "source_id": "reg-gov-sh",
       "name": "上海市人民政府",
       "url": "https://www.shanghai.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-gov-ah",
@@ -127,9 +127,9 @@
       "source_id": "reg-hrss-sh",
       "name": "上海市人社局",
       "url": "https://rsj.sh.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-hrss-ah",
@@ -278,10 +278,10 @@
     {
       "source_id": "auto-gov-5bf6ad3fdc",
       "name": "青浦区人民政府",
-      "url": "https://www.shanghai.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.gzw.sh.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-811c22a6ac",
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081816541259042/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081914340914693/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -398,7 +398,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/500178649981955",
+      "url": "https://www.gov.cn/lianbo/202608/content_7078508.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -422,7 +422,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://wx.jszwfw.gov.cn/ipgs/ipgs/gotoWxQjdFwListZRR.do?iddict_matter_class=ZRR030",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/19/4820386.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -510,15 +510,15 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-519f3837e3",
       "name": "苏州市人民政府",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/jycyzt/jycy.shtml",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/qxkx/202608/60fe516bd2d84e228f63a261a4a36ab3.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -542,15 +542,15 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229116558/index.html",
+      "url": "https://www.yw.gov.cn/col/col1229144444/art/2026/art_4d53eb546edd433db0ca5f6d1784ac2c.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
     },
     {
       "source_id": "auto-hrss-0558706808",
-      "name": "常州市·人社局：构建“体验+见习+留常”闭环青年就业见习完成率居全省第二",
-      "url": "https://www.changzhou.gov.cn/ns_news/500178649981955",
+      "name": "常州市·人社局：构建“学治引”全链闭环赋能“人工智能+”新生态",
+      "url": "https://www.changzhou.gov.cn/ns_news/626178695734990",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -612,33 +612,33 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-hrss-85e7cd484a",
-      "name": "奉贤区·人社局",
-      "url": "https://www.fengxian.gov.cn/rsj/index.html",
+      "source_id": "auto-hrss-2ea7ea9a95",
+      "name": "闵行区·市人力资源和社会保障局",
+      "url": "http://rsj.sh.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
     },
     {
-      "source_id": "auto-sasac-85e7cd484a",
-      "name": "奉贤区·国资委",
-      "url": "https://www.fengxian.gov.cn/gzw/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-hrss-1d46b1e644",
-      "name": "江阴市·市人力资源和社会保障局",
-      "url": "https://www.jiangyin.gov.cn/rsj/index.shtml",
+      "source_id": "auto-sasac-8139dbf9a1",
+      "name": "闵行区·市国资委",
+      "url": "https://www.gzw.sh.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
     },
     {
       "source_id": "auto-hrss-b74729843d",
-      "name": "通州区·人力资源和社会保障部",
+      "name": "闵行区·人力资源和社会保障部",
       "url": "http://www.mohrss.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-sasac-d70b515ce4",
+      "name": "玄武区·国务院国资委",
+      "url": "http://www.sasac.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
