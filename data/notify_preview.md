@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-08-19
+# 🎯 江浙沪皖国资招聘雷达｜2026-08-20
 
-> 今日待提醒：**152 条**｜7天内截止：**3 条**
+> 今日待提醒：**66 条**｜7天内截止：**0 条**
 
-> 📍 浙江 4｜江苏 12｜上海 33｜安徽 7
+> 📍 浙江 6｜江苏 6｜上海 0｜安徽 1
 
-> ⭐27届校园招聘 9｜🟦校园招聘/应届生 74｜🟨国企公开招聘 25｜🟧国企社会招聘 28｜🟩事业单位/人才引进 13｜⬜政府官方招聘公告 3
+> 🟦校园招聘/应届生 2｜🟨国企公开招聘 1｜🟧国企社会招聘 54｜🟩事业单位/人才引进 6｜🟪事业单位/编外 3
 
-[📋 一次查看全部 152 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 66 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [国务院国资委｜营收4073亿元 江西国资国企上半年超额实现“双过半”｜0天后截止](http://www.sasac.gov.cn/n2588025/n2588129/c35788875/content.html)
-- [迪兹瓦矿业股份有限公司｜数智化工程师｜6天后截止](https://www.iguopin.com/job/detail?id=214431464731706451)
-- [金寨国控生态农业有限公司2026年｜金寨国控生态农业有限公司2026年公开招聘劳务外包制工作人员公告｜7天后截止](https://www.ahjinzhai.gov.cn/zwzx/gsgg/38845811.html)
-- [中煤科工集团重庆研究院有限公司｜项目管理支持岗（工业软件）](https://www.iguopin.com/job/detail?id=214405833306408021)
-- [中煤科工集团重庆研究院有限公司｜项目管理支持岗（人工智能应用）](https://www.iguopin.com/job/detail?id=214405833054749781)
-- [奉贤区人民政府｜国企动态 | 安居贤城，筑梦未来！ 这场保租房体验活动，为青年解锁留沪安居新范式](https://www.fengxian.gov.cn/gzw/gzdt/gzyw/20260819/111792.html)
-- [昆山市2026年事业单位｜昆山市2026年事业单位公开招聘高层次人才公告](https://www.ks.gov.cn/kss/gsgg/202608/4641c45bc36f41e79704e221ec9c8511.shtml)
-- [浙江省环保集团有限公司｜（环保集团）财务](https://www.iguopin.com/job/detail?id=214444368726066262)
-- [钢研昊普（苏州）创新中心有限公司｜研发工程师（机械结构设计）](https://www.iguopin.com/job/detail?id=214429978555581525)
-- [中煤科工集团重庆研究院有限公司｜检验员岗](https://www.iguopin.com/job/detail?id=214405832551433301)
+- [安徽工程大学2026-2027学年｜安徽工程大学2026-2027学年校园招聘活动邀请函](https://job.ahpu.edu.cn/2026/0819/c3487a276502/page.htm)
+- [中国计量大学就业网｜法务实习生 杭州玩心不止网络科技有限公司](https://jyb.cjlu.edu.cn/job/view/id/428676)
+- [事业单位|中国—中东欧国家创新合作研究中心｜事业单位|中国—中东欧国家创新合作研究中心招聘公告](https://career.zjnu.edu.cn/news/view/aid/432762/tag/gzgx)
+- [中国人民解放军空军｜讲师-Q2026132](https://www.iguopin.com/job/detail?id=214453607301383254)
+- [常州市人民政府｜事业单位考试](https://rsj.changzhou.gov.cn/class/HOEIPLQN)
+- [《江苏省事业单位｜《江苏省事业单位公开招聘人员办法》（苏办发〔2020〕9号）](https://rsj.changzhou.gov.cn/uploadfile/czrsj/2020/0428/20200428040455858.pdf)
+- [《事业单位｜《事业单位公开招聘违纪违规行为处理规定》](https://rsj.changzhou.gov.cn/html/czrsj/2018/IQDHPLQB_0731/44343.html)
+- [《江苏省事业单位｜《江苏省事业单位公开招聘人员面试暂行办法》](https://rsj.changzhou.gov.cn/uploadfile/czhrss/2016/0330/20160330042747629.pdf)
+- [事业单位|椒江区纪委区监委机关文员｜事业单位|椒江区纪委区监委机关文员招聘公告](https://career.zjnu.edu.cn/news/view/aid/432763/tag/gzgx)
+- [常州市人民政府｜《事业单位人事管理条例》](https://rsj.changzhou.gov.cn/html/czrsj/2016/IQDHPLQB_0412/41038.html)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

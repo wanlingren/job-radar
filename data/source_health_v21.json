@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-19 10:54:34",
+  "checked_at": "2026-08-19 23:56:02",
   "total": 80,
-  "ok": 72,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-ustc",
@@ -398,7 +398,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.gov.cn/lianbo/202608/content_7078508.htm",
+      "url": "https://www.changzhou.gov.cn/gi_class/zwgk_05?furl=jy&cache=no&test=bbb",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -510,10 +510,10 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.ks.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-519f3837e3",
