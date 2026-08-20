@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-19 23:56:02",
+  "checked_at": "2026-08-20 11:02:48",
   "total": 80,
-  "ok": 70,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -153,7 +153,7 @@
       "url": "https://job.hdu.edu.cn/",
       "ok": false,
       "http_status": 0,
-      "error": "URLError"
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -342,10 +342,10 @@
     {
       "source_id": "auto-gov-3858dcf74d",
       "name": "广德市人民政府",
-      "url": "https://www.guangde.gov.cn/XxgkContent/showList/582/27612/page_1.html",
-      "ok": false,
-      "http_status": 408,
-      "error": "HTTPError"
+      "url": "https://www.guangde.gov.cn/OpennessContent/show/3810209.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-32c20dfdbe",
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026081914340914693/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082016182723605/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-cfad440442",
       "name": "溧阳市人民政府",
-      "url": "https://www.liyang.gov.cn/html/czly/2026/IQKPQDDP_0811/240317.html",
+      "url": "https://www.liyang.gov.cn/class/OPBCQFLP",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -422,7 +422,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/08/19/4820386.shtml",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/20/4820852.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -454,7 +454,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/bmdt/art/2026/art_56915fef7ac04c7e8ee5b04e6ecf8fbb.html",
+      "url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_f7e3be9ffa0341e18b2297a2a9a8bd30.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -518,7 +518,7 @@
     {
       "source_id": "auto-gov-519f3837e3",
       "name": "苏州市人民政府",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/qxkx/202608/60fe516bd2d84e228f63a261a4a36ab3.shtml",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/jycyzt/jycy.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"

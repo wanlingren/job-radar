@@ -732,9 +732,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "http://career.ahnu.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -793,5 +793,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-19 23:27:40"
+  "updated_at": "2026-08-20 10:25:58"
 }
