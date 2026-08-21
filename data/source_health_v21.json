@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-21 00:02:43",
+  "checked_at": "2026-08-21 11:02:46",
   "total": 80,
-  "ok": 72,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-nju",
@@ -286,7 +286,7 @@
     {
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
-      "url": "https://www.songjiang.gov.cn/",
+      "url": "https://www.songjiang.gov.cn/xwzx/001002/001002021/20260820/f5fbdcc4-571a-48e4-aa25-1d998e0f193b.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -310,7 +310,7 @@
     {
       "source_id": "auto-gov-396bb4b1c7",
       "name": "霍山县人民政府",
-      "url": "https://www.ahhuoshan.gov.cn/zwzx/gsgg/index.html",
+      "url": "https://www.ahhuoshan.gov.cn/zwzx/jrhs/38846532.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -342,7 +342,7 @@
     {
       "source_id": "auto-gov-3858dcf74d",
       "name": "广德市人民政府",
-      "url": "https://www.guangde.gov.cn/OpennessContent/show/3810209.html",
+      "url": "https://www.guangde.gov.cn/News/show/1726385.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082016182723605/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082116545236500/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -398,7 +398,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/gi_class/zwgk_05?furl=jy&cache=no&test=bbb",
+      "url": "https://www.changzhou.gov.cn/ns_news/352178713540726",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-cfad440442",
       "name": "溧阳市人民政府",
-      "url": "https://www.liyang.gov.cn/class/OPBCQFLP",
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078762.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -422,7 +422,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/08/20/4820852.shtml",
+      "url": "https://wx.jszwfw.gov.cn/ipgs/ipgs/gotoWxQjdFwListZRR.do?iddict_matter_class=ZRR030",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -430,7 +430,7 @@
     {
       "source_id": "auto-gov-1d46b1e644",
       "name": "江阴市人民政府",
-      "url": "https://www.jiangyin.gov.cn/doc/2026/08/18/1411670.shtml",
+      "url": "https://wxjy.jszwfw.gov.cn/jszwfw/bscx/itemlist/gr_index.do?webId=39&themid=B106&deptid=",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -446,7 +446,7 @@
     {
       "source_id": "auto-gov-f66bd5bce0",
       "name": "泰兴市人民政府",
-      "url": "https://www.taixing.gov.cn/xwzx/tzgg/index.html",
+      "url": "https://www.taixing.gov.cn/xwzx/txxw/art/2026/art_494bca448d0f49b3b84b2d0d2f3a647c.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
