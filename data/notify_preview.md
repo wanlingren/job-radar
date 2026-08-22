@@ -1,17 +1,19 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-08-23
 
-> 今日待提醒：**3 条**｜7天内截止：**0 条**
+> 今日待提醒：**5 条**｜7天内截止：**0 条**
 
-> 📍 浙江 0｜江苏 0｜上海 3｜安徽 0
+> 📍 浙江 5｜江苏 0｜上海 0｜安徽 0
 
-> ⭐27届校园招聘 1｜🟦校园招聘/应届生 1｜🟨国企公开招聘 1
+> 🟩事业单位/人才引进 4｜🟪事业单位/编外 1
 
-[📋 一次查看全部 3 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 5 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [08月21日 东风汽车集团股份有限公司 东风汽车集团有限公司研发总院｜2026 08月21日 东风汽车集团股份有…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=b716d09db1344d4f9e0a091cf481ad95;)
-- [同济大学就业网｜【实习生 可留用】中建投租赁（金融央企子公司）招聘实习生](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=dd024eb9684b4d32a73dbc010a5b2da7;)
-- [就业】2026年张家港市国有企业专业化青年人才｜【就业】2026年张家港市国有企业专业化青年人才 公开招聘公告 …](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419)
+- [事业单位|浙江清华长三角研究院｜事业单位|浙江清华长三角研究院招聘公告](https://career.zjnu.edu.cn/news/view/aid/432795/tag/gzgx)
+- [事业单位|杭州市某军队单位社会用工｜事业单位|杭州市某军队单位社会用工招聘公告](https://career.zjnu.edu.cn/news/view/aid/432798/tag/gzgx)
+- [事业单位|西湖实验室2026年行政人员｜事业单位|西湖实验室2026年行政人员招聘公告](https://career.zjnu.edu.cn/news/view/aid/432796/tag/gzgx)
+- [事业单位|瑞安市综合行政执法局执法协管员｜事业单位|瑞安市综合行政执法局执法协管员招聘公告](https://career.zjnu.edu.cn/news/view/aid/432794/tag/gzgx)
+- [事业单位|瓯海区住建局｜事业单位|瓯海区住建局公开招聘编外人员公告](https://career.zjnu.edu.cn/news/view/aid/432793/tag/gzgx)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
