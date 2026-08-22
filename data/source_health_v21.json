@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-22 00:00:58",
+  "checked_at": "2026-08-22 10:55:16",
   "total": 80,
-  "ok": 72,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -247,9 +247,9 @@
       "source_id": "edu-cjlu",
       "name": "中国计量大学就业网",
       "url": "https://jyb.cjlu.edu.cn/campus",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ecnu",
@@ -454,7 +454,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_f7e3be9ffa0341e18b2297a2a9a8bd30.html",
+      "url": "https://www.taizhou.gov.cn/xwzx/sqdt/art/2026/art_229d517a15c34faa81142ac0c703533b.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
