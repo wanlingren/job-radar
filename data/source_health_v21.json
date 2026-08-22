@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-21 11:02:46",
+  "checked_at": "2026-08-22 00:00:58",
   "total": 80,
-  "ok": 71,
+  "ok": 72,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-cfad440442",
       "name": "溧阳市人民政府",
-      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078762.htm",
+      "url": "https://www.liyang.gov.cn/class/OPBCQFLP",
       "ok": true,
       "http_status": 200,
       "error": "ok"
