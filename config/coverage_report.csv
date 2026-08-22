@@ -48,7 +48,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 上海,市辖区,310109,虹口区,county,missing,,
 上海,市辖区,310110,杨浦区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310112,闵行区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
-上海,市辖区,310113,宝山区,county,missing,,
+上海,市辖区,310113,宝山区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310114,嘉定区,county,missing,,
 上海,市辖区,310115,浦东新区,functional,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310116,金山区,county,missing,,

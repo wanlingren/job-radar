@@ -1,18 +1,26 @@
 {
-  "generated_at": "2026-08-22T10:18:49.340867+00:00",
-  "sources_total": 122,
-  "sources_catalog_total": 128,
+  "generated_at": "2026-08-22T21:47:15.013936+00:00",
+  "sources_total": 6,
+  "sources_catalog_total": 130,
   "preserve_unselected": true,
-  "jobs_raw": 1851,
-  "snapshot_after_dedup": 1691,
-  "duplicates_removed": 160,
-  "store_total": 1969,
-  "new_this_run": 88,
-  "gone_total": 85,
+  "jobs_raw": 102,
+  "snapshot_after_dedup": 83,
+  "duplicates_removed": 19,
+  "store_total": 1964,
+  "new_this_run": 28,
+  "gone_total": 33,
   "archived_total": 10000,
-  "active_total": 1969,
+  "active_total": 1964,
   "unhealthy": [],
   "alerts": [
+    {
+      "source_id": "edu-nju",
+      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
+    },
+    {
+      "source_id": "edu-sjtu",
+      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
+    },
     {
       "source_id": "auto-gov-396bb4b1c7",
       "alert": "抓取量跌为 0（历史峰值 12，疑似改版/失效）"
@@ -40,17 +48,75 @@
     {
       "source_id": "auto-edu-8fe89cb27c",
       "alert": "抓取量跌为 0（历史峰值 19，疑似改版/失效）"
-    },
-    {
-      "source_id": "edu-nju",
-      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
-    },
-    {
-      "source_id": "edu-sjtu",
-      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
     }
   ],
   "sources": [
+    {
+      "source_id": "edu-nju",
+      "adapter": "uni_spa",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-22T21:47:29.250413+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 11,
+      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
+    },
+    {
+      "source_id": "edu-seu",
+      "adapter": "regional_spa",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-22T21:47:35.196426+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": ""
+    },
+    {
+      "source_id": "edu-fudan",
+      "adapter": "uni_spa",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-22T21:47:50.324565+00:00",
+      "last_error": "",
+      "last_count": 32,
+      "peak_count": 36,
+      "alert": ""
+    },
+    {
+      "source_id": "edu-sjtu",
+      "adapter": "sjtu",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-22T21:48:21.513023+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 11,
+      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
+    },
+    {
+      "source_id": "edu-tongji",
+      "adapter": "regional_spa",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-22T21:49:19.238139+00:00",
+      "last_error": "",
+      "last_count": 70,
+      "peak_count": 70,
+      "alert": ""
+    },
+    {
+      "source_id": "reg-job-sh",
+      "adapter": "regional_spa",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-22T21:49:23.881439+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": ""
+    },
     {
       "source_id": "gov-sasac",
       "adapter": "gov_notice",
@@ -60,7 +126,8 @@
       "last_error": "",
       "last_count": 26,
       "peak_count": 27,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "gov-qyzp",
@@ -71,7 +138,8 @@
       "last_error": "",
       "last_count": 20,
       "peak_count": 20,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "gov-ncss",
@@ -82,7 +150,8 @@
       "last_error": "",
       "last_count": 179,
       "peak_count": 180,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "gov-mohrss",
@@ -93,7 +162,8 @@
       "last_error": "",
       "last_count": 94,
       "peak_count": 148,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "cn-iguopin",
@@ -104,7 +174,8 @@
       "last_error": "",
       "last_count": 240,
       "peak_count": 240,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-sasac-zj",
@@ -115,7 +186,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-sasac-js",
@@ -126,7 +198,8 @@
       "last_error": "",
       "last_count": 8,
       "peak_count": 8,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-sasac-sh",
@@ -137,7 +210,8 @@
       "last_error": "",
       "last_count": 70,
       "peak_count": 70,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-sasac-ah",
@@ -148,7 +222,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-gov-zj",
@@ -159,7 +234,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-gov-js",
@@ -170,7 +246,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-gov-sh",
@@ -181,7 +258,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-gov-ah",
@@ -192,7 +270,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-hrss-zj",
@@ -203,7 +282,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-hrss-js",
@@ -214,7 +294,8 @@
       "last_error": "",
       "last_count": 20,
       "peak_count": 20,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-hrss-sh",
@@ -225,7 +306,8 @@
       "last_error": "",
       "last_count": 10,
       "peak_count": 10,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "reg-hrss-ah",
@@ -236,7 +318,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-zju",
@@ -247,7 +330,8 @@
       "last_error": "",
       "last_count": 59,
       "peak_count": 60,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-hdu",
@@ -258,7 +342,8 @@
       "last_error": "",
       "last_count": 70,
       "peak_count": 70,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-ustc",
@@ -269,7 +354,8 @@
       "last_error": "",
       "last_count": 8,
       "peak_count": 8,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-hfut",
@@ -280,7 +366,8 @@
       "last_error": "",
       "last_count": 14,
       "peak_count": 14,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-ahu",
@@ -291,7 +378,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-ahpu",
@@ -302,7 +390,8 @@
       "last_error": "",
       "last_count": 30,
       "peak_count": 30,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-ecust",
@@ -313,7 +402,8 @@
       "last_error": "",
       "last_count": 19,
       "peak_count": 21,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-cjlu",
@@ -324,7 +414,8 @@
       "last_error": "",
       "last_count": 44,
       "peak_count": 52,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-ecnu",
@@ -335,7 +426,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "edu-shu",
@@ -346,7 +438,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-85e7cd484a",
@@ -357,7 +450,8 @@
       "last_error": "",
       "last_count": 13,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-5bf6ad3fdc",
@@ -368,7 +462,8 @@
       "last_error": "",
       "last_count": 34,
       "peak_count": 34,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-811c22a6ac",
@@ -379,7 +474,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-012bc75882",
@@ -390,7 +486,8 @@
       "last_error": "",
       "last_count": 3,
       "peak_count": 3,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-cc842a0836",
@@ -401,7 +498,8 @@
       "last_error": "",
       "last_count": 13,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-396bb4b1c7",
@@ -412,7 +510,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 12,
-      "alert": "抓取量跌为 0（历史峰值 12，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 12，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-1288c544c1",
@@ -423,7 +522,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-cea59b92fb",
@@ -434,7 +534,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-70f08226da",
@@ -445,7 +546,8 @@
       "last_error": "",
       "last_count": 14,
       "peak_count": 14,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-3858dcf74d",
@@ -456,7 +558,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 2,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-32c20dfdbe",
@@ -467,7 +570,8 @@
       "last_error": "",
       "last_count": 28,
       "peak_count": 28,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-8a0942d95f",
@@ -478,7 +582,8 @@
       "last_error": "",
       "last_count": 12,
       "peak_count": 12,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-c4677255f3",
@@ -489,7 +594,8 @@
       "last_error": "",
       "last_count": 15,
       "peak_count": 15,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-e09137f3c0",
@@ -500,7 +606,8 @@
       "last_error": "",
       "last_count": 1,
       "peak_count": 1,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-2d2275cee3",
@@ -511,7 +618,8 @@
       "last_error": "",
       "last_count": 24,
       "peak_count": 27,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-08b73507d1",
@@ -522,7 +630,8 @@
       "last_error": "",
       "last_count": 4,
       "peak_count": 4,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-0558706808",
@@ -533,7 +642,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 12,
-      "alert": "抓取量跌为 0（历史峰值 12，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 12，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-cfad440442",
@@ -544,7 +654,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-9854727e16",
@@ -555,7 +666,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-c92a8863a6",
@@ -566,7 +678,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 28,
-      "alert": "抓取量跌为 0（历史峰值 28，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 28，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-1d46b1e644",
@@ -577,7 +690,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 2,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-4f330c574e",
@@ -588,7 +702,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-f66bd5bce0",
@@ -599,7 +714,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 8,
-      "alert": "抓取量跌为 0（历史峰值 8，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 8，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-f3e4808073",
@@ -610,7 +726,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-5e563df7a3",
@@ -621,7 +738,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-cfa0f79b7b",
@@ -632,7 +750,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-60ba8daff1",
@@ -643,7 +762,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-130c24ba79",
@@ -654,7 +774,8 @@
       "last_error": "",
       "last_count": 7,
       "peak_count": 7,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-910bc9ec58",
@@ -665,7 +786,8 @@
       "last_error": "",
       "last_count": 1,
       "peak_count": 4,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-8db361269b",
@@ -676,7 +798,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-fc8b3c4107",
@@ -687,7 +810,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 2,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-519f3837e3",
@@ -698,7 +822,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 6,
-      "alert": "抓取量跌为 0（历史峰值 6，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 6，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-99796e2338",
@@ -709,7 +834,8 @@
       "last_error": "",
       "last_count": 26,
       "peak_count": 27,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-2f1982813b",
@@ -720,7 +846,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-gov-3539806151",
@@ -731,7 +858,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 18,
-      "alert": "抓取量跌为 0（历史峰值 18，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 18，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-0558706808",
@@ -742,7 +870,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-daebf5d697",
@@ -753,7 +882,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-f62beae81a",
@@ -764,7 +894,8 @@
       "last_error": "",
       "last_count": 10,
       "peak_count": 15,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-3539806151",
@@ -775,7 +906,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-1802340230",
@@ -786,7 +918,8 @@
       "last_error": "",
       "last_count": 8,
       "peak_count": 10,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-bd4beb8814",
@@ -797,7 +930,8 @@
       "last_error": "",
       "last_count": 15,
       "peak_count": 15,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-d8397e4215",
@@ -808,7 +942,8 @@
       "last_error": "",
       "last_count": 7,
       "peak_count": 7,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-cf813c093c",
@@ -819,7 +954,8 @@
       "last_error": "",
       "last_count": 5,
       "peak_count": 6,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-2ea7ea9a95",
@@ -830,7 +966,8 @@
       "last_error": "",
       "last_count": 10,
       "peak_count": 10,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-8139dbf9a1",
@@ -841,7 +978,8 @@
       "last_error": "",
       "last_count": 34,
       "peak_count": 34,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-b74729843d",
@@ -852,7 +990,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-d70b515ce4",
@@ -863,7 +1002,8 @@
       "last_error": "",
       "last_count": 12,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-85e7cd484a",
@@ -874,7 +1014,8 @@
       "last_error": "",
       "last_count": 4,
       "peak_count": 4,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-85e7cd484a",
@@ -885,7 +1026,8 @@
       "last_error": "",
       "last_count": 13,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-1d46b1e644",
@@ -896,7 +1038,8 @@
       "last_error": "",
       "last_count": 10,
       "peak_count": 10,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-11d1447638",
@@ -907,7 +1050,8 @@
       "last_error": "",
       "last_count": 7,
       "peak_count": 8,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-4f330c574e",
@@ -918,7 +1062,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-job-32c20dfdbe",
@@ -929,7 +1074,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-c5ab870169",
@@ -940,7 +1086,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-cea59b92fb",
@@ -951,7 +1098,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-cea59b92fb",
@@ -962,7 +1110,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-9854727e16",
@@ -973,7 +1122,8 @@
       "last_error": "",
       "last_count": 2,
       "peak_count": 5,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-638e15f1ce",
@@ -984,7 +1134,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-sasac-2f1982813b",
@@ -995,7 +1146,20 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-hrss-696a1fc19e",
+      "adapter": "regional_notice",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-21T23:47:04.621277+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-job-70f08226da",
@@ -1006,7 +1170,8 @@
       "last_error": "",
       "last_count": 3,
       "peak_count": 3,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-0bdaf66bb8",
@@ -1017,7 +1182,8 @@
       "last_error": "",
       "last_count": 13,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-4806251b90",
@@ -1028,7 +1194,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-319c0cdc89",
@@ -1039,7 +1206,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-hrss-4e70ab4b72",
@@ -1050,7 +1218,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-dca9d563dc",
@@ -1061,7 +1230,8 @@
       "last_error": "",
       "last_count": 70,
       "peak_count": 70,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-41bf68a365",
@@ -1072,7 +1242,8 @@
       "last_error": "",
       "last_count": 46,
       "peak_count": 59,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-35ede7ded0",
@@ -1083,7 +1254,8 @@
       "last_error": "",
       "last_count": 61,
       "peak_count": 69,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-64cdab6b9f",
@@ -1094,7 +1266,8 @@
       "last_error": "",
       "last_count": 70,
       "peak_count": 70,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-0c70ec8c8f",
@@ -1105,7 +1278,8 @@
       "last_error": "",
       "last_count": 70,
       "peak_count": 70,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-1bdfa82e2d",
@@ -1116,7 +1290,8 @@
       "last_error": "",
       "last_count": 48,
       "peak_count": 53,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-93d5f4363b",
@@ -1127,7 +1302,8 @@
       "last_error": "",
       "last_count": 70,
       "peak_count": 70,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-dc83729230",
@@ -1138,7 +1314,8 @@
       "last_error": "",
       "last_count": 34,
       "peak_count": 44,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-a6b99f30bc",
@@ -1149,7 +1326,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-7d5c71b631",
@@ -1160,7 +1338,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-7ec6b1de75",
@@ -1171,7 +1350,8 @@
       "last_error": "",
       "last_count": 1,
       "peak_count": 1,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-08d4ce59e7",
@@ -1182,7 +1362,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-7696c762e1",
@@ -1193,7 +1374,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-bb381bb457",
@@ -1204,7 +1386,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-5775f995a3",
@@ -1215,7 +1398,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-31d2b66ead",
@@ -1226,7 +1410,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-d4df7537d2",
@@ -1237,7 +1422,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-70727a47aa",
@@ -1248,7 +1434,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-0ad4885831",
@@ -1259,7 +1446,8 @@
       "last_error": "",
       "last_count": 5,
       "peak_count": 5,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-40dffc5e09",
@@ -1270,7 +1458,8 @@
       "last_error": "",
       "last_count": 1,
       "peak_count": 1,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-3204305aee",
@@ -1281,7 +1470,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-fb50dafe38",
@@ -1292,7 +1482,8 @@
       "last_error": "",
       "last_count": 37,
       "peak_count": 39,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-a7c05b1517",
@@ -1303,7 +1494,8 @@
       "last_error": "",
       "last_count": 9,
       "peak_count": 9,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-5c45ff5e44",
@@ -1314,7 +1506,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 0,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-8fe89cb27c",
@@ -1325,7 +1518,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 19,
-      "alert": "抓取量跌为 0（历史峰值 19，疑似改版/失效）"
+      "alert": "抓取量跌为 0（历史峰值 19，疑似改版/失效）",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-2b5d1aa5f5",
@@ -1336,7 +1530,20 @@
       "last_error": "",
       "last_count": 13,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
+    },
+    {
+      "source_id": "auto-edu-28673cc7a4",
+      "adapter": "regional_notice",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-08-17T10:46:08.051623+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-6b9281c3c5",
@@ -1347,7 +1554,8 @@
       "last_error": "",
       "last_count": 2,
       "peak_count": 2,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-35478d3e6a",
@@ -1358,7 +1566,8 @@
       "last_error": "",
       "last_count": 0,
       "peak_count": 1,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-c8dc90c783",
@@ -1369,7 +1578,8 @@
       "last_error": "",
       "last_count": 13,
       "peak_count": 13,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-0bdf27a6fd",
@@ -1380,7 +1590,8 @@
       "last_error": "",
       "last_count": 39,
       "peak_count": 39,
-      "alert": ""
+      "alert": "",
+      "not_run": true
     },
     {
       "source_id": "auto-edu-d22d28ba5d",
@@ -1391,77 +1602,6 @@
       "last_error": "",
       "last_count": 3,
       "peak_count": 3,
-      "alert": ""
-    },
-    {
-      "source_id": "edu-nju",
-      "adapter": "uni_spa",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-08-18T21:50:16.609471+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 11,
-      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）",
-      "not_run": true
-    },
-    {
-      "source_id": "edu-seu",
-      "adapter": "regional_spa",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-08-18T21:50:22.298338+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "edu-fudan",
-      "adapter": "uni_spa",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-08-18T21:50:34.494945+00:00",
-      "last_error": "",
-      "last_count": 33,
-      "peak_count": 36,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "edu-sjtu",
-      "adapter": "sjtu",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-08-18T21:51:06.188042+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 11,
-      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）",
-      "not_run": true
-    },
-    {
-      "source_id": "edu-tongji",
-      "adapter": "regional_spa",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-08-18T21:52:02.181977+00:00",
-      "last_error": "",
-      "last_count": 66,
-      "peak_count": 70,
-      "alert": "",
-      "not_run": true
-    },
-    {
-      "source_id": "reg-job-sh",
-      "adapter": "regional_spa",
-      "consecutive_failures": 0,
-      "status": "active",
-      "last_success_at": "2026-08-18T21:52:07.137496+00:00",
-      "last_error": "",
-      "last_count": 0,
-      "peak_count": 0,
       "alert": "",
       "not_run": true
     }

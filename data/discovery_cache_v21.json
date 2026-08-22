@@ -389,6 +389,16 @@
       "url": "https://www.ahjinzhai.gov.cn/",
       "label": "金寨县人民政府",
       "verification": "search+sitecode"
+    },
+    "310113": {
+      "unit_code": "310113",
+      "unit_name": "宝山区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shanghai.gov.cn/",
+      "label": "宝山区人民政府",
+      "verification": "search+strict-name"
     }
   },
   "universities": {
@@ -748,9 +758,9 @@
       "name": "安徽农业大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahau.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://job.ahau.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "合肥大学": {
       "name": "合肥大学",
@@ -793,5 +803,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-22 10:18:49"
+  "updated_at": "2026-08-22 21:47:14"
 }
