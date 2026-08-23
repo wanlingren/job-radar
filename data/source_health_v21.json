@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-22 23:56:19",
+  "checked_at": "2026-08-23 10:57:11",
   "total": 80,
-  "ok": 72,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-cfad440442",
       "name": "溧阳市人民政府",
-      "url": "https://www.liyang.gov.cn/class/OPBCQFLP",
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/23/art_60096_11819542.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -446,7 +446,7 @@
     {
       "source_id": "auto-gov-f66bd5bce0",
       "name": "泰兴市人民政府",
-      "url": "https://www.taixing.gov.cn/xwzx/txxw/art/2026/art_494bca448d0f49b3b84b2d0d2f3a647c.html",
+      "url": "https://www.taixing.gov.cn/xwzx/tzgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -534,7 +534,7 @@
     {
       "source_id": "auto-gov-2f1982813b",
       "name": "连云港市人民政府",
-      "url": "https://www.gov.cn/zhengce/content/202606/content_7072481.htm",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/gcyw/content/e057cb19-3b89-4dae-8909-aef147c0c1ac.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -542,10 +542,10 @@
     {
       "source_id": "auto-gov-3539806151",
       "name": "义乌市人民政府",
-      "url": "https://www.yw.gov.cn/col/col1229144444/art/2026/art_4d53eb546edd433db0ca5f6d1784ac2c.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.yw.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-hrss-0558706808",
@@ -567,14 +567,6 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-3539806151",
-      "name": "义乌市·国资办",
-      "url": "https://www.yw.gov.cn/col/col1229129407/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -639,6 +631,14 @@
       "source_id": "auto-sasac-d70b515ce4",
       "name": "玄武区·国务院国资委",
       "url": "http://www.sasac.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
+    },
+    {
+      "source_id": "auto-hrss-85e7cd484a",
+      "name": "奉贤区·人社局",
+      "url": "https://www.fengxian.gov.cn/rsj/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
