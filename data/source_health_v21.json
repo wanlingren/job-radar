@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-23 23:53:56",
+  "checked_at": "2026-08-24 11:10:37",
   "total": 80,
   "ok": 71,
   "items": [
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ustc",
@@ -191,9 +191,9 @@
       "source_id": "edu-nju",
       "name": "南京大学就业网",
       "url": "https://job.nju.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 502,
+      "error": "HTTPError"
     },
     {
       "source_id": "edu-seu",
@@ -454,7 +454,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/sqdt/art/2026/art_229d517a15c34faa81142ac0c703533b.html",
+      "url": "https://www.taizhou.gov.cn/xwzx/sqdt/art/2026/art_336abf0a183f4996b4bda3944c780d23.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -534,7 +534,7 @@
     {
       "source_id": "auto-gov-2f1982813b",
       "name": "连云港市人民政府",
-      "url": "https://www.lyg.gov.cn/zglygzfmhwz/gcyw/content/e057cb19-3b89-4dae-8909-aef147c0c1ac.html",
+      "url": "https://www.gov.cn/zhengce/content/202606/content_7072481.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"

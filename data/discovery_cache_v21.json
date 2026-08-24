@@ -470,9 +470,9 @@
       "name": "浙江师范大学",
       "location": "浙江·金华",
       "root_url": "https://www.zjnu.edu.cn/",
-      "career_url": "http://career.zjnu.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "杭州师范大学": {
       "name": "杭州师范大学",
@@ -766,7 +766,7 @@
       "name": "合肥大学",
       "location": "安徽·合肥",
       "root_url": "https://www.hfuu.edu.cn/",
-      "career_url": "https://www.hfuu.edu.cn/71/3f/c8260a160063/page.htm",
+      "career_url": "http://job.hfuu.edu.cn/index",
       "status": "discovered",
       "verification": "discovered-from-university-homepage"
     },
@@ -798,10 +798,10 @@
       "name": "安庆师范大学",
       "location": "安徽·安庆",
       "root_url": "https://www.aqnu.edu.cn/",
-      "career_url": "https://www.aqnu.edu.cn/info/1004/1820811.htm",
+      "career_url": "https://www.aqnu.edu.cn/jyjx.htm",
       "status": "discovered",
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-23 23:28:12"
+  "updated_at": "2026-08-24 10:35:57"
 }
