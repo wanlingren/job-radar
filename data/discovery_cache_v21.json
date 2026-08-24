@@ -470,9 +470,9 @@
       "name": "浙江师范大学",
       "location": "浙江·金华",
       "root_url": "https://www.zjnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://career.zjnu.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "杭州师范大学": {
       "name": "杭州师范大学",
@@ -803,5 +803,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-24 10:35:57"
+  "updated_at": "2026-08-24 23:29:19"
 }

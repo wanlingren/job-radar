@@ -7,7 +7,7 @@ name,location,root_url,career_url,status,verification
 浙江工商大学,浙江·杭州,https://www.zjgsu.edu.cn/,,unresolved,
 中国计量大学,浙江·杭州,https://www.cjlu.edu.cn/,https://jyb.cjlu.edu.cn/campus,covered-static,configured
 浙江财经大学,浙江·杭州,https://www.zufe.edu.cn/,http://zccareer.zufe.edu.cn/,discovered,discovered-from-university-homepage
-浙江师范大学,浙江·金华,https://www.zjnu.edu.cn/,,unresolved,
+浙江师范大学,浙江·金华,https://www.zjnu.edu.cn/,http://career.zjnu.edu.cn/,discovered,discovered-from-university-homepage
 杭州师范大学,浙江·杭州,https://www.hznu.edu.cn/,http://career.hznu.edu.cn/,discovered,discovered-from-university-homepage
 温州大学,浙江·温州,https://www.wzu.edu.cn/,https://job.wzu.edu.cn/,discovered,discovered-from-university-homepage
 浙江农林大学,浙江·杭州,https://www.zafu.edu.cn/,http://jy.zafu.edu.cn/,discovered,discovered-from-university-homepage

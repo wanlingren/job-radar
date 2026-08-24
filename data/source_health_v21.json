@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-24 11:10:37",
+  "checked_at": "2026-08-24 23:55:19",
   "total": 80,
-  "ok": 71,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -183,17 +183,17 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-nju",
       "name": "南京大学就业网",
       "url": "https://job.nju.edu.cn/",
-      "ok": false,
-      "http_status": 502,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-seu",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-shu",
@@ -510,10 +510,10 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.ks.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-519f3837e3",
