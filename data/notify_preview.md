@@ -1,24 +1,24 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-08-26
 
-> 今日待提醒：**253 条**｜7天内截止：**3 条**
+> 今日待提醒：**207 条**｜7天内截止：**1 条**
 
-> 📍 浙江 48｜江苏 11｜上海 17｜安徽 4
+> 📍 浙江 9｜江苏 5｜上海 12｜安徽 19
 
-> ⭐27届校园招聘 8｜🟦校园招聘/应届生 198｜🟨国企公开招聘 20｜🟧国企社会招聘 12｜🟩事业单位/人才引进 9｜🟪事业单位/编外 5｜⬜政府官方招聘公告 1
+> ⭐27届校园招聘 4｜🟦校园招聘/应届生 180｜🟨国企公开招聘 4｜🟧国企社会招聘 18｜🟩事业单位/人才引进 1
 
-[📋 一次查看全部 253 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 207 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [海南水务集团有限公司｜人力实习生（在校生）｜5天后截止](https://www.iguopin.com/job/detail?id=215315615894734405)
-- [联通华盛通信有限公司｜研发工程师｜6天后截止](https://www.iguopin.com/job/detail?id=162535469249203074)
-- [联通华盛通信有限公司｜联通APP终端AI智能化场景运营岗｜6天后截止](https://www.iguopin.com/job/detail?id=209652859891878183)
-- [合肥师范学院｜合肥师范学院2027届毕业生秋季校园招聘邀请函](http://jycy.hfnu.edu.cn/info/1051/134273.htm)
-- [08-25] 新 中信期货浙江分公司｜[08-25] 新 中信期货浙江分公司2027届校园招聘正式启动](https://job.hdu.edu.cn/campus/view?id=9556)
-- [联通数据智能有限公司｜模型算法工程师](https://www.iguopin.com/job/detail?id=215317508968678990)
-- [联通数据智能有限公司｜AI产品经理岗](https://www.iguopin.com/job/detail?id=215317853874685516)
-- [联通数据智能有限公司｜大模型与智能体应用开发工程师](https://www.iguopin.com/job/detail?id=215317780843464268)
-- [北京高博医疗科技集团有限公司｜集团管培生-上海](https://www.iguopin.com/job/detail?id=215275670501066258)
-- [金华市金丰速运有限公司｜菁英计划-行业解决方案岗](https://www.iguopin.com/job/detail?id=215274923361306131)
+- [国机资本控股有限公司｜国机基金投资业务部实习生｜4天后截止](https://www.iguopin.com/job/detail?id=215424440450680384)
+- [中创新航科技（武汉）有限公司｜自动化设备操作员+27届可盖章](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=6EsFkdamNhoXmUkMvyYESt)
+- [中国电子系统工程第二建设有限公司｜2027届应届生 暖通/电气/管道/内装/安全工程师（大健康事业部）](https://www.iguopin.com/job/detail?id=215450859230725708)
+- [吉姆西半导体科技（无锡）股份有限公司｜人事实习生（27届、28届）](https://www.iguopin.com/job/detail?id=208091490650424226)
+- [中国能源建设集团科技发展有限公司｜热工调试技术员](https://www.iguopin.com/job/detail?id=215417414404277826)
+- [中国能源建设集团安徽省电力设计院有限公司｜项目管理师](https://www.iguopin.com/job/detail?id=215458117725455948)
+- [中国能源建设集团安徽省电力设计院有限公司｜综合能源研究](https://www.iguopin.com/job/detail?id=215459526239848014)
+- [中国能源建设集团安徽省电力设计院有限公司｜新能源工程师（风资源）](https://www.iguopin.com/job/detail?id=215457371391002193)
+- [中国能源建设集团安徽省电力设计院有限公司｜国际翻译](https://www.iguopin.com/job/detail?id=215459016782906946)
+- [中国能源建设集团安徽省电力设计院有限公司｜国际商务管理师](https://www.iguopin.com/job/detail?id=215458649630312005)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

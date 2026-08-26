@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-26 00:04:20",
+  "checked_at": "2026-08-26 11:08:52",
   "total": 80,
   "ok": 70,
   "items": [
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ustc",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-shu",
@@ -342,7 +342,7 @@
     {
       "source_id": "auto-gov-3858dcf74d",
       "name": "广德市人民政府",
-      "url": "https://www.guangde.gov.cn/News/show/1726783.html",
+      "url": "https://www.guangde.gov.cn/News/show/1726787.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082514515327116/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082614562975966/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -398,7 +398,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/769178766211464",
+      "url": "https://www.changzhou.gov.cn/ns_news/352178713540726",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -454,7 +454,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/sqdt/art/2026/art_336abf0a183f4996b4bda3944c780d23.html",
+      "url": "https://www.taizhou.gov.cn/xwzx/bmdt/art/2026/art_c62c0cca88774c47ab1b734aa5f974c6.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -518,7 +518,7 @@
     {
       "source_id": "auto-gov-519f3837e3",
       "name": "苏州市人民政府",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202608/0c1b033e559945b1b4d5c50e7c32f12a.shtml",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/jycyzt/jycy.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -534,7 +534,7 @@
     {
       "source_id": "auto-gov-2f1982813b",
       "name": "连云港市人民政府",
-      "url": "https://www.gov.cn/zhengce/content/202606/content_7072481.htm",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/xqdt/content/219b10dd-171e-4e5b-bdc0-56875aeb1d3a.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
