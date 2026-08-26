@@ -646,7 +646,7 @@
       "name": "东华大学",
       "location": "上海",
       "root_url": "https://www.dhu.edu.cn/",
-      "career_url": "https://news.dhu.edu.cn/2026/0522/c523a426530/page.htm",
+      "career_url": "http://ejob.dhu.edu.cn/",
       "status": "discovered",
       "verification": "discovered-from-university-homepage"
     },
@@ -726,7 +726,7 @@
       "name": "安徽工业大学",
       "location": "安徽·马鞍山",
       "root_url": "https://www.ahut.edu.cn/",
-      "career_url": "https://www.ahut.edu.cn/info/1002/28701.htm",
+      "career_url": "https://www.ahut.edu.cn/info/1002/28735.htm",
       "status": "discovered",
       "verification": "discovered-from-university-homepage"
     },
@@ -803,5 +803,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-24 23:29:19"
+  "updated_at": "2026-08-25 23:32:29"
 }

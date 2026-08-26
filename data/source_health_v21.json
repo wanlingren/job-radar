@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-24 23:55:19",
+  "checked_at": "2026-08-26 00:04:20",
   "total": 80,
-  "ok": 69,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-shu",
@@ -286,7 +286,7 @@
     {
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
-      "url": "https://www.songjiang.gov.cn/xwzx/001002/001002021/20260820/f5fbdcc4-571a-48e4-aa25-1d998e0f193b.html",
+      "url": "https://www.songjiang.gov.cn/",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -310,7 +310,7 @@
     {
       "source_id": "auto-gov-396bb4b1c7",
       "name": "霍山县人民政府",
-      "url": "https://www.ahhuoshan.gov.cn/zwzx/jrhs/38846532.html",
+      "url": "https://www.ahhuoshan.gov.cn/zwzx/gsgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -342,7 +342,7 @@
     {
       "source_id": "auto-gov-3858dcf74d",
       "name": "广德市人民政府",
-      "url": "https://www.guangde.gov.cn/News/show/1726385.html",
+      "url": "https://www.guangde.gov.cn/News/show/1726783.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -366,7 +366,7 @@
     {
       "source_id": "auto-gov-c4677255f3",
       "name": "凤台县人民政府",
-      "url": "https://www.ft.gov.cn/xwzx/gsgg/index.html",
+      "url": "https://www.ft.gov.cn/xwzx/bmdt/8190480.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -382,7 +382,7 @@
     {
       "source_id": "auto-gov-2d2275cee3",
       "name": "玄武区人民政府",
-      "url": "https://www.xwzf.gov.cn/xwqrmzf/?id=xxgk_252",
+      "url": "https://www.xwzf.gov.cn/tpxw/202608/t20260825_5899288.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082116545236500/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082514515327116/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -398,7 +398,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/352178713540726",
+      "url": "https://www.changzhou.gov.cn/ns_news/769178766211464",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-cfad440442",
       "name": "溧阳市人民政府",
-      "url": "https://www.jiangsu.gov.cn/art/2026/8/23/art_60096_11819542.html",
+      "url": "https://www.liyang.gov.cn/class/OPBCQFLP",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -518,7 +518,7 @@
     {
       "source_id": "auto-gov-519f3837e3",
       "name": "苏州市人民政府",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/jycyzt/jycy.shtml",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202608/0c1b033e559945b1b4d5c50e7c32f12a.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -548,14 +548,6 @@
       "error": "URLError"
     },
     {
-      "source_id": "auto-hrss-0558706808",
-      "name": "常州市·人社局：构建“学治引”全链闭环赋能“人工智能+”新生态",
-      "url": "https://www.changzhou.gov.cn/ns_news/626178695734990",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
       "source_id": "auto-hrss-daebf5d697",
       "name": "常州市·市人社局",
       "url": "https://cz.jszwfw.gov.cn/jszwfw/bscx/itemlist/gr_index.do?webId=5&themid=&deptid=11320400014110315K",
@@ -567,6 +559,14 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
+      "source_id": "auto-job-f3e4808073",
+      "name": "泰州市·多元就业服务托举民生幸福",
+      "url": "https://www.taizhou.gov.cn/xwzx/bmdt/art/2026/art_c62c0cca88774c47ab1b734aa5f974c6.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -604,6 +604,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-sasac-012bc75882",
+      "name": "六安市·市政府国资委聚力推动市属企业提质增效",
+      "url": "https://www.luan.gov.cn/zwzx/dtxx/10784750.html",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-hrss-2ea7ea9a95",
       "name": "闵行区·市人力资源和社会保障局",
       "url": "http://rsj.sh.gov.cn/",
@@ -631,14 +639,6 @@
       "source_id": "auto-sasac-d70b515ce4",
       "name": "玄武区·国务院国资委",
       "url": "http://www.sasac.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-hrss-85e7cd484a",
-      "name": "奉贤区·人社局",
-      "url": "https://www.fengxian.gov.cn/rsj/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
