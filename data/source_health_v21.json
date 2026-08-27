@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-26 11:08:52",
+  "checked_at": "2026-08-27 20:36:05",
   "total": 80,
   "ok": 70,
   "items": [
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-shu",
@@ -342,7 +342,7 @@
     {
       "source_id": "auto-gov-3858dcf74d",
       "name": "广德市人民政府",
-      "url": "https://www.guangde.gov.cn/News/show/1726787.html",
+      "url": "https://www.guangde.gov.cn/About/show/1727313.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082614562975966/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026082716133218548/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -414,7 +414,7 @@
     {
       "source_id": "auto-gov-9854727e16",
       "name": "宜兴市人民政府",
-      "url": "https://www.yixing.gov.cn/doc/2026/08/13/1410996.shtml",
+      "url": "https://www.yixing.gov.cn/doc/2026/08/27/1413193.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -422,7 +422,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://wx.jszwfw.gov.cn/ipgs/ipgs/gotoWxQjdFwListZRR.do?iddict_matter_class=ZRR030",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/27/4823442.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -534,7 +534,7 @@
     {
       "source_id": "auto-gov-2f1982813b",
       "name": "连云港市人民政府",
-      "url": "https://www.lyg.gov.cn/zglygzfmhwz/xqdt/content/219b10dd-171e-4e5b-bdc0-56875aeb1d3a.html",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/gcyw/content/86ad2a22-d19a-477a-8da5-2ea37c2db352.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -572,6 +572,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-sasac-60ba8daff1",
+      "name": "吴中区·区国资办举办“百团进百万企业千万员工”宣讲暨安全生产重大隐患判定专题培训",
+      "url": "http://www.szwz.gov.cn/szwz/c108682/202607/d9d61c336cd8480a9199a5dcf62866cb.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-hrss-1802340230",
       "name": "无锡市·市人力资源和社会保障局",
       "url": "http://hrss.wuxi.gov.cn",
@@ -599,14 +607,6 @@
       "source_id": "auto-sasac-cf813c093c",
       "name": "苏州市·苏州市人民政府国有资产监督管理委员会",
       "url": "http://guozw.suzhou.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-sasac-012bc75882",
-      "name": "六安市·市政府国资委聚力推动市属企业提质增效",
-      "url": "https://www.luan.gov.cn/zwzx/dtxx/10784750.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
