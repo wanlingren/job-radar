@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-27 20:36:05",
+  "checked_at": "2026-08-28 21:34:24",
   "total": 80,
-  "ok": 70,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ustc",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-shu",
@@ -406,7 +406,7 @@
     {
       "source_id": "auto-gov-cfad440442",
       "name": "溧阳市人民政府",
-      "url": "https://www.liyang.gov.cn/class/OPBCQFLP",
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/28/art_60096_11821632.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -414,7 +414,7 @@
     {
       "source_id": "auto-gov-9854727e16",
       "name": "宜兴市人民政府",
-      "url": "https://www.yixing.gov.cn/doc/2026/08/27/1413193.shtml",
+      "url": "https://www.yixing.gov.cn/doc/2026/08/28/1413318.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -422,7 +422,7 @@
     {
       "source_id": "auto-gov-c92a8863a6",
       "name": "无锡市人民政府",
-      "url": "https://www.wuxi.gov.cn/doc/2026/08/27/4823442.shtml",
+      "url": "https://wx.jszwfw.gov.cn/ipgs/ipgs/gotoWxQjdFwListZRR.do?iddict_matter_class=ZRR030",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -438,7 +438,7 @@
     {
       "source_id": "auto-gov-4f330c574e",
       "name": "兴化市人民政府",
-      "url": "https://www.xinghua.gov.cn/xwzx/bmdt/art/2026/art_1e997b56dca8405391f7ec40bd1b644a.html",
+      "url": "https://www.xinghua.gov.cn/xwzx/bmdt/art/2026/art_1a9f64b7d04e4e2eb51e8f126649c447.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -454,7 +454,7 @@
     {
       "source_id": "auto-gov-f3e4808073",
       "name": "泰州市人民政府",
-      "url": "https://www.taizhou.gov.cn/xwzx/bmdt/art/2026/art_c62c0cca88774c47ab1b734aa5f974c6.html",
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/28/art_60096_11821634.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -510,10 +510,10 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-519f3837e3",
@@ -534,7 +534,7 @@
     {
       "source_id": "auto-gov-2f1982813b",
       "name": "连云港市人民政府",
-      "url": "https://www.lyg.gov.cn/zglygzfmhwz/gcyw/content/86ad2a22-d19a-477a-8da5-2ea37c2db352.html",
+      "url": "https://www.gov.cn/zhengce/content/202606/content_7072481.htm",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -564,9 +564,9 @@
       "error": "ok"
     },
     {
-      "source_id": "auto-job-f3e4808073",
-      "name": "泰州市·多元就业服务托举民生幸福",
-      "url": "https://www.taizhou.gov.cn/xwzx/bmdt/art/2026/art_c62c0cca88774c47ab1b734aa5f974c6.html",
+      "source_id": "auto-job-8db361269b",
+      "name": "张家港市·2026年度全省残疾人就业服务工作业务培训班在我市开班",
+      "url": "https://www.zjg.gov.cn/zjg/gcyw/202608/f3f662c05c8c4ee7ae47d9015670ee4a.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"

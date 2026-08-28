@@ -414,9 +414,9 @@
       "name": "浙江工业大学",
       "location": "浙江·杭州",
       "root_url": "https://www.zjut.edu.cn/",
-      "career_url": "https://www.zjut.edu.cn/4498/list.htm",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "杭州电子科技大学": {
       "name": "杭州电子科技大学",
@@ -518,9 +518,9 @@
       "name": "南京航空航天大学",
       "location": "江苏·南京",
       "root_url": "https://www.nuaa.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "https://nuaa.91job.org.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "南京理工大学": {
       "name": "南京理工大学",
@@ -646,9 +646,9 @@
       "name": "东华大学",
       "location": "上海",
       "root_url": "https://www.dhu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://ejob.dhu.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "上海大学": {
       "name": "上海大学",
@@ -742,9 +742,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "http://career.ahnu.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -803,5 +803,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-27 20:10:46"
+  "updated_at": "2026-08-28 21:09:49"
 }
