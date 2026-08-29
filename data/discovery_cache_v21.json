@@ -414,9 +414,9 @@
       "name": "浙江工业大学",
       "location": "浙江·杭州",
       "root_url": "https://www.zjut.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "https://www.zjut.edu.cn/4498/list.htm",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "杭州电子科技大学": {
       "name": "杭州电子科技大学",
@@ -742,9 +742,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://career.ahnu.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -803,5 +803,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-28 21:09:49"
+  "updated_at": "2026-08-29 04:10:40"
 }

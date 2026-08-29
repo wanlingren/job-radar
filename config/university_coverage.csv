@@ -1,6 +1,6 @@
 name,location,root_url,career_url,status,verification
 浙江大学,浙江·杭州,https://www.zju.edu.cn/,https://www.career.zju.edu.cn/,covered-static,configured
-浙江工业大学,浙江·杭州,https://www.zjut.edu.cn/,,unresolved,
+浙江工业大学,浙江·杭州,https://www.zjut.edu.cn/,https://www.zjut.edu.cn/4498/list.htm,discovered,discovered-from-university-homepage
 杭州电子科技大学,浙江·杭州,https://www.hdu.edu.cn/,https://job.hdu.edu.cn/,covered-static,configured
 浙江理工大学,浙江·杭州,https://www.zstu.edu.cn/,https://www.zstu.edu.cn/kxyj/dfyjy.htm,discovered,discovered-from-university-homepage
 宁波大学,浙江·宁波,https://www.nbu.edu.cn/,https://www.nbu.edu.cn/ztjj/xxgcxjpxsdzgtsshzysxztjygw.htm,discovered,discovered-from-university-homepage
@@ -41,7 +41,7 @@ name,location,root_url,career_url,status,verification
 安徽工程大学,安徽·芜湖,https://www.ahpu.edu.cn/,https://job.ahpu.edu.cn/,covered-static,configured
 安徽工业大学,安徽·马鞍山,https://www.ahut.edu.cn/,https://www.ahut.edu.cn/info/1002/28735.htm,discovered,discovered-from-university-homepage
 安徽理工大学,安徽·淮南,https://www.aust.edu.cn/,https://ztjy.aust.edu.cn/,discovered,discovered-from-university-homepage
-安徽师范大学,安徽·芜湖,https://www.ahnu.edu.cn/,,unresolved,
+安徽师范大学,安徽·芜湖,https://www.ahnu.edu.cn/,http://career.ahnu.edu.cn/,discovered,discovered-from-university-homepage
 安徽财经大学,安徽·蚌埠,https://www.aufe.edu.cn/,http://jyfw.aufe.edu.cn/,discovered,discovered-from-university-homepage
 安徽农业大学,安徽·合肥,https://www.ahau.edu.cn/,,unresolved,
 合肥大学,安徽·合肥,https://www.hfuu.edu.cn/,http://job.hfuu.edu.cn/index,discovered,discovered-from-university-homepage
