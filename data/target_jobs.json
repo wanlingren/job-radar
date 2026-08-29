@@ -581,6 +581,44 @@
     }
   },
   {
+    "job_id": "edu-sjtu:b8c9f7cd733c7e86",
+    "dedup_key": "b8c9f7cd733c7e86",
+    "source_id": "edu-sjtu",
+    "company_name": "卡特彼勒中国",
+    "title": "卡特彼勒中国2027校园招聘",
+    "location": "上海交通大学",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "https://www.job.sjtu.edu.cn/career/xjhxx/view/230250923212017664",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "卡特彼勒中国2027校园招聘",
+    "tags": [
+      "行业:其他",
+      "27届",
+      "央国企",
+      "缺截止"
+    ],
+    "match_score": 62,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-29T23:37:04.586034+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "sjtu-cal",
+      "school": "上海交通大学",
+      "needs_ai": true
+    }
+  },
+  {
     "job_id": "auto-edu-93d5f4363b:5f1bd4421d179ea0",
     "dedup_key": "5f1bd4421d179ea0",
     "source_id": "auto-edu-93d5f4363b",
@@ -818,48 +856,6 @@
       "mode": "career",
       "source_label": "中国计量大学就业网",
       "region": "浙江·杭州",
-      "needs_ai": true
-    }
-  },
-  {
-    "job_id": "edu-tongji:0fb496b5e83c8515",
-    "dedup_key": "0fb496b5e83c8515",
-    "source_id": "edu-tongji",
-    "company_name": "08月21日 东风汽车集团股份有限公司 东风汽车集团有限公司研发总院",
-    "title": "2026 08月21日 东风汽车集团股份有限公司 东风汽车集团有限公司研发总院 2027届秋季校园招聘简章",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "汽车/新能源车",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=b716d09db1344d4f9e0a091cf481ad95;",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "2026 08月21日 东风汽车集团股份有限公司 东风汽车集团有限公司研发总院 2027届秋季校园招聘简章",
-    "tags": [
-      "行业:汽车/新能源车",
-      "27届",
-      "秋招",
-      "industry_match",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 70,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 2,
-    "first_seen": "2026-08-22T21:47:15.013936+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
       "needs_ai": true
     }
   },
@@ -1160,6 +1156,45 @@
     }
   },
   {
+    "job_id": "gov-mohrss:669e7bf3a20b8a33",
+    "dedup_key": "669e7bf3a20b8a33",
+    "source_id": "gov-mohrss",
+    "company_name": "恩业企业管理咨询（上海）有限公司",
+    "title": "大型国企车险报案调度客服专员(内勤/可实习）",
+    "location": "上海市嘉定区",
+    "org_type": "public_institution",
+    "industry": "咨询/专业服务",
+    "job_type": "unknown",
+    "publish_time": "2026-08-21",
+    "deadline": "2026-09-02",
+    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2902894",
+    "backup_url": "",
+    "salary": "6500-8000元/月",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "其他租赁和商务服务人员 · 职位描述：受理太保全国统一客服电话95500客户来电报案业务咨询等服务(纯售后)；薪资待遇:综合薪资平均6500以上，年底有年终奖；绩效优秀者可达8000-10000；任职要求:大学本科学历及以上学历，欢迎应届毕业生。（可接受实习学生）公司提供系统完善培训。优秀者可以放宽到大专。\n公司福利:1、公司提供食堂。2、交通、通讯补贴。3、五险一金、带薪年假。4、高温补贴、生日津贴、各个节日过节费等。5、年中，年终等各类奖金。尊敬的劳动者：您可以登录“随申办”微信小程序，进入“乐业上海第一站”模块，通过搜索职位名称或职位编号20261401895801，对该岗位进行投递。 · 6500-8000元/月 · 招9人",
+    "tags": [
+      "行业:咨询/专业服务",
+      "搜索",
+      "非目标岗"
+    ],
+    "match_score": 0,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-27T20:10:47.032249+00:00",
+    "last_seen": "2026-08-29T04:10:40.518322+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "mohrss",
+      "province": "上海市",
+      "area_code": "310114",
+      "salary": "6500-8000元/月",
+      "needs_ai": false
+    }
+  },
+  {
     "job_id": "auto-gov-130c24ba79:76835f6754b1a96c",
     "dedup_key": "76835f6754b1a96c",
     "source_id": "auto-gov-130c24ba79",
@@ -1199,45 +1234,6 @@
       "mode": "government",
       "source_label": "姑苏区人民政府",
       "region": "江苏·苏州市·姑苏区",
-      "needs_ai": false
-    }
-  },
-  {
-    "job_id": "gov-mohrss:669e7bf3a20b8a33",
-    "dedup_key": "669e7bf3a20b8a33",
-    "source_id": "gov-mohrss",
-    "company_name": "恩业企业管理咨询（上海）有限公司",
-    "title": "大型国企车险报案调度客服专员(内勤/可实习）",
-    "location": "上海市嘉定区",
-    "org_type": "public_institution",
-    "industry": "咨询/专业服务",
-    "job_type": "unknown",
-    "publish_time": "2026-08-21",
-    "deadline": "2026-09-02",
-    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2902894",
-    "backup_url": "",
-    "salary": "6500-8000元/月",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "其他租赁和商务服务人员 · 职位描述：受理太保全国统一客服电话95500客户来电报案业务咨询等服务(纯售后)；薪资待遇:综合薪资平均6500以上，年底有年终奖；绩效优秀者可达8000-10000；任职要求:大学本科学历及以上学历，欢迎应届毕业生。（可接受实习学生）公司提供系统完善培训。优秀者可以放宽到大专。\n公司福利:1、公司提供食堂。2、交通、通讯补贴。3、五险一金、带薪年假。4、高温补贴、生日津贴、各个节日过节费等。5、年中，年终等各类奖金。尊敬的劳动者：您可以登录“随申办”微信小程序，进入“乐业上海第一站”模块，通过搜索职位名称或职位编号20261401895801，对该岗位进行投递。 · 6500-8000元/月 · 招9人",
-    "tags": [
-      "行业:咨询/专业服务",
-      "搜索",
-      "非目标岗"
-    ],
-    "match_score": 0,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-27T20:10:47.032249+00:00",
-    "last_seen": "2026-08-29T04:10:40.518322+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "mohrss",
-      "province": "上海市",
-      "area_code": "310114",
-      "salary": "6500-8000元/月",
       "needs_ai": false
     }
   },
@@ -2565,7 +2561,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -3298,47 +3294,6 @@
       "mode": "government",
       "source_label": "青浦区人民政府",
       "region": "上海·市辖区·青浦区",
-      "needs_ai": true
-    }
-  },
-  {
-    "job_id": "edu-tongji:567991ae00ee5835",
-    "dedup_key": "567991ae00ee5835",
-    "source_id": "edu-tongji",
-    "company_name": "同济大学就业网",
-    "title": "【实习生 可留用】中建投租赁（金融央企子公司）招聘实习生",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "金融",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=dd024eb9684b4d32a73dbc010a5b2da7;",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "【实习生 可留用】中建投租赁（金融央企子公司）招聘实习生",
-    "tags": [
-      "行业:金融",
-      "暑期实习",
-      "可转正",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 16,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-22T21:47:15.013936+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
       "needs_ai": true
     }
   },
@@ -4123,7 +4078,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "regional_portal",
@@ -6609,6 +6564,45 @@
     }
   },
   {
+    "job_id": "edu-tongji:1b95628a449cca91",
+    "dedup_key": "1b95628a449cca91",
+    "source_id": "edu-tongji",
+    "company_name": "张家港市国有企业专业化青年人才",
+    "title": "2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14",
+    "location": "上海",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "unknown",
+    "publish_time": "",
+    "deadline": "",
+    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "2026年张家港市国有企业专业化青年人才 公开招聘公告 2026-07-14",
+    "tags": [
+      "行业:其他",
+      "city_match",
+      "缺截止"
+    ],
+    "match_score": 24,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-29T23:37:04.586034+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "regional_portal",
+      "mode": "career",
+      "source_label": "同济大学就业网",
+      "region": "上海",
+      "needs_ai": true
+    }
+  },
+  {
     "job_id": "auto-edu-dca9d563dc:d8bd889db5ba295a",
     "dedup_key": "d8bd889db5ba295a",
     "source_id": "auto-edu-dca9d563dc",
@@ -7030,45 +7024,6 @@
       "mode": "career",
       "source_label": "浙江师范大学就业网",
       "region": "浙江·金华",
-      "needs_ai": true
-    }
-  },
-  {
-    "job_id": "edu-tongji:35045deb18d16805",
-    "dedup_key": "35045deb18d16805",
-    "source_id": "edu-tongji",
-    "company_name": "就业】2026年张家港市国有企业专业化青年人才",
-    "title": "【就业】2026年张家港市国有企业专业化青年人才 公开招聘公告 Jul 14",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=1650ecf5f7ec40e7b82d7fe68854e419",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "【就业】2026年张家港市国有企业专业化青年人才 公开招聘公告 Jul 14",
-    "tags": [
-      "行业:其他",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 24,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 2,
-    "first_seen": "2026-08-22T21:47:15.013936+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
       "needs_ai": true
     }
   },
@@ -11287,45 +11242,6 @@
     }
   },
   {
-    "job_id": "edu-tongji:ca617611e81ccf3c",
-    "dedup_key": "ca617611e81ccf3c",
-    "source_id": "edu-tongji",
-    "company_name": "江西省国有资本运营控股集团有限公司2026年第二批",
-    "title": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
-    "location": "上海",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "unknown",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=e84c55948d9b448681d1da99cc057b0e",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "江西省国有资本运营控股集团有限公司2026年第二批公开招聘公告 2026-06-25",
-    "tags": [
-      "行业:其他",
-      "city_match",
-      "缺截止"
-    ],
-    "match_score": 24,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "regional_portal",
-      "mode": "career",
-      "source_label": "同济大学就业网",
-      "region": "上海",
-      "needs_ai": true
-    }
-  },
-  {
     "job_id": "edu-ahpu:50a0e3fa06d20058",
     "dedup_key": "50a0e3fa06d20058",
     "source_id": "edu-ahpu",
@@ -14788,7 +14704,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -22287,6 +22203,45 @@
     }
   },
   {
+    "job_id": "edu-fudan:a99edbd5274563ea",
+    "dedup_key": "a99edbd5274563ea",
+    "source_id": "edu-fudan",
+    "company_name": "中国电信天翼数字生活科技有限公司2027届",
+    "title": "中国电信天翼数字生活科技有限公司2027届校园招聘",
+    "location": "复旦大学",
+    "org_type": "research",
+    "industry": "通信",
+    "job_type": "unknown",
+    "publish_time": "2026-08-28",
+    "deadline": "",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=7026a008-723b-84ab-2ec7-cfbd30c84b88",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "中国电信天翼数字生活科技有限公司2027届校园招聘\n\n用人单位发布\n\n2026-08-28",
+    "tags": [
+      "行业:通信",
+      "27届",
+      "industry_match",
+      "央国企",
+      "缺截止"
+    ],
+    "match_score": 82,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-08-29T23:37:04.586034+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "spa",
+      "school": "复旦大学",
+      "needs_ai": true
+    }
+  },
+  {
     "job_id": "gov-ncss:a270ab7de4e502cf",
     "dedup_key": "a270ab7de4e502cf",
     "source_id": "gov-ncss",
@@ -28779,7 +28734,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -28969,7 +28924,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -29086,7 +29041,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -32288,7 +32243,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -32324,7 +32279,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",
@@ -32360,7 +32315,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-08T08:18:48.299754+00:00",
-    "last_seen": "2026-08-22T21:47:15.013936+00:00",
+    "last_seen": "2026-08-29T23:37:04.586034+00:00",
     "gone": false,
     "extra": {
       "platform": "spa",

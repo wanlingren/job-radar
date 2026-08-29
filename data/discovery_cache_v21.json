@@ -399,6 +399,56 @@
       "url": "https://www.shanghai.gov.cn/",
       "label": "宝山区人民政府",
       "verification": "search+strict-name"
+    },
+    "3413": {
+      "unit_code": "3413",
+      "unit_name": "宿州市",
+      "province": "安徽",
+      "city": "宿州市",
+      "level": "city",
+      "url": "https://www.ahsz.gov.cn/",
+      "label": "宿州市人民政府",
+      "verification": "search+sitecode"
+    },
+    "320211": {
+      "unit_code": "320211",
+      "unit_name": "滨湖区",
+      "province": "江苏",
+      "city": "无锡市",
+      "level": "county",
+      "url": "https://www.wxbh.gov.cn/",
+      "label": "滨湖区人民政府",
+      "verification": "search+sitecode"
+    },
+    "340302": {
+      "unit_code": "340302",
+      "unit_name": "龙子湖区",
+      "province": "安徽",
+      "city": "蚌埠市",
+      "level": "county",
+      "url": "https://www.bblzh.gov.cn/",
+      "label": "龙子湖区人民政府",
+      "verification": "search+sitecode"
+    },
+    "341323": {
+      "unit_code": "341323",
+      "unit_name": "灵璧县",
+      "province": "安徽",
+      "city": "宿州市",
+      "level": "county",
+      "url": "https://www.lingbi.gov.cn/",
+      "label": "灵璧县人民政府",
+      "verification": "search+sitecode"
+    },
+    "341823": {
+      "unit_code": "341823",
+      "unit_name": "泾县",
+      "province": "安徽",
+      "city": "宣城市",
+      "level": "county",
+      "url": "https://www.ahjx.gov.cn/",
+      "label": "泾县人民政府",
+      "verification": "search+sitecode"
     }
   },
   "universities": {
@@ -758,9 +808,9 @@
       "name": "安徽农业大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahau.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://job.ahau.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "合肥大学": {
       "name": "合肥大学",
@@ -803,5 +853,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-29 04:10:40"
+  "updated_at": "2026-08-29 23:37:04"
 }

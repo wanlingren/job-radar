@@ -35,7 +35,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,黄山市,3410,黄山市,city,missing,,
 安徽,滁州市,3411,滁州市,city,missing,,
 安徽,阜阳市,3412,阜阳市,city,missing,,
-安徽,宿州市,3413,宿州市,city,missing,,
+安徽,宿州市,3413,宿州市,city,covered,https://www.ahsz.gov.cn/,search+sitecode
 安徽,六安市,3415,六安市,city,covered,https://www.luan.gov.cn/,search+sitecode
 安徽,亳州市,3416,亳州市,city,missing,,
 安徽,池州市,3417,池州市,city,missing,,
@@ -69,7 +69,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,南京市,320118,高淳区,county,missing,,
 江苏,无锡市,320205,锡山区,county,missing,,
 江苏,无锡市,320206,惠山区,county,missing,,
-江苏,无锡市,320211,滨湖区,county,missing,,
+江苏,无锡市,320211,滨湖区,county,covered,https://www.wxbh.gov.cn/,search+sitecode
 江苏,无锡市,320213,梁溪区,county,missing,,
 江苏,无锡市,320214,新吴区,county,missing,,
 江苏,无锡市,320281,江阴市,county,covered,https://www.jiangyin.gov.cn/,search+sitecode
@@ -271,7 +271,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,芜湖市,340271,芜湖经济技术开发区,functional,missing,,
 安徽,芜湖市,340272,安徽芜湖三山经济开发区,functional,missing,,
 安徽,芜湖市,340281,无为市,county,missing,,
-安徽,蚌埠市,340302,龙子湖区,county,missing,,
+安徽,蚌埠市,340302,龙子湖区,county,covered,https://www.bblzh.gov.cn/,search+sitecode
 安徽,蚌埠市,340303,蚌山区,county,missing,,
 安徽,蚌埠市,340304,禹会区,county,missing,,
 安徽,蚌埠市,340311,淮上区,county,missing,,
@@ -342,7 +342,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,宿州市,341302,埇桥区,county,missing,,
 安徽,宿州市,341321,砀山县,county,missing,,
 安徽,宿州市,341322,萧县,county,missing,,
-安徽,宿州市,341323,灵璧县,county,missing,,
+安徽,宿州市,341323,灵璧县,county,covered,https://www.lingbi.gov.cn/,search+sitecode
 安徽,宿州市,341324,泗县,county,missing,,
 安徽,宿州市,341371,宿州马鞍山现代产业园区,functional,missing,,
 安徽,宿州市,341372,宿州经济技术开发区,functional,missing,,
@@ -363,7 +363,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,池州市,341723,青阳县,county,missing,,
 安徽,宣城市,341802,宣州区,county,missing,,
 安徽,宣城市,341821,郎溪县,county,missing,,
-安徽,宣城市,341823,泾县,county,missing,,
+安徽,宣城市,341823,泾县,county,covered,https://www.ahjx.gov.cn/,search+sitecode
 安徽,宣城市,341824,绩溪县,county,missing,,
 安徽,宣城市,341825,旌德县,county,covered,https://www.ahjd.gov.cn/,search+sitecode
 安徽,宣城市,341871,宣城市经济开发区,functional,missing,,
