@@ -808,9 +808,9 @@
       "name": "安徽农业大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahau.edu.cn/",
-      "career_url": "http://job.ahau.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "合肥大学": {
       "name": "合肥大学",
@@ -853,5 +853,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-29 23:37:04"
+  "updated_at": "2026-08-30 01:15:25"
 }
