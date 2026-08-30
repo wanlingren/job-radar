@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-30 01:45:50",
+  "checked_at": "2026-08-30 15:17:01",
   "total": 80,
   "ok": 69,
   "items": [
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -287,9 +287,9 @@
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-012bc75882",
@@ -390,7 +390,7 @@
     {
       "source_id": "auto-gov-c4677255f3",
       "name": "凤台县人民政府",
-      "url": "https://www.ft.gov.cn/xwzx/bmdt/8190480.html",
+      "url": "https://www.ft.gov.cn/xwzx/gsgg/index.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
