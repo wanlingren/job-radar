@@ -608,9 +608,9 @@
       "name": "南京工业大学",
       "location": "江苏·南京",
       "root_url": "https://www.njtech.edu.cn/",
-      "career_url": "http://njtech.91job.org.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "江南大学": {
       "name": "江南大学",
@@ -853,5 +853,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-08-31 01:15:01"
+  "updated_at": "2026-08-31 17:26:27"
 }

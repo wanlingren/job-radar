@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-31 01:42:31",
+  "checked_at": "2026-08-31 17:56:26",
   "total": 80,
-  "ok": 71,
+  "ok": 68,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",
@@ -430,7 +430,7 @@
     {
       "source_id": "auto-gov-0558706808",
       "name": "常州市人民政府",
-      "url": "https://www.changzhou.gov.cn/ns_news/352178713540726",
+      "url": "https://www.changzhou.gov.cn/ns_news/242178817575160",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -446,7 +446,7 @@
     {
       "source_id": "auto-gov-9854727e16",
       "name": "宜兴市人民政府",
-      "url": "https://www.yixing.gov.cn/doc/2026/08/28/1413318.shtml",
+      "url": "https://www.yixing.gov.cn/doc/2026/08/13/1410996.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -550,10 +550,10 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "url": "https://www.ks.gov.cn/",
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-519f3837e3",
@@ -620,6 +620,14 @@
       "error": "ok"
     },
     {
+      "source_id": "auto-hrss-c92a8863a6",
+      "name": "无锡市·无锡市人力资源和社会保障局行政许可公示2026.8.18.31",
+      "url": "https://www.wuxi.gov.cn/doc/2026/08/31/4824984.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
+    },
+    {
       "source_id": "auto-hrss-1802340230",
       "name": "无锡市·市人力资源和社会保障局",
       "url": "http://hrss.wuxi.gov.cn",
@@ -631,14 +639,6 @@
       "source_id": "auto-sasac-bd4beb8814",
       "name": "无锡市·市政府国有资产监督管理委员会",
       "url": "http://gzw.wuxi.gov.cn",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
-    },
-    {
-      "source_id": "auto-hrss-d8397e4215",
-      "name": "苏州市·苏州市人力资源和社会保障局",
-      "url": "http://hrss.suzhou.gov.cn",
       "ok": true,
       "http_status": 200,
       "error": "ok"
