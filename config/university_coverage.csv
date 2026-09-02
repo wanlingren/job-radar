@@ -31,7 +31,7 @@ name,location,root_url,career_url,status,verification
 华东理工大学,上海,https://www.ecust.edu.cn/,https://career.ecust.edu.cn/,covered-static,configured
 东华大学,上海,https://www.dhu.edu.cn/,http://ejob.dhu.edu.cn/,discovered,discovered-from-university-homepage
 上海大学,上海,https://www.shu.edu.cn/,https://zbb.shu.edu.cn/,covered-static,configured
-上海理工大学,上海,https://www.usst.edu.cn/,https://www.usst.edu.cn/sljy/list.htm,discovered,discovered-from-university-homepage
+上海理工大学,上海,https://www.usst.edu.cn/,,unresolved,
 上海财经大学,上海,https://www.sufe.edu.cn/,https://career.sufe.edu.cn/,discovered,discovered-from-university-homepage
 上海海事大学,上海,https://www.shmtu.edu.cn/,https://job.shmtu.edu.cn/,discovered,discovered-from-university-homepage
 上海电力大学,上海,https://www.shiep.edu.cn/,https://career.shiep.edu.cn/,discovered,discovered-from-university-homepage
@@ -46,6 +46,6 @@ name,location,root_url,career_url,status,verification
 安徽农业大学,安徽·合肥,https://www.ahau.edu.cn/,,unresolved,
 合肥大学,安徽·合肥,https://www.hfuu.edu.cn/,http://job.hfuu.edu.cn/index,discovered,discovered-from-university-homepage
 安徽建筑大学,安徽·合肥,https://www.ahjzu.edu.cn/,https://www.ahjzu.edu.cn/14669/list.htm,discovered,discovered-from-university-homepage
-合肥师范学院,安徽·合肥,https://www.hfnu.edu.cn/,https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm,discovered,discovered-from-university-homepage
+合肥师范学院,安徽·合肥,https://www.hfnu.edu.cn/,,unresolved,
 淮北师范大学,安徽·淮北,https://www.chnu.edu.cn/,https://www.chnu.edu.cn/zsjy,discovered,discovered-from-university-homepage
 安庆师范大学,安徽·安庆,https://www.aqnu.edu.cn/,https://www.aqnu.edu.cn/jyjx.htm,discovered,discovered-from-university-homepage

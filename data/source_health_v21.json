@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-02 01:34:16",
+  "checked_at": "2026-09-02 14:38:35",
   "total": 80,
-  "ok": 70,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",
@@ -422,7 +422,7 @@
     {
       "source_id": "auto-gov-08b73507d1",
       "name": "通州区人民政府",
-      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026090116025778993/index.shtml",
+      "url": "https://www.bjtzh.gov.cn/bjtz/zwgk/tzgg/2026090215325981499/index.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -486,7 +486,7 @@
     {
       "source_id": "auto-gov-f66bd5bce0",
       "name": "泰兴市人民政府",
-      "url": "https://www.taixing.gov.cn/xwzx/tzgg/index.html",
+      "url": "https://www.taixing.gov.cn/xwzx/txxw/art/2026/art_bd1934e849cf4d719dd4226048a8c3d7.html",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -518,7 +518,7 @@
     {
       "source_id": "auto-gov-60ba8daff1",
       "name": "吴中区人民政府",
-      "url": "http://www.szwz.gov.cn/szwz/zwyw/202608/5de81142a75943c1b5f7ba72dd386117.shtml",
+      "url": "http://www.szwz.gov.cn/szwz/rsxx/zdzwxx.shtml",
       "ok": true,
       "http_status": 200,
       "error": "ok"
@@ -550,10 +550,10 @@
     {
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
-      "url": "https://www.ks.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-519f3837e3",
@@ -599,9 +599,9 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-job-8db361269b",

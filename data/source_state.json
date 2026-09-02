@@ -110,7 +110,7 @@
   "edu-zju": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:02:48.089074+00:00",
+    "last_success_at": "2026-09-02T14:09:34.254393+00:00",
     "last_error": "",
     "last_count": 59,
     "peak_count": 60,
@@ -119,25 +119,25 @@
   "gov-ncss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:00:11.077459+00:00",
+    "last_success_at": "2026-09-02T14:07:04.789566+00:00",
     "last_error": "",
-    "last_count": 180,
+    "last_count": 178,
     "peak_count": 180,
     "alert": ""
   },
   "gov-mohrss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:00:30.272369+00:00",
+    "last_success_at": "2026-09-02T14:07:30.029075+00:00",
     "last_error": "",
-    "last_count": 82,
+    "last_count": 100,
     "peak_count": 148,
     "alert": ""
   },
   "gov-sasac": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T00:59:25.991470+00:00",
+    "last_success_at": "2026-09-02T14:06:31.190545+00:00",
     "last_error": "",
     "last_count": 26,
     "peak_count": 27,
@@ -146,7 +146,7 @@
   "gov-qyzp": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T00:59:56.873616+00:00",
+    "last_success_at": "2026-09-02T14:06:55.537080+00:00",
     "last_error": "",
     "last_count": 20,
     "peak_count": 20,
@@ -317,9 +317,9 @@
   "cn-iguopin": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:10.053567+00:00",
+    "last_success_at": "2026-09-02T14:07:56.452293+00:00",
     "last_error": "",
-    "last_count": 221,
+    "last_count": 220,
     "peak_count": 240,
     "alert": ""
   },
@@ -380,7 +380,7 @@
   "reg-sasac-zj": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:17.610056+00:00",
+    "last_success_at": "2026-09-02T14:08:05.203620+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -389,7 +389,7 @@
   "reg-sasac-js": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:31.691916+00:00",
+    "last_success_at": "2026-09-02T14:08:16.866896+00:00",
     "last_error": "",
     "last_count": 8,
     "peak_count": 8,
@@ -398,7 +398,7 @@
   "reg-sasac-sh": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:42.986280+00:00",
+    "last_success_at": "2026-09-02T14:08:32.266681+00:00",
     "last_error": "",
     "last_count": 70,
     "peak_count": 70,
@@ -407,7 +407,7 @@
   "reg-sasac-ah": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:44.609563+00:00",
+    "last_success_at": "2026-09-02T14:08:36.286027+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -416,7 +416,7 @@
   "reg-gov-zj": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:52.381314+00:00",
+    "last_success_at": "2026-09-02T14:08:43.666298+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -425,7 +425,7 @@
   "reg-gov-js": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:56.962846+00:00",
+    "last_success_at": "2026-09-02T14:08:47.693063+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -434,7 +434,7 @@
   "reg-gov-sh": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:01:58.348860+00:00",
+    "last_success_at": "2026-09-02T14:08:48.729979+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -443,7 +443,7 @@
   "reg-gov-ah": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:02:00.099382+00:00",
+    "last_success_at": "2026-09-02T14:08:50.874412+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -452,7 +452,7 @@
   "reg-hrss-zj": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:02:08.019989+00:00",
+    "last_success_at": "2026-09-02T14:08:58.365367+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -461,7 +461,7 @@
   "reg-hrss-js": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:02:24.098447+00:00",
+    "last_success_at": "2026-09-02T14:09:14.822368+00:00",
     "last_error": "",
     "last_count": 20,
     "peak_count": 20,
@@ -470,16 +470,16 @@
   "reg-hrss-sh": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:02:42.184753+00:00",
+    "last_success_at": "2026-09-02T14:09:27.712175+00:00",
     "last_error": "",
-    "last_count": 10,
+    "last_count": 9,
     "peak_count": 10,
     "alert": ""
   },
   "reg-hrss-ah": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:02:43.959861+00:00",
+    "last_success_at": "2026-09-02T14:09:29.960543+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -488,7 +488,7 @@
   "edu-hdu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:03:27.081301+00:00",
+    "last_success_at": "2026-09-02T14:10:28.325183+00:00",
     "last_error": "",
     "last_count": 70,
     "peak_count": 70,
@@ -497,7 +497,7 @@
   "edu-ustc": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:03:43.904847+00:00",
+    "last_success_at": "2026-09-02T14:10:39.064664+00:00",
     "last_error": "",
     "last_count": 8,
     "peak_count": 8,
@@ -506,7 +506,7 @@
   "edu-hfut": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:04:26.629891+00:00",
+    "last_success_at": "2026-09-02T14:10:59.945454+00:00",
     "last_error": "",
     "last_count": 14,
     "peak_count": 14,
@@ -515,7 +515,7 @@
   "edu-ahu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:04:28.381607+00:00",
+    "last_success_at": "2026-09-02T14:11:01.515056+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -524,7 +524,7 @@
   "edu-ahpu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:04:48.597137+00:00",
+    "last_success_at": "2026-09-02T14:11:26.619161+00:00",
     "last_error": "",
     "last_count": 30,
     "peak_count": 30,
@@ -533,16 +533,16 @@
   "edu-ecust": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:05:16.245686+00:00",
+    "last_success_at": "2026-09-02T14:11:28.455494+00:00",
     "last_error": "",
-    "last_count": 19,
+    "last_count": 0,
     "peak_count": 21,
-    "alert": ""
+    "alert": "抓取量跌为 0（历史峰值 21，疑似改版/失效）"
   },
   "edu-cjlu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:05:44.183043+00:00",
+    "last_success_at": "2026-09-02T14:11:46.979929+00:00",
     "last_error": "",
     "last_count": 43,
     "peak_count": 52,
@@ -551,7 +551,7 @@
   "edu-ecnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:05:48.211480+00:00",
+    "last_success_at": "2026-09-02T14:11:57.166258+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -560,7 +560,7 @@
   "edu-shu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:05:49.403901+00:00",
+    "last_success_at": "2026-09-02T14:12:03.889494+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -569,7 +569,7 @@
   "auto-gov-0558706808": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:26.233241+00:00",
+    "last_success_at": "2026-09-02T14:17:42.403541+00:00",
     "last_error": "",
     "last_count": 12,
     "peak_count": 12,
@@ -578,7 +578,7 @@
   "auto-gov-f3e4808073": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:49.628004+00:00",
+    "last_success_at": "2026-09-02T14:18:12.167276+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -587,16 +587,16 @@
   "auto-gov-60ba8daff1": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:54.069839+00:00",
+    "last_success_at": "2026-09-02T14:18:34.685573+00:00",
     "last_error": "",
-    "last_count": 0,
-    "peak_count": 0,
+    "last_count": 25,
+    "peak_count": 25,
     "alert": ""
   },
   "auto-gov-8db361269b": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:11:28.657271+00:00",
+    "last_success_at": "2026-09-02T14:19:05.071012+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 1,
@@ -605,16 +605,16 @@
   "auto-gov-99796e2338": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:12:10.967308+00:00",
+    "last_success_at": "2026-09-02T14:19:41.943245+00:00",
     "last_error": "",
-    "last_count": 28,
-    "peak_count": 28,
+    "last_count": 29,
+    "peak_count": 29,
     "alert": ""
   },
   "auto-gov-3539806151": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:13:09.306050+00:00",
+    "last_success_at": "2026-09-02T14:20:40.742325+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 18,
@@ -623,7 +623,7 @@
   "auto-hrss-daebf5d697": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:13:11.122032+00:00",
+    "last_success_at": "2026-09-02T14:20:43.048825+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -632,9 +632,9 @@
   "auto-hrss-f62beae81a": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:13:30.965846+00:00",
+    "last_success_at": "2026-09-02T14:20:59.746505+00:00",
     "last_error": "",
-    "last_count": 8,
+    "last_count": 9,
     "peak_count": 15,
     "alert": ""
   },
@@ -659,7 +659,7 @@
   "auto-edu-dca9d563dc": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:57.650221+00:00",
+    "last_success_at": "2026-09-02T14:27:21.214877+00:00",
     "last_error": "",
     "last_count": 70,
     "peak_count": 70,
@@ -668,16 +668,16 @@
   "auto-edu-41bf68a365": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:21:21.245684+00:00",
+    "last_success_at": "2026-09-02T14:27:43.492573+00:00",
     "last_error": "",
-    "last_count": 42,
+    "last_count": 41,
     "peak_count": 59,
     "alert": ""
   },
   "auto-edu-35ede7ded0": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:21:45.827163+00:00",
+    "last_success_at": "2026-09-02T14:28:02.241700+00:00",
     "last_error": "",
     "last_count": 65,
     "peak_count": 70,
@@ -686,7 +686,7 @@
   "auto-edu-64cdab6b9f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:22:04.073235+00:00",
+    "last_success_at": "2026-09-02T14:28:21.072623+00:00",
     "last_error": "",
     "last_count": 70,
     "peak_count": 70,
@@ -695,7 +695,7 @@
   "auto-edu-0c70ec8c8f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:22:33.452326+00:00",
+    "last_success_at": "2026-09-02T14:28:53.153496+00:00",
     "last_error": "",
     "last_count": 70,
     "peak_count": 70,
@@ -704,16 +704,16 @@
   "auto-edu-1bdfa82e2d": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:23:04.960028+00:00",
+    "last_success_at": "2026-09-02T14:29:24.288625+00:00",
     "last_error": "",
-    "last_count": 53,
+    "last_count": 54,
     "peak_count": 54,
     "alert": ""
   },
   "auto-edu-93d5f4363b": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:23:20.636365+00:00",
+    "last_success_at": "2026-09-02T14:29:35.188163+00:00",
     "last_error": "",
     "last_count": 70,
     "peak_count": 70,
@@ -722,7 +722,7 @@
   "auto-edu-dc83729230": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:23:56.385724+00:00",
+    "last_success_at": "2026-09-02T14:30:17.635728+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 44,
@@ -731,7 +731,7 @@
   "auto-edu-a6b99f30bc": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:23:59.402473+00:00",
+    "last_success_at": "2026-09-02T14:30:20.454939+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -740,7 +740,7 @@
   "auto-edu-7d5c71b631": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:03.011588+00:00",
+    "last_success_at": "2026-09-02T14:30:24.761330+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -749,7 +749,7 @@
   "auto-edu-7ec6b1de75": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:16.865484+00:00",
+    "last_success_at": "2026-09-02T14:30:38.196168+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 1,
@@ -758,7 +758,7 @@
   "auto-edu-08d4ce59e7": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:21.097580+00:00",
+    "last_success_at": "2026-09-02T14:30:42.546144+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -767,7 +767,7 @@
   "auto-edu-7696c762e1": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:24.612368+00:00",
+    "last_success_at": "2026-09-02T14:30:45.409961+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -776,7 +776,7 @@
   "auto-edu-bb381bb457": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:28.384640+00:00",
+    "last_success_at": "2026-09-02T14:30:49.784147+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -785,7 +785,7 @@
   "auto-edu-5775f995a3": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:31.267092+00:00",
+    "last_success_at": "2026-09-02T14:30:53.789041+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -794,7 +794,7 @@
   "auto-edu-31d2b66ead": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:33.093338+00:00",
+    "last_success_at": "2026-09-02T14:30:54.985355+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -803,7 +803,7 @@
   "auto-edu-d4df7537d2": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:24:36.833927+00:00",
+    "last_success_at": "2026-09-02T14:30:58.466739+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -821,7 +821,7 @@
   "auto-edu-40dffc5e09": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:26:00.264530+00:00",
+    "last_success_at": "2026-09-02T14:31:14.574070+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 1,
@@ -830,7 +830,7 @@
   "auto-edu-3204305aee": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:26:15.883937+00:00",
+    "last_success_at": "2026-09-02T14:31:26.760407+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -839,9 +839,9 @@
   "auto-edu-fb50dafe38": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:26:56.147913+00:00",
+    "last_success_at": "2026-09-02T14:31:54.244923+00:00",
     "last_error": "",
-    "last_count": 36,
+    "last_count": 33,
     "peak_count": 39,
     "alert": ""
   },
@@ -857,7 +857,7 @@
   "auto-edu-5c45ff5e44": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:27:24.522559+00:00",
+    "last_success_at": "2026-09-02T14:32:15.051376+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -866,7 +866,7 @@
   "auto-edu-8fe89cb27c": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:27:47.138901+00:00",
+    "last_success_at": "2026-09-02T14:32:36.472717+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 19,
@@ -875,7 +875,7 @@
   "auto-edu-2b5d1aa5f5": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:28:16.714114+00:00",
+    "last_success_at": "2026-09-02T14:33:01.915850+00:00",
     "last_error": "",
     "last_count": 13,
     "peak_count": 13,
@@ -893,7 +893,7 @@
   "auto-edu-35478d3e6a": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:28:26.116382+00:00",
+    "last_success_at": "2026-09-02T14:33:06.295522+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 1,
@@ -911,16 +911,16 @@
   "auto-edu-0bdf27a6fd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:29:39.672729+00:00",
+    "last_success_at": "2026-09-02T14:33:36.174301+00:00",
     "last_error": "",
-    "last_count": 40,
+    "last_count": 39,
     "peak_count": 42,
     "alert": ""
   },
   "auto-edu-d22d28ba5d": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:30:08.968414+00:00",
+    "last_success_at": "2026-09-02T14:33:58.586086+00:00",
     "last_error": "",
     "last_count": 3,
     "peak_count": 3,
@@ -929,7 +929,7 @@
   "auto-gov-c92a8863a6": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:31.817373+00:00",
+    "last_success_at": "2026-09-02T14:17:52.592822+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 28,
@@ -938,7 +938,7 @@
   "auto-gov-519f3837e3": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:12:00.260357+00:00",
+    "last_success_at": "2026-09-02T14:19:28.131683+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 6,
@@ -947,7 +947,7 @@
   "auto-hrss-1802340230": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:13:46.310068+00:00",
+    "last_success_at": "2026-09-02T14:21:16.760253+00:00",
     "last_error": "",
     "last_count": 5,
     "peak_count": 10,
@@ -956,16 +956,16 @@
   "auto-sasac-bd4beb8814": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:14:04.046009+00:00",
+    "last_success_at": "2026-09-02T14:21:28.561673+00:00",
     "last_error": "",
-    "last_count": 16,
+    "last_count": 15,
     "peak_count": 16,
     "alert": ""
   },
   "auto-hrss-d8397e4215": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:14:17.393153+00:00",
+    "last_success_at": "2026-09-02T14:21:45.258824+00:00",
     "last_error": "",
     "last_count": 8,
     "peak_count": 8,
@@ -974,7 +974,7 @@
   "auto-sasac-cf813c093c": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:14:34.640533+00:00",
+    "last_success_at": "2026-09-02T14:22:06.028380+00:00",
     "last_error": "",
     "last_count": 4,
     "peak_count": 6,
@@ -1001,7 +1001,7 @@
   "auto-edu-a7c05b1517": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:27:11.655901+00:00",
+    "last_success_at": "2026-09-02T14:32:05.045993+00:00",
     "last_error": "",
     "last_count": 9,
     "peak_count": 9,
@@ -1010,7 +1010,7 @@
   "auto-gov-85e7cd484a": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:06:02.887684+00:00",
+    "last_success_at": "2026-09-02T14:12:16.797382+00:00",
     "last_error": "",
     "last_count": 11,
     "peak_count": 13,
@@ -1019,7 +1019,7 @@
   "auto-gov-811c22a6ac": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:06:24.117551+00:00",
+    "last_success_at": "2026-09-02T14:12:44.577872+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1028,16 +1028,16 @@
   "auto-gov-5bf6ad3fdc": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:06:19.043437+00:00",
+    "last_success_at": "2026-09-02T14:12:37.687354+00:00",
     "last_error": "",
-    "last_count": 38,
-    "peak_count": 38,
+    "last_count": 39,
+    "peak_count": 39,
     "alert": ""
   },
   "auto-gov-012bc75882": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:06:31.308740+00:00",
+    "last_success_at": "2026-09-02T14:12:50.246013+00:00",
     "last_error": "",
     "last_count": 3,
     "peak_count": 3,
@@ -1046,7 +1046,7 @@
   "auto-gov-396bb4b1c7": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:07:00.771870+00:00",
+    "last_success_at": "2026-09-02T14:13:20.730858+00:00",
     "last_error": "",
     "last_count": 7,
     "peak_count": 12,
@@ -1055,7 +1055,7 @@
   "auto-gov-1288c544c1": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:07:05.488907+00:00",
+    "last_success_at": "2026-09-02T14:13:26.225331+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1064,7 +1064,7 @@
   "auto-gov-cea59b92fb": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:07:10.728596+00:00",
+    "last_success_at": "2026-09-02T14:13:34.016030+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1073,7 +1073,7 @@
   "auto-gov-32c20dfdbe": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:08:47.404035+00:00",
+    "last_success_at": "2026-09-02T14:15:38.607432+00:00",
     "last_error": "",
     "last_count": 28,
     "peak_count": 29,
@@ -1082,7 +1082,7 @@
   "auto-gov-8a0942d95f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:09:28.427809+00:00",
+    "last_success_at": "2026-09-02T14:16:24.102354+00:00",
     "last_error": "",
     "last_count": 12,
     "peak_count": 12,
@@ -1091,16 +1091,16 @@
   "auto-gov-08b73507d1": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:13.417891+00:00",
+    "last_success_at": "2026-09-02T14:17:25.638418+00:00",
     "last_error": "",
-    "last_count": 2,
+    "last_count": 1,
     "peak_count": 4,
     "alert": ""
   },
   "auto-gov-1d46b1e644": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:41.149028+00:00",
+    "last_success_at": "2026-09-02T14:18:01.320111+00:00",
     "last_error": "",
     "last_count": 10,
     "peak_count": 10,
@@ -1109,7 +1109,7 @@
   "auto-gov-4f330c574e": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:45.767627+00:00",
+    "last_success_at": "2026-09-02T14:18:05.979406+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1118,7 +1118,7 @@
   "auto-gov-f66bd5bce0": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:46.662383+00:00",
+    "last_success_at": "2026-09-02T14:18:08.792860+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 8,
@@ -1127,7 +1127,7 @@
   "auto-gov-5e563df7a3": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:50.797169+00:00",
+    "last_success_at": "2026-09-02T14:18:13.964040+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1136,7 +1136,7 @@
   "auto-gov-cfa0f79b7b": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:52.492585+00:00",
+    "last_success_at": "2026-09-02T14:18:15.538762+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1145,7 +1145,7 @@
   "auto-gov-fc8b3c4107": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:11:38.671963+00:00",
+    "last_success_at": "2026-09-02T14:19:08.181898+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 2,
@@ -1154,25 +1154,25 @@
   "auto-hrss-2ea7ea9a95": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:14:53.395732+00:00",
+    "last_success_at": "2026-09-02T14:22:30.448009+00:00",
     "last_error": "",
-    "last_count": 10,
+    "last_count": 9,
     "peak_count": 10,
     "alert": ""
   },
   "auto-sasac-8139dbf9a1": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:15:10.727243+00:00",
+    "last_success_at": "2026-09-02T14:22:48.108767+00:00",
     "last_error": "",
-    "last_count": 38,
-    "peak_count": 38,
+    "last_count": 39,
+    "peak_count": 39,
     "alert": ""
   },
   "auto-hrss-b74729843d": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:15:12.012703+00:00",
+    "last_success_at": "2026-09-02T14:22:48.958535+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1181,16 +1181,16 @@
   "auto-sasac-d70b515ce4": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:15:33.568861+00:00",
+    "last_success_at": "2026-09-02T14:23:02.839853+00:00",
     "last_error": "",
-    "last_count": 11,
+    "last_count": 10,
     "peak_count": 13,
     "alert": ""
   },
   "auto-hrss-85e7cd484a": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:15:43.217177+00:00",
+    "last_success_at": "2026-09-02T14:23:11.868324+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 4,
@@ -1199,7 +1199,7 @@
   "auto-sasac-85e7cd484a": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:15:57.669360+00:00",
+    "last_success_at": "2026-09-02T14:23:24.846080+00:00",
     "last_error": "",
     "last_count": 11,
     "peak_count": 17,
@@ -1208,7 +1208,7 @@
   "auto-hrss-1d46b1e644": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:10.154694+00:00",
+    "last_success_at": "2026-09-02T14:23:34.340021+00:00",
     "last_error": "",
     "last_count": 10,
     "peak_count": 10,
@@ -1217,7 +1217,7 @@
   "auto-sasac-11d1447638": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:41.077897+00:00",
+    "last_success_at": "2026-09-02T14:23:58.357238+00:00",
     "last_error": "",
     "last_count": 7,
     "peak_count": 8,
@@ -1226,7 +1226,7 @@
   "auto-hrss-4f330c574e": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:42.055871+00:00",
+    "last_success_at": "2026-09-02T14:24:00.349781+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1235,7 +1235,7 @@
   "auto-job-32c20dfdbe": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:44.983245+00:00",
+    "last_success_at": "2026-09-02T14:24:03.232605+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1244,7 +1244,7 @@
   "auto-hrss-c5ab870169": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:46.887321+00:00",
+    "last_success_at": "2026-09-02T14:24:04.802819+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1253,7 +1253,7 @@
   "auto-sasac-cea59b92fb": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:48.987988+00:00",
+    "last_success_at": "2026-09-02T14:24:06.618754+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1262,7 +1262,7 @@
   "auto-hrss-cea59b92fb": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:16:49.832320+00:00",
+    "last_success_at": "2026-09-02T14:24:07.143632+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1298,7 +1298,7 @@
   "auto-gov-3858dcf74d": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:08:03.495634+00:00",
+    "last_success_at": "2026-09-02T14:14:39.443265+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 2,
@@ -1307,7 +1307,7 @@
   "auto-gov-9854727e16": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:30.342217+00:00",
+    "last_success_at": "2026-09-02T14:17:51.380676+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1316,16 +1316,16 @@
   "auto-gov-910bc9ec58": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:11:22.592274+00:00",
+    "last_success_at": "2026-09-02T14:18:59.988118+00:00",
     "last_error": "",
-    "last_count": 0,
+    "last_count": 1,
     "peak_count": 4,
     "alert": ""
   },
   "auto-hrss-f66bd5bce0": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-08-17T23:44:31.139359+00:00",
+    "last_success_at": "2026-09-02T14:23:58.949681+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1334,7 +1334,7 @@
   "auto-hrss-9854727e16": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:17:02.441775+00:00",
+    "last_success_at": "2026-09-02T14:24:24.703945+00:00",
     "last_error": "",
     "last_count": 2,
     "peak_count": 5,
@@ -1343,7 +1343,7 @@
   "auto-hrss-638e15f1ce": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:17:04.740545+00:00",
+    "last_success_at": "2026-09-02T14:24:27.809942+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1352,16 +1352,16 @@
   "auto-gov-cc842a0836": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:06:45.154303+00:00",
+    "last_success_at": "2026-09-02T14:12:59.364124+00:00",
     "last_error": "",
-    "last_count": 8,
+    "last_count": 6,
     "peak_count": 13,
     "alert": ""
   },
   "auto-gov-70f08226da": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:07:53.107219+00:00",
+    "last_success_at": "2026-09-02T14:14:35.579299+00:00",
     "last_error": "",
     "last_count": 14,
     "peak_count": 14,
@@ -1370,7 +1370,7 @@
   "auto-gov-c4677255f3": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:09:43.832449+00:00",
+    "last_success_at": "2026-09-02T14:16:49.927985+00:00",
     "last_error": "",
     "last_count": 15,
     "peak_count": 15,
@@ -1379,7 +1379,7 @@
   "auto-gov-e09137f3c0": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:09:55.758834+00:00",
+    "last_success_at": "2026-09-02T14:17:08.917360+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 3,
@@ -1388,7 +1388,7 @@
   "auto-gov-2d2275cee3": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:09:57.783504+00:00",
+    "last_success_at": "2026-09-02T14:17:12.786772+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 27,
@@ -1397,7 +1397,7 @@
   "auto-gov-cfad440442": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:28.049022+00:00",
+    "last_success_at": "2026-09-02T14:17:50.179756+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1406,7 +1406,7 @@
   "auto-gov-130c24ba79": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:11:08.345882+00:00",
+    "last_success_at": "2026-09-02T14:18:46.946292+00:00",
     "last_error": "",
     "last_count": 3,
     "peak_count": 7,
@@ -1415,7 +1415,7 @@
   "auto-gov-2f1982813b": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:12:12.530729+00:00",
+    "last_success_at": "2026-09-02T14:19:43.707555+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1424,7 +1424,7 @@
   "auto-sasac-2f1982813b": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:17:06.575868+00:00",
+    "last_success_at": "2026-09-02T14:24:29.011949+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1433,7 +1433,7 @@
   "auto-hrss-696a1fc19e": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:17:24.465645+00:00",
+    "last_success_at": "2026-09-02T14:24:44.540296+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1442,7 +1442,7 @@
   "auto-job-70f08226da": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:18:46.332684+00:00",
+    "last_success_at": "2026-09-02T14:25:34.157675+00:00",
     "last_error": "",
     "last_count": 3,
     "peak_count": 3,
@@ -1451,7 +1451,7 @@
   "auto-hrss-0bdaf66bb8": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:10.099064+00:00",
+    "last_success_at": "2026-09-02T14:26:33.335784+00:00",
     "last_error": "",
     "last_count": 12,
     "peak_count": 13,
@@ -1460,7 +1460,7 @@
   "auto-hrss-4806251b90": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:14.342062+00:00",
+    "last_success_at": "2026-09-02T14:26:37.951585+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1469,7 +1469,7 @@
   "auto-hrss-319c0cdc89": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:16.211563+00:00",
+    "last_success_at": "2026-09-02T14:26:40.539066+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1478,7 +1478,7 @@
   "auto-hrss-4e70ab4b72": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:17.954827+00:00",
+    "last_success_at": "2026-09-02T14:26:42.037551+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1496,7 +1496,7 @@
   "auto-edu-1338d9bc5f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:28:20.584475+00:00",
+    "last_success_at": "2026-09-02T14:33:03.799661+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1532,7 +1532,7 @@
   "auto-sasac-2d2275cee3": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:12.173643+00:00",
+    "last_success_at": "2026-09-02T14:26:34.788331+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1541,11 +1541,11 @@
   "auto-edu-49df68f54a": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:25:20.075850+00:00",
+    "last_success_at": "2026-09-02T14:30:59.396551+00:00",
     "last_error": "",
-    "last_count": 9,
+    "last_count": 0,
     "peak_count": 9,
-    "alert": ""
+    "alert": "抓取量跌为 0（历史峰值 9，疑似改版/失效）"
   },
   "auto-job-3858dcf74d": {
     "consecutive_failures": 0,
@@ -1559,7 +1559,7 @@
   "auto-job-8db361269b": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:13:35.957701+00:00",
+    "last_success_at": "2026-09-02T14:21:04.657620+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 1,
@@ -1568,7 +1568,7 @@
   "auto-gov-18a28a9b71": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:08:47.404533+00:00",
+    "last_success_at": "2026-09-02T14:15:38.607953+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1577,7 +1577,7 @@
   "auto-gov-a04a8e0eb2": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:08:50.579035+00:00",
+    "last_success_at": "2026-09-02T14:15:44.261986+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1586,16 +1586,16 @@
   "auto-gov-1e61bc00f2": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:09:06.508576+00:00",
+    "last_success_at": "2026-09-02T14:15:59.928700+00:00",
     "last_error": "",
-    "last_count": 9,
+    "last_count": 11,
     "peak_count": 11,
     "alert": ""
   },
   "auto-gov-b7640ae67f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:09:45.348485+00:00",
+    "last_success_at": "2026-09-02T14:16:53.256101+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1604,7 +1604,7 @@
   "auto-gov-eea626335c": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:10:44.529214+00:00",
+    "last_success_at": "2026-09-02T14:18:03.955746+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 1,
@@ -1613,7 +1613,7 @@
   "auto-hrss-eea626335c": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:31.987780+00:00",
+    "last_success_at": "2026-09-02T14:26:57.214656+00:00",
     "last_error": "",
     "last_count": 1,
     "peak_count": 1,
@@ -1622,7 +1622,7 @@
   "auto-job-b7640ae67f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:33.693536+00:00",
+    "last_success_at": "2026-09-02T14:26:58.612221+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1631,7 +1631,7 @@
   "auto-hrss-b7640ae67f": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:34.890143+00:00",
+    "last_success_at": "2026-09-02T14:26:59.389297+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -1640,7 +1640,7 @@
   "auto-hrss-18a28a9b71": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-09-02T01:20:37.203419+00:00",
+    "last_success_at": "2026-09-02T14:27:01.460321+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,

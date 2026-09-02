@@ -712,9 +712,9 @@
       "name": "上海理工大学",
       "location": "上海",
       "root_url": "https://www.usst.edu.cn/",
-      "career_url": "https://www.usst.edu.cn/sljy/list.htm",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "上海财经大学": {
       "name": "上海财经大学",
@@ -832,9 +832,9 @@
       "name": "合肥师范学院",
       "location": "安徽·合肥",
       "root_url": "https://www.hfnu.edu.cn/",
-      "career_url": "https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "淮北师范大学": {
       "name": "淮北师范大学",
@@ -853,5 +853,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-09-02 00:58:43"
+  "updated_at": "2026-09-02 14:06:08"
 }
