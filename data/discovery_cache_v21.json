@@ -792,9 +792,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://career.ahnu.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -832,9 +832,9 @@
       "name": "合肥师范学院",
       "location": "安徽·合肥",
       "root_url": "https://www.hfnu.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "淮北师范大学": {
       "name": "淮北师范大学",
@@ -853,5 +853,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-09-01 23:34:17"
+  "updated_at": "2026-09-02 00:58:43"
 }
