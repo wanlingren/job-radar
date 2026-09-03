@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-02 14:38:35",
+  "checked_at": "2026-09-03 14:38:03",
   "total": 80,
-  "ok": 69,
+  "ok": 68,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -95,9 +95,9 @@
       "source_id": "reg-gov-sh",
       "name": "上海市人民政府",
       "url": "https://www.shanghai.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "reg-gov-ah",
@@ -551,9 +551,9 @@
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
       "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-519f3837e3",
@@ -599,9 +599,9 @@
       "source_id": "auto-hrss-f62beae81a",
       "name": "常州市·市人社局",
       "url": "https://rsj.changzhou.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-job-8db361269b",

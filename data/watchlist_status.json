@@ -1,0 +1,401 @@
+{
+  "generated_at": "2026-09-03T14:38:03.232418+00:00",
+  "companies": [
+    {
+      "company": "安徽建工集团股份有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "合肥水务集团有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "安徽省交通控股集团有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "安徽叉车集团有限责任公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "安徽省港航集团有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "安徽省能源集团有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "淮河能源控股集团有限责任公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "奇瑞控股集团有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "安徽江淮汽车集团控股有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "铜陵有色金属集团控股有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "安徽海螺集团有限责任公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "合肥市产业投资控股（集团）有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "合肥兴泰金融控股（集团）有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "合肥市轨道交通集团有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "浙江省交通投资集团有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "浙江省能源集团有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "物产中大集团股份有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "杭州地铁集团有限责任公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "杭州市城市建设投资集团有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "杭州胡庆余堂集团有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "江苏交通控股有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 2,
+      "last_discovered": "2026-09-03",
+      "days_since_last": 0,
+      "status": "正常"
+    },
+    {
+      "company": "江苏省国信集团有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 1,
+      "last_discovered": "2026-08-08",
+      "days_since_last": 26,
+      "status": "正常"
+    },
+    {
+      "company": "东部机场集团有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "江苏省港口集团有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "江苏省铁路集团有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "南京地铁集团有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "苏州市轨道交通集团有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 2,
+      "last_discovered": "2026-08-08",
+      "days_since_last": 26,
+      "status": "正常"
+    },
+    {
+      "company": "上海汽车集团股份有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 2,
+      "last_discovered": "2026-08-19",
+      "days_since_last": 15,
+      "status": "正常"
+    },
+    {
+      "company": "上海电气集团股份有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 2,
+      "last_discovered": "2026-08-19",
+      "days_since_last": 15,
+      "status": "正常"
+    },
+    {
+      "company": "上海建工集团股份有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "上海城投（集团）有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 1,
+      "last_discovered": "2026-08-08",
+      "days_since_last": 26,
+      "status": "正常"
+    },
+    {
+      "company": "上海申通地铁集团有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "上海机场（集团）有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 1,
+      "last_discovered": "2026-08-19",
+      "days_since_last": 15,
+      "status": "正常"
+    },
+    {
+      "company": "上海华虹（集团）有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "上海数据集团有限公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "国网浙江省电力有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "国网江苏省电力有限公司",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "国网上海市电力公司",
+      "region": "上海",
+      "priority": "1",
+      "active_jobs": 25,
+      "last_discovered": "2026-09-03",
+      "days_since_last": 0,
+      "status": "正常"
+    },
+    {
+      "company": "国网安徽省电力有限公司",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 1,
+      "last_discovered": "2026-08-08",
+      "days_since_last": 26,
+      "status": "正常"
+    },
+    {
+      "company": "中国电建集团华东勘测设计研究院有限公司",
+      "region": "浙江",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "中国电子科技集团公司第三十八研究所",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "中国电子科技集团公司第四十三研究所",
+      "region": "安徽",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "中国电子科技集团公司第十四研究所",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    },
+    {
+      "company": "中国电子科技集团公司第二十八研究所",
+      "region": "江苏",
+      "priority": "1",
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
+    }
+  ]
+}
