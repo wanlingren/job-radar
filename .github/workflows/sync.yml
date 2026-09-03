@@ -4,10 +4,8 @@ on:
   schedule:
     - cron: "0 7 * * *"
       timezone: "Asia/Shanghai"
-
     - cron: "0 18 * * *"
       timezone: "Asia/Shanghai"
-
   workflow_dispatch:
 
 permissions:
@@ -19,7 +17,7 @@ env:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
@@ -30,8 +28,16 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install --quiet -r requirements.txt
 
-      - name: Quick verified source discovery
-        run: python3 scripts/discover_sources.py --max-pages 45
+      # V2.3：日常任务不再做“全区县深度发现”，避免以前 45 分钟超时导致漏推。
+      - name: Refresh SOE registry from official regulators
+        run: python3 scripts/update_soe_registry.py --max-sources 22
+
+      - name: Discover priority company and WeChat clues
+        run: python3 scripts/watchlist_discovery.py --max-companies 55 --max-results 6
+        continue-on-error: true
+
+      - name: Import manual public article URLs
+        run: python3 scripts/import_manual_urls.py
 
       - name: Run daily fast sync
         run: python3 scripts/sync_plan.py fast
@@ -48,10 +54,22 @@ jobs:
       - name: Quick source health check
         run: python3 scripts/source_health.py --limit 80
 
-      - name: Commit data and source audit
+      - name: Watchlist silence audit
+        run: python3 scripts/watchlist_health.py
+
+      - name: Commit data registry and discovery results
         run: |
           git config user.name "job-radar-bot"
           git config user.email "job-radar-bot@users.noreply.github.com"
-          git add data/ config/discovered_sources.csv config/discovered_universities.csv config/coverage_report.csv config/university_coverage.csv config/coverage_summary.md || true
-          git diff --cached --quiet || git commit -m "chore(data): daily V2.1 regional job sync"
+          git add data/ \
+            config/soe_registry_generated.csv \
+            config/discovered_company_sources.csv \
+            config/discovered_watchlist_sources.csv \
+            config/discovered_manual_sources.csv \
+            config/discovered_sources.csv \
+            config/discovered_universities.csv \
+            config/coverage_report.csv \
+            config/university_coverage.csv \
+            config/coverage_summary.md || true
+          git diff --cached --quiet || git commit -m "chore(data): V2.3 SOE and WeChat job sync"
           git push

@@ -12,6 +12,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
 from job_radar.target_rules import is_target_job, priority, clean
+from job_radar.soe_matcher import enrich
 
 DATA = os.path.join(ROOT, "data")
 SRC = os.path.join(DATA, "jobs.json")
@@ -38,6 +39,12 @@ def _source_score(job: dict) -> int:
         return 100
     if sid in {"gov-sasac", "gov-qyzp"}:
         return 98
+    if sid.startswith("soe-company-"):
+        return 99
+    if sid.startswith("watch-"):
+        return 88
+    if sid.startswith("manual-"):
+        return 87
     if clean(job.get("org_type")).lower() == "soe":
         return 95
     if sid.startswith(("edu-", "auto-edu-")):
@@ -66,6 +73,13 @@ def main() -> None:
             unique[key] = row
 
     result = list(unique.values())
+    # V2.3：把主体库识别结果写进 extra，网页/AI 端可直接看到央企母集团、企业层级和监管单位。
+    for row in result:
+        info = enrich(row)
+        if info:
+            ext = row.get("extra") if isinstance(row.get("extra"), dict) else {}
+            ext.update(info)
+            row["extra"] = ext
     result.sort(key=priority, reverse=True)
 
     with open(OUT, "w", encoding="utf-8") as f:

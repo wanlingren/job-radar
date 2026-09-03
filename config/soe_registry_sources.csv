@@ -1,0 +1,6 @@
+﻿source_id,name,region,level,url,parser_hint,status,notes
+registry-central,国务院国资委央企名录,全国,央企,https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html,company_list,active,央企母集团权威底库
+registry-sh,上海市国资委监管单位,上海,市属,https://www.gzw.sh.gov.cn/shgzw_xtdw/,company_list,active,上海市属监管企业
+registry-js,江苏省国资委省属企业,江苏,省属,https://jsgzw.jiangsu.gov.cn/,company_list,active,江苏省属企业及市县国资入口
+registry-zj,浙江省国资委,浙江,省属,https://gzw.zj.gov.cn/,discover_list,active,自动寻找监管企业/省属企业页面
+registry-ah,安徽省国资委,安徽,省属,https://gzw.ah.gov.cn/,discover_list,active,自动寻找省属企业/监管企业页面

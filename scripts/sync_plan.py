@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""江浙沪皖国资招聘雷达 V2.1 同步计划。
+"""江浙沪皖国资招聘雷达 V2.3 同步计划。
 
 fast: 每天运行，国家平台 + 固定官方源 + 已验证市县政府/人社/国资源 + HTML高校就业源。
 slow: Playwright高校就业网/慢源。
@@ -22,6 +22,9 @@ from scripts import filter_target_jobs, export_target_html
 DISCOVERED_FILES = [
     os.path.join(ROOT, "config", "discovered_sources.csv"),
     os.path.join(ROOT, "config", "discovered_universities.csv"),
+    os.path.join(ROOT, "config", "discovered_company_sources.csv"),
+    os.path.join(ROOT, "config", "discovered_watchlist_sources.csv"),
+    os.path.join(ROOT, "config", "discovered_manual_sources.csv"),
 ]
 
 
@@ -69,7 +72,7 @@ def _install_merged_sources() -> None:
 _install_merged_sources()
 
 CORE_SOURCE_IDS = {"cn-iguopin", "gov-sasac", "gov-qyzp", "gov-ncss", "gov-mohrss"}
-AUTO_PREFIXES = ("auto-gov-", "auto-hrss-", "auto-sasac-", "auto-job-", "auto-edu-")
+AUTO_PREFIXES = ("auto-gov-", "auto-hrss-", "auto-sasac-", "auto-job-", "auto-edu-", "soe-company-", "watch-", "manual-")
 
 
 def _active_sources() -> list[dict[str, str]]:
@@ -122,11 +125,11 @@ def _run(label: str, ids: set[str]) -> None:
 
 def run_plan(plan: str) -> None:
     if plan == "fast":
-        _run("江浙沪皖国资招聘雷达 V2.1｜每日快扫", _fast_source_ids())
+        _run("江浙沪皖国资招聘雷达 V2.3｜每日快扫", _fast_source_ids())
     elif plan == "slow":
-        _run("江浙沪皖国资招聘雷达 V2.1｜慢源补扫", _slow_source_ids())
+        _run("江浙沪皖国资招聘雷达 V2.3｜慢源补扫", _slow_source_ids())
     elif plan == "full":
-        _run("江浙沪皖国资招聘雷达 V2.1｜完整扫描", _fast_source_ids() | _slow_source_ids())
+        _run("江浙沪皖国资招聘雷达 V2.3｜完整扫描", _fast_source_ids() | _slow_source_ids())
     else:
         raise SystemExit(f"未知计划：{plan}")
 

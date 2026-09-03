@@ -15,7 +15,7 @@ env:
 jobs:
   slow:
     runs-on: ubuntu-latest
-    timeout-minutes: 80
+    timeout-minutes: 140
     steps:
       - uses: actions/checkout@v4
 
@@ -31,13 +31,24 @@ jobs:
       - name: Full verified city county source discovery
         run: python3 scripts/discover_sources.py --full --max-pages 180
 
-      - name: Run slow sources
-        run: python3 scripts/sync_plan.py slow
+      - name: Full SOE registry refresh
+        run: python3 scripts/update_soe_registry.py --max-sources 220
 
-      - name: Build one WeCom summary after slow scan
+      - name: Deep priority company and WeChat clue discovery
+        run: python3 scripts/watchlist_discovery.py --deep --max-results 10
+        continue-on-error: true
+
+      - name: Import manual public article URLs
+        run: python3 scripts/import_manual_urls.py
+
+      # full = HTML 固定/自动发现/企业官网/微信补漏 + Playwright 高校/慢源一起补扫。
+      - name: Run full slow-day sync
+        run: python3 scripts/sync_plan.py full
+
+      - name: Build one WeCom summary after deep scan
         run: python3 scripts/notify_preview.py
 
-      - name: Send one WeCom summary after slow scan
+      - name: Send one WeCom summary after deep scan
         env:
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
           WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
@@ -46,10 +57,16 @@ jobs:
       - name: Full source health check
         run: python3 scripts/source_health.py
 
-      - name: Commit slow scan data and coverage audit
+      - name: Watchlist silence audit
+        run: python3 scripts/watchlist_health.py
+
+      - name: Commit deep scan data registry and coverage audit
         run: |
           git config user.name "job-radar-bot"
           git config user.email "job-radar-bot@users.noreply.github.com"
-          git add data/ config/discovered_sources.csv config/discovered_universities.csv config/coverage_report.csv config/university_coverage.csv config/coverage_summary.md || true
-          git diff --cached --quiet || git commit -m "chore(data): weekly V2.1 county source refresh"
+          git add data/ config/soe_registry_generated.csv config/discovered_company_sources.csv \
+            config/discovered_watchlist_sources.csv config/discovered_manual_sources.csv \
+            config/discovered_sources.csv config/discovered_universities.csv \
+            config/coverage_report.csv config/university_coverage.csv config/coverage_summary.md || true
+          git diff --cached --quiet || git commit -m "chore(data): weekly V2.3 SOE registry and deep refresh"
           git push

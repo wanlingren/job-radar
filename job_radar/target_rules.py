@@ -5,6 +5,8 @@ import datetime as dt
 import re
 from zoneinfo import ZoneInfo
 
+from .soe_matcher import match_company, match_text
+
 TZ = ZoneInfo("Asia/Shanghai")
 CORE_REGIONS = {"浙江", "江苏", "上海", "安徽"}
 
@@ -109,7 +111,12 @@ def is_state_owned(job: dict) -> bool:
     org = clean(job.get("org_type")).lower()
     company = clean(job.get("company_name"))
     text = job_text(job)
+    # V2.3：主体库事实优先，名称/别名命中即确认国企。
+    if match_company(company) or match_text(text):
+        return True
     if sid in CENTRAL_SOURCE_IDS:
+        return True
+    if sid.startswith(("soe-company-", "watch-")) and org == "soe":
         return True
     if org in {"soe", "state-owned", "state_owned", "stateowned"}:
         return True
@@ -181,8 +188,12 @@ def source_tier(job: dict) -> str:
     ext = extra(job)
     if sid.startswith(("reg-gov-", "reg-sasac-", "reg-hrss-", "auto-gov-", "auto-hrss-", "auto-sasac-", "auto-job-")) or sid in CENTRAL_SOURCE_IDS:
         return "★★★★★ 官方政府/国资"
-    if ext.get("mode") == "company" or clean(job.get("org_type")).lower() == "soe":
-        return "★★★★★ 企业官网"
+    if sid.startswith("watch-"):
+        return "★★★★☆ 重点企业/微信补漏"
+    if sid.startswith("manual-"):
+        return "★★★★☆ 手工补录"
+    if sid.startswith("soe-company-") or ext.get("mode") == "company" or clean(job.get("org_type")).lower() == "soe":
+        return "★★★★★ 企业官网/主体库"
     if is_university_source(job):
         return "★★★★☆ 高校就业网"
     if sid in {"cn-iguopin", "gov-ncss", "gov-mohrss"}:
