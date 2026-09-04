@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-09-03T14:00:16.007611+00:00",
-  "total": 323,
+  "generated_at": "2026-09-04T00:49:37.604833+00:00",
+  "total": 321,
   "entities": [
+    {
+      "entity_id": "auto-d7b640790d34",
+      "canonical_name": "上海上实综合能源有限公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "官方招聘公告反向核验",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=X3SCt7GpPnnVEZbyxMazWR",
+      "confidence": "official_job_observed",
+      "last_verified": "2026-09-04"
+    },
+    {
+      "entity_id": "auto-dc74cbaa8add",
+      "canonical_name": "中国东方航空技术有限公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "国务院国资委·人事招聘",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
+      "confidence": "official_discovered",
+      "last_verified": "2026-09-04"
+    },
     {
       "entity_id": "auto-9aa2974c7994",
       "canonical_name": "中国中化控股有限责任公司",
@@ -19,7 +57,26 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
+    },
+    {
+      "entity_id": "auto-b6fe3b8b25dc",
+      "canonical_name": "中国国际人才开发中心有限公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "官方招聘公告反向核验",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "https://www.iguopin.com/job/detail?id=216606549265613588",
+      "confidence": "official_job_observed",
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-89c46a7a5f0d",
@@ -38,7 +95,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-74156291243f",
@@ -57,7 +114,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-2d7df0e1b843",
@@ -76,87 +133,11 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
-      "entity_id": "auto-6a82f72920c5",
-      "canonical_name": "海南省通信产业服务有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=89Q2cQ7hNHow87mEo6CKWR",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
-    },
-    {
-      "entity_id": "auto-3c568599fda9",
-      "canonical_name": "海南省金城安居投资集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.iguopin.com/job/detail?id=216486714040910444",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
-    },
-    {
-      "entity_id": "auto-bec96856cb02",
-      "canonical_name": "深圳市福田区保安服务有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=EcjHXtwdJGD1RVY7Jv6Xcz",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
-    },
-    {
-      "entity_id": "auto-e8879a725a86",
-      "canonical_name": "衡阳县天耀新能源有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://job.mohrss.gov.cn/cjobs/jobinfo/showDetail?aab001=36935874",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
-    },
-    {
-      "entity_id": "auto-8b8f909ef2b2",
-      "canonical_name": "中国大地财产保险股份有限公司",
+      "entity_id": "auto-9f4ab2e4d26d",
+      "canonical_name": "上海中国青年旅行社有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -169,32 +150,13 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=W9TZZCm7HBkL8jFsfNpdpb",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=M2VEF3Ly2VeKvPdducee7N",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
-      "entity_id": "auto-d3b8e46f7928",
-      "canonical_name": "就业】普源精电科技股份有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "上海",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=ff16c0401fb44dfbbcf10d8671473509",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
-    },
-    {
-      "entity_id": "auto-0cd69b270d8e",
-      "canonical_name": "标题：国企-蚌埠国钛纳米材料有限公司",
+      "entity_id": "auto-fcfa0a7a0d60",
+      "canonical_name": "旌德旌水云筑建设工程有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -207,9 +169,9 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://jyzd.chnu.edu.cn/xsfw/gwxx/content_149910",
+      "source_url": "https://www.ahjd.gov.cn/News/show/1728145.html",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cen-ctcc-sh",
@@ -684,7 +646,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f62d856b1d2e",
@@ -703,7 +665,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-9682280dabf6",
@@ -722,7 +684,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-a906396eda1c",
@@ -741,7 +703,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d232a2603661",
@@ -760,7 +722,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6088fed8ae00",
@@ -779,7 +741,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-crec",
@@ -817,7 +779,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cccc",
@@ -836,26 +798,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
-    },
-    {
-      "entity_id": "auto-d317ae1c65f7",
-      "canonical_name": "中国保利集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.poly.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-c1ba49730e9d",
@@ -874,7 +817,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b5a3cf9925af",
@@ -893,7 +836,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b54e6b6d2443",
@@ -912,7 +855,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-293f0e5f3bc2",
@@ -931,7 +874,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-bd07f46d0a69",
@@ -950,7 +893,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-ec09fb6d11b9",
@@ -969,7 +912,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-fe7204234fcc",
@@ -988,7 +931,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-chd",
@@ -1007,7 +950,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-huaneng",
@@ -1026,7 +969,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f6629e9766aa",
@@ -1045,7 +988,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-80bb8b23751e",
@@ -1064,7 +1007,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f2ce0ffcfe46",
@@ -1083,7 +1026,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-8a8a1b3d96cf",
@@ -1102,7 +1045,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-47af9bf7bbbc",
@@ -1121,7 +1064,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-comac",
@@ -1140,7 +1083,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-dcb8344bfb91",
@@ -1159,7 +1102,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-20227ae7801b",
@@ -1178,7 +1121,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-e291128e7ccd",
@@ -1197,7 +1140,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-datang",
@@ -1216,7 +1159,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-defd2b7fe094",
@@ -1235,7 +1178,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-baowu",
@@ -1254,7 +1197,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-48bec40aeac2",
@@ -1273,7 +1216,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-87abdd74d089",
@@ -1292,7 +1235,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-122ee89997d2",
@@ -1311,7 +1254,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cscec",
@@ -1330,7 +1273,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-3a15671a9ae1",
@@ -1349,7 +1292,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-749891344c5f",
@@ -1368,7 +1311,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6b7174b27be4",
@@ -1387,7 +1330,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-76d06f73e371",
@@ -1406,7 +1349,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f5529a10184b",
@@ -1425,7 +1368,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f3c974ac6afc",
@@ -1444,7 +1387,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6cf882bf4061",
@@ -1463,7 +1406,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-fe53d35dc0b9",
@@ -1482,7 +1425,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f28091d85d79",
@@ -1501,7 +1444,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-11acb1119219",
@@ -1520,7 +1463,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-621e49ace198",
@@ -1539,7 +1482,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cnooc",
@@ -1558,7 +1501,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-cbe2cf98b705",
@@ -1577,7 +1520,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-0f966e9ffcd3",
@@ -1596,7 +1539,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-ctcc",
@@ -1615,7 +1558,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-powerchina",
@@ -1634,7 +1577,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-fe2f751a361c",
@@ -1653,7 +1596,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cetc",
@@ -1672,7 +1615,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6e7b67176816",
@@ -1691,7 +1634,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-9026df7abfbd",
@@ -1710,7 +1653,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-sinopec",
@@ -1729,7 +1672,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-petrochina",
@@ -1748,7 +1691,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-3fe4f2321978",
@@ -1767,7 +1710,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cmcc",
@@ -1786,7 +1729,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f0146615399f",
@@ -1805,7 +1748,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-08b2f47f242b",
@@ -1824,7 +1767,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-unicom",
@@ -1843,7 +1786,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-ceec",
@@ -1862,7 +1805,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-278cc3fcc54c",
@@ -1881,7 +1824,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6ab47a05802e",
@@ -1900,7 +1843,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d41e15175c43",
@@ -1919,7 +1862,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-57bb2e9b9a42",
@@ -1938,7 +1881,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-45d3f2f52974",
@@ -1957,7 +1900,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-7e6fe3f81fff",
@@ -1976,7 +1919,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-077eb688e8bb",
@@ -1995,7 +1938,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-e8fc51233de6",
@@ -2014,7 +1957,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-4ad71b82e4eb",
@@ -2033,7 +1976,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cosco",
@@ -2052,7 +1995,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-bd40d61468a6",
@@ -2071,7 +2014,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d2256bbba1dc",
@@ -2090,7 +2033,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-crcc",
@@ -2128,7 +2071,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b33a02f96bdc",
@@ -2147,7 +2090,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-360fe53f6aaf",
@@ -2166,7 +2109,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-e23be3d13d33",
@@ -2185,7 +2128,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-7077bc047e40",
@@ -2204,7 +2147,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-99f90c9ccd26",
@@ -2223,7 +2166,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-89b800ecf035",
@@ -2242,7 +2185,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-720ca7bbbd2d",
@@ -2261,7 +2204,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-24257a59bcb1",
@@ -2280,7 +2223,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-fd48bd759d9b",
@@ -2299,7 +2242,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-crc",
@@ -2318,7 +2261,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-1c5d818d160d",
@@ -2337,7 +2280,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-01783d72587d",
@@ -2356,7 +2299,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-62a8b1f41085",
@@ -2375,7 +2318,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f809d0f23c40",
@@ -2394,7 +2337,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-spic",
@@ -2413,7 +2356,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-sgcc",
@@ -2432,7 +2375,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-c9b08e703449",
@@ -2451,7 +2394,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-chinaenergy",
@@ -2470,7 +2413,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "cn-cmhk",
@@ -2489,7 +2432,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-4621184d3611",
@@ -2508,7 +2451,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-cbb057fbe336",
@@ -2527,7 +2470,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-9e682d7ed2e6",
@@ -2546,7 +2489,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-808bbfee738c",
@@ -2565,7 +2508,7 @@
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-5c3115c73484",
@@ -2584,7 +2527,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-1fe9e0dc20ea",
@@ -2603,7 +2546,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-5ff272d0f5cf",
@@ -2622,7 +2565,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-1b563f6c745f",
@@ -2641,7 +2584,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-e72f6667934e",
@@ -2660,7 +2603,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d528066e4d6d",
@@ -2679,11 +2622,11 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
-      "entity_id": "auto-dc74cbaa8add",
-      "canonical_name": "中国东方航空技术有限公司",
+      "entity_id": "auto-d317ae1c65f7",
+      "canonical_name": "中国保利集团有限公司",
       "short_name": "",
       "aliases": "",
       "level": "市县属国企",
@@ -2698,7 +2641,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-2cdf2ff79608",
@@ -2717,7 +2660,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-42a562e4d980",
@@ -2736,7 +2679,26 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
+    },
+    {
+      "entity_id": "auto-78fa8c21b799",
+      "canonical_name": "陕西飞机工业有限责任公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "市县属国企",
+      "parent_group": "",
+      "province": "江苏",
+      "city": "南京市",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "玄武区·国务院国资委",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "http://www.sasac.gov.cn/",
+      "confidence": "official_discovered",
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-1b22d4bc42d7",
@@ -2755,7 +2717,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6889d30c1924",
@@ -2774,7 +2736,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b523ec5d1aa5",
@@ -2793,7 +2755,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-946e7f8ed3c9",
@@ -2812,7 +2774,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6c5d40832bb1",
@@ -2831,7 +2793,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-55f9673f748a",
@@ -2850,7 +2812,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-7c98596c5d2f",
@@ -2869,7 +2831,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-cc5c71bac6d8",
@@ -2888,7 +2850,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-38f7a001aa50",
@@ -2907,7 +2869,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-02244bf16e5a",
@@ -2926,7 +2888,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-a4b3a9371b32",
@@ -2945,7 +2907,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-1eef87c0adec",
@@ -2964,7 +2926,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-11224e21be51",
@@ -2983,7 +2945,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-48c3bac9d425",
@@ -3002,7 +2964,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-377ab3df8d37",
@@ -3021,7 +2983,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-2a9237274c90",
@@ -3040,7 +3002,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-e88c77195c15",
@@ -3059,7 +3021,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-633f26004573",
@@ -3078,7 +3040,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-205c6f8ad99d",
@@ -3097,7 +3059,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-44bc77d1ea52",
@@ -3116,7 +3078,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b1c36752c413",
@@ -3135,7 +3097,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-df41157b8fa2",
@@ -3154,7 +3116,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-a39d6d74bd45",
@@ -3173,7 +3135,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-5abc156d9eef",
@@ -3192,7 +3154,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-2251e9982f1f",
@@ -3211,7 +3173,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-360c2beadeb7",
@@ -3230,7 +3192,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-fdbbcd316aad",
@@ -3249,7 +3211,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-5ee55cc006b7",
@@ -3268,7 +3230,7 @@
       "wechat": "",
       "source_url": "https://www.lyg.gov.cn/zglygzfmhwz/ftyg/content/d09c7f19-2d90-4e4d-8f59-929f4ff75b68.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-54ca10a1c025",
@@ -3287,7 +3249,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-3226b526054f",
@@ -3306,7 +3268,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-da00cfdb1f8b",
@@ -3325,7 +3287,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b05c03d53df7",
@@ -3344,7 +3306,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-74bfa30c7ea3",
@@ -3363,7 +3325,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-c7ed64c7b7fc",
@@ -3382,7 +3344,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b9e0a594a50d",
@@ -3401,7 +3363,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-5cec3e0ad6e0",
@@ -3420,7 +3382,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-16afea057083",
@@ -3439,7 +3401,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d2677222c8c0",
@@ -3458,7 +3420,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-4e19959c3513",
@@ -3477,7 +3439,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d1badead9f3e",
@@ -3496,7 +3458,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-e892118a4b71",
@@ -3515,7 +3477,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-c6ac15b0f5e8",
@@ -3534,7 +3496,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-a7e3667a29de",
@@ -3553,7 +3515,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-a89d30e39927",
@@ -3572,7 +3534,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-1bd7d999886d",
@@ -3591,7 +3553,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-b5f65902aad7",
@@ -3610,7 +3572,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-bc804c2cf3a6",
@@ -3629,7 +3591,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-89c24e6aba84",
@@ -3648,7 +3610,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-7bf4976552c4",
@@ -3667,7 +3629,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f00fbe910de6",
@@ -3686,7 +3648,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-621ffe0f9d3c",
@@ -3705,7 +3667,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-85a61c31013a",
@@ -3724,7 +3686,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-49e5040899df",
@@ -3743,7 +3705,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-0b0005308604",
@@ -3762,7 +3724,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-15c0d621ab75",
@@ -3781,7 +3743,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-c31d533915b4",
@@ -3800,7 +3762,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-f41615341728",
@@ -3819,7 +3781,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-87506041793b",
@@ -3838,7 +3800,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-8bd71b9479c2",
@@ -3857,7 +3819,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-9e485074cc0d",
@@ -3876,7 +3838,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-939307680add",
@@ -3895,7 +3857,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-hub",
@@ -3914,7 +3876,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-lingang",
@@ -3933,7 +3895,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-jiushi",
@@ -3952,7 +3914,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-exchange",
@@ -3971,7 +3933,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-instrument",
@@ -3990,7 +3952,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-srcb",
@@ -4009,7 +3971,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-huahong",
@@ -4028,7 +3990,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-huayi",
@@ -4047,7 +4009,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-gztz",
@@ -4066,7 +4028,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-guosheng",
@@ -4085,7 +4047,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-sipg",
@@ -4104,7 +4066,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-international",
@@ -4123,7 +4085,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-land",
@@ -4142,7 +4104,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-chengtou",
@@ -4161,7 +4123,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-shi",
@@ -4180,7 +4142,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-test",
@@ -4199,7 +4161,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-agri",
@@ -4218,7 +4180,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-construction",
@@ -4237,7 +4199,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-data",
@@ -4256,7 +4218,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-airport",
@@ -4275,7 +4237,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-saic",
@@ -4294,7 +4256,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-spdb",
@@ -4313,7 +4275,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-shendi",
@@ -4332,7 +4294,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-metro",
@@ -4351,7 +4313,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-electric",
@@ -4370,7 +4332,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-lianhe",
@@ -4389,7 +4351,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-bank",
@@ -4408,7 +4370,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-tunnel",
@@ -4427,7 +4389,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-donghao",
@@ -4446,7 +4408,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-cic",
@@ -4465,7 +4427,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-bright",
@@ -4484,7 +4446,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-arcplus",
@@ -4503,7 +4465,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-guotaihaitong",
@@ -4522,7 +4484,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-shenergy",
@@ -4541,7 +4503,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-bailian",
@@ -4560,7 +4522,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-jinjiang",
@@ -4579,7 +4541,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-delta",
@@ -4598,7 +4560,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "sh-yangtze",
@@ -4617,7 +4579,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "ah-hf-xt",
@@ -4807,7 +4769,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-wx-metro",
@@ -4826,7 +4788,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-sz-guofa",
@@ -4864,7 +4826,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "zj-nb-metro",
@@ -5320,7 +5282,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_seed",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-zhongjiang",
@@ -5358,7 +5320,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-7a5cfb5c0916",
@@ -5377,7 +5339,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-jinling",
@@ -5434,7 +5396,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-d25d102fb35b",
@@ -5453,7 +5415,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-xukuang",
@@ -5491,7 +5453,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-99d69fef591e",
@@ -5510,7 +5472,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-jt",
@@ -5548,7 +5510,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "js-sports",
@@ -5795,7 +5757,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-92146084914e",
@@ -5814,7 +5776,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-6bbbfb62bbaf",
@@ -5833,7 +5795,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-860aa4555fdc",
@@ -5852,7 +5814,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/col/col61361/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-142cbc8f4b9a",
@@ -5871,7 +5833,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-a94251afdbd2",
@@ -5890,7 +5852,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "auto-95cd80775bbc",
@@ -5909,7 +5871,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-03"
+      "last_verified": "2026-09-04"
     },
     {
       "entity_id": "zj-hangsteel",

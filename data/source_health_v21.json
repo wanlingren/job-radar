@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-03 14:38:03",
+  "checked_at": "2026-09-04 01:26:36",
   "total": 80,
-  "ok": 68,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -95,9 +95,9 @@
       "source_id": "reg-gov-sh",
       "name": "上海市人民政府",
       "url": "https://www.shanghai.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-gov-ah",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-ustc",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": false,
-      "http_status": 483,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-job-sh",
