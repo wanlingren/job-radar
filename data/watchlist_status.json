@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:26:36.329471+00:00",
+  "generated_at": "2026-09-04T14:31:55.389344+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -50,10 +50,10 @@
       "company": "安徽省能源集团有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 0,
-      "last_discovered": "",
-      "days_since_last": null,
-      "status": "尚未发现"
+      "active_jobs": 1,
+      "last_discovered": "2026-09-04",
+      "days_since_last": 0,
+      "status": "正常"
     },
     {
       "company": "淮河能源控股集团有限责任公司",
@@ -338,9 +338,9 @@
       "company": "国网上海市电力公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 25,
-      "last_discovered": "2026-09-03",
-      "days_since_last": 1,
+      "active_jobs": 26,
+      "last_discovered": "2026-09-04",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
