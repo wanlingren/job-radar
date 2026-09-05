@@ -100,7 +100,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,苏州市,320581,常熟市,county,covered,https://www.changshu.gov.cn/,search+sitecode
 江苏,苏州市,320582,张家港市,county,covered,https://www.zjg.gov.cn/,search+sitecode
 江苏,苏州市,320583,昆山市,county,covered,https://www.ks.gov.cn/,search+sitecode
-江苏,苏州市,320585,太仓市,county,missing,,
+江苏,苏州市,320585,太仓市,county,covered,https://www.taicang.gov.cn/,search+sitecode
 江苏,南通市,320612,通州区,county,covered,https://www.bjtzh.gov.cn/,search+strict-name
 江苏,南通市,320613,崇川区,county,missing,,
 江苏,南通市,320614,海门区,county,missing,,
@@ -147,12 +147,12 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,镇江市,321171,镇江新区,functional,missing,,
 江苏,镇江市,321181,丹阳市,county,missing,,
 江苏,镇江市,321182,扬中市,county,missing,,
-江苏,镇江市,321183,句容市,county,missing,,
+江苏,镇江市,321183,句容市,county,covered,https://www.jurong.gov.cn/,search+sitecode
 江苏,泰州市,321202,海陵区,county,missing,,
 江苏,泰州市,321203,高港区,county,missing,,
 江苏,泰州市,321204,姜堰区,county,missing,,
 江苏,泰州市,321281,兴化市,county,covered,https://www.xinghua.gov.cn/,search+strict-name
-江苏,泰州市,321282,靖江市,county,missing,,
+江苏,泰州市,321282,靖江市,county,covered,https://www.jingjiang.gov.cn/,search+strict-name
 江苏,泰州市,321283,泰兴市,county,covered,https://www.taixing.gov.cn/,search+strict-name
 江苏,宿迁市,321302,宿城区,county,missing,,
 江苏,宿迁市,321311,宿豫区,county,missing,,
@@ -286,7 +286,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,淮南市,340405,八公山区,county,missing,,
 安徽,淮南市,340406,潘集区,county,missing,,
 安徽,淮南市,340421,凤台县,county,covered,https://www.ft.gov.cn/,search+sitecode
-安徽,淮南市,340422,寿县,county,missing,,
+安徽,淮南市,340422,寿县,county,covered,https://www.shouxian.gov.cn/,search+strict-name
 安徽,马鞍山市,340503,花山区,county,missing,,
 安徽,马鞍山市,340504,雨山区,county,missing,,
 安徽,马鞍山市,340506,博望区,county,missing,,
