@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-04 14:31:55",
+  "checked_at": "2026-09-05 01:13:11",
   "total": 80,
-  "ok": 69,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": false,
-      "http_status": 483,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-job-sh",
