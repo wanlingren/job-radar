@@ -1,24 +1,24 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-09-05
 
-> 今日待提醒：**18 条**｜7天内截止：**0 条**
+> 今日待提醒：**36 条**｜7天内截止：**0 条**
 
-> 📍 浙江 3｜江苏 0｜上海 0｜安徽 0
+> 📍 浙江 19｜江苏 0｜上海 0｜安徽 0
 
-> 🟦校园招聘/应届生 3｜🟨国企公开招聘 15
+> ⭐27届校园招聘 2｜🟦校园招聘/应届生 14｜🟨国企公开招聘 2｜🟧国企社会招聘 16｜🟩事业单位/人才引进 2
 
-[📋 一次查看全部 18 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 36 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [09-04] 新 中国银行江苏省分行2027年｜[09-04] 新 中国银行江苏省分行2027年校园招聘公告](https://job.hdu.edu.cn/campus/view?id=9680)
-- [09-04] 新 中国银行广东省分行2027年｜[09-04] 新 中国银行广东省分行2027年校园招聘正式启动！](https://job.hdu.edu.cn/campus/view?id=9679)
-- [浙江财经大学就业网｜“银企携手 职等你来”中国银行千企千校专场活动](http://zccareer.zufe.edu.cn/news/view/aid/414327/tag/xwkd)
-- [山西省地质调查院有限公司｜地质矿产实习生](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=L2opmA3T6M6N1g2A7CeGTq)
-- [哈电集团（秦皇岛）重型装备有限公司｜项目管理员](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=JGBd7FRu7U2vFHcDJESvUr)
-- [哈电集团（秦皇岛）重型装备有限公司｜装备技术员](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=RuaCTYpcx9PvuSP37PjWek)
-- [哈电集团（秦皇岛）重型装备有限公司｜质量员](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=46jDGEimHPTRXnkeK32r2T)
-- [哈电集团（秦皇岛）重型装备有限公司｜材料技术员](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=WSSvLkrQUurED5GrFHiLVW)
-- [哈电集团（秦皇岛）重型装备有限公司｜计调员](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=UPgVkdcy7ivEecoAKLJvX3)
-- [哈电集团（秦皇岛）重型装备有限公司｜生产技术员](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=p1gQZBXAzxjMphJRpAK6E)
+- [企业招聘|中国联合工程有限公司｜企业招聘|中国联合工程有限公司2027届校园招聘公告](http://career.zjnu.edu.cn/campus/view/id/872140)
+- [中国能源建设集团湖南省电力设计院有限公司｜中国能源建设集团湖南省电力设计院有限公司2027届校园招聘](http://jyb.zstu.edu.cn/campus/view/id/340183)
+- [企业招聘|中国华电集团有限公司浙江公司2027年｜企业招聘|中国华电集团有限公司浙江公司2027年校园招聘公告](http://career.zjnu.edu.cn/campus/view/id/872138)
+- [中国计量大学就业网｜AI应用开发实习生 上海磐时信息技术有限公司](https://jyb.cjlu.edu.cn/job/view/id/428824)
+- [以中为始，同行未来！——中国银行浙江省分行 2026年春季｜以中为始，同行未来！——中国银行浙江省分行 2026…](http://jyb.zstu.edu.cn/job/view/id/471984)
+- [以中为始，同行未来！——中国银行浙江省分行 2025年春季｜以中为始，同行未来！——中国银行浙江省分行 2025…](http://jyb.zstu.edu.cn/job/view/id/464660)
+- [中信银行武汉分行2027年｜中信银行武汉分行2027年校园招聘公告 中意你 信未来——温暖职场，等你来！](https://jyb.cjlu.edu.cn/campus/view/id/354033)
+- [中国农业银行浙江省分行2027年度｜中国农业银行浙江省分行2027年度校园招聘](https://jyb.cjlu.edu.cn/campus/view/id/354032)
+- [中国银行江苏省分行2027年｜中国银行江苏省分行2027年校园招聘公告](https://jyb.cjlu.edu.cn/campus/view/id/354031)
+- [“中意你 信未来” 中信银行宁波分行2027年｜“中意你 信未来” 中信银行宁波分行2027年校园招聘](https://jyb.cjlu.edu.cn/campus/view/id/354028)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

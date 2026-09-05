@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05 01:13:11",
+  "checked_at": "2026-09-05 13:45:47",
   "total": 80,
   "ok": 70,
   "items": [
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",
@@ -551,9 +551,9 @@
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
       "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-519f3837e3",
