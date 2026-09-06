@@ -1,67 +1,10 @@
 {
-  "generated_at": "2026-09-05T23:11:20.890940+00:00",
-  "total": 325,
+  "generated_at": "2026-09-06T00:37:51.692020+00:00",
+  "total": 244,
   "entities": [
     {
-      "entity_id": "auto-dc74cbaa8add",
-      "canonical_name": "中国东方航空技术有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委·人事招聘",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-9aa2974c7994",
-      "canonical_name": "中国中化控股有限责任公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委·人事招聘",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-89c46a7a5f0d",
-      "canonical_name": "中国电气装备集团国际电力有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委·人事招聘",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-73a77781b5e4",
-      "canonical_name": "中国银行股份有限公司",
+      "entity_id": "auto-ec4cd3e1d058",
+      "canonical_name": "山西省地质调查院有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -74,51 +17,13 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=SLaDB8f5H72xoPf8Xxek6Q",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=L2opmA3T6M6N1g2A7CeGTq",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
-      "entity_id": "auto-74156291243f",
-      "canonical_name": "中电信人工智能科技（北京）有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委·人事招聘",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-2d7df0e1b843",
-      "canonical_name": "中铝财务有限责任公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委·人事招聘",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-8f8a10bed61d",
-      "canonical_name": "北大医疗淄博医院有限公司",
+      "entity_id": "auto-bec96856cb02",
+      "canonical_name": "深圳市福田区保安服务有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -131,13 +36,13 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=9KxUMWReL3R4YsZ9xnJ8rC",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=88EWqSyAfBSbo88i8cCf4n",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
-      "entity_id": "auto-a41995f754dd",
-      "canonical_name": "哈电集团（秦皇岛）重型装备有限公司",
+      "entity_id": "auto-e8879a725a86",
+      "canonical_name": "衡阳县天耀新能源有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -150,18 +55,18 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=JGBd7FRu7U2vFHcDJESvUr",
+      "source_url": "http://job.mohrss.gov.cn/cjobs/jobinfo/showDetail?aab001=36935874",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
-      "entity_id": "auto-a3a82d96eaef",
-      "canonical_name": "山东鲁抗医药股份有限公司",
+      "entity_id": "auto-d3b8e46f7928",
+      "canonical_name": "就业】普源精电科技股份有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
       "parent_group": "",
-      "province": "",
+      "province": "上海",
       "city": "",
       "district": "",
       "org_type": "soe",
@@ -169,13 +74,13 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=ACBwptwYoCMxHwQmTSzcxh",
+      "source_url": "http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=ff16c0401fb44dfbbcf10d8671473509",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
-      "entity_id": "auto-fcfa0a7a0d60",
-      "canonical_name": "旌德旌水云筑建设工程有限公司",
+      "entity_id": "auto-0cd69b270d8e",
+      "canonical_name": "标题：国企-蚌埠国钛纳米材料有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -188,28 +93,9 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ahjd.gov.cn/News/show/1728145.html",
+      "source_url": "https://jyzd.chnu.edu.cn/xsfw/gwxx/content_149910",
       "confidence": "official_job_observed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f06b0eb07278",
-      "canonical_name": "中建八局浙江建设有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "浙江",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=P2rUhG4KWWpMYnkySLsK5U",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "cen-ctcc-sh",
@@ -668,120 +554,6 @@
       "last_verified": "2026-09-02"
     },
     {
-      "entity_id": "auto-e0b9506e8c35",
-      "canonical_name": "东风汽车集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.dfmc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f62d856b1d2e",
-      "canonical_name": "中国一重集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cfhi.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-9682280dabf6",
-      "canonical_name": "中国东方电气集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.dongfang.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-a906396eda1c",
-      "canonical_name": "中国东方航空集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.ceairgroup.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-d232a2603661",
-      "canonical_name": "中国中煤能源集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.chinacoal.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-6088fed8ae00",
-      "canonical_name": "中国中车集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.crrcgc.cc/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
       "entity_id": "cn-crec",
       "canonical_name": "中国中铁股份有限公司",
       "short_name": "中国中铁",
@@ -801,25 +573,6 @@
       "last_verified": "2026-09-02"
     },
     {
-      "entity_id": "auto-b3d56d429dcd",
-      "canonical_name": "中国五矿集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.minmetals.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
       "entity_id": "cn-cccc",
       "canonical_name": "中国交通建设集团有限公司",
       "short_name": "中国交建",
@@ -831,145 +584,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.ccccltd.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-c1ba49730e9d",
-      "canonical_name": "中国信息通信科技集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cict.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-b5a3cf9925af",
-      "canonical_name": "中国储备粮管理集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.sinograin.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-b54e6b6d2443",
-      "canonical_name": "中国兵器工业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.norincogroup.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-293f0e5f3bc2",
-      "canonical_name": "中国兵器装备集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.csgc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-bd07f46d0a69",
-      "canonical_name": "中国农业发展集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cnadc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-ec09fb6d11b9",
-      "canonical_name": "中国化学工程集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cncec.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-fe7204234fcc",
-      "canonical_name": "中国医药集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.sinopharm.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-chd",
@@ -983,12 +603,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.chd.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-huaneng",
@@ -1002,107 +622,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.chng.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f6629e9766aa",
-      "canonical_name": "中国南光集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-80bb8b23751e",
-      "canonical_name": "中国南方电网有限责任公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.csg.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f2ce0ffcfe46",
-      "canonical_name": "中国南方航空集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.csairgroup.cn/cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-8a8a1b3d96cf",
-      "canonical_name": "中国南水北调集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.csnwd.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-47af9bf7bbbc",
-      "canonical_name": "中国卫星网络集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-comac",
@@ -1116,69 +641,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.comac.cc/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-dcb8344bfb91",
-      "canonical_name": "中国国新控股有限责任公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.crhc.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-20227ae7801b",
-      "canonical_name": "中国国际工程咨询有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.ciecc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-e291128e7ccd",
-      "canonical_name": "中国国际技术智力合作集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.ciic.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-datang",
@@ -1192,31 +660,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.china-cdt.com/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-defd2b7fe094",
-      "canonical_name": "中国安能建设集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.china-an.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-baowu",
@@ -1230,69 +679,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.baowugroup.com/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-48bec40aeac2",
-      "canonical_name": "中国广核集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cgnpc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-87abdd74d089",
-      "canonical_name": "中国建材集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cnbm.com.cn",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-122ee89997d2",
-      "canonical_name": "中国建筑科学研究院有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cabr.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-cscec",
@@ -1306,221 +698,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.cscec.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-3a15671a9ae1",
-      "canonical_name": "中国建设科技有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.cctc.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-749891344c5f",
-      "canonical_name": "中国旅游集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
       "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-6b7174b27be4",
-      "canonical_name": "中国旅游集团有限公司[香港中旅（集团）有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.ctg.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-76d06f73e371",
-      "canonical_name": "中国有研科技集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.grinm.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f5529a10184b",
-      "canonical_name": "中国有色矿业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cnmc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f3c974ac6afc",
-      "canonical_name": "中国机械工业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.sinomach.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-6cf882bf4061",
-      "canonical_name": "中国机械科学研究总院集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cam.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-fe53d35dc0b9",
-      "canonical_name": "中国林业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.cfgc.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f28091d85d79",
-      "canonical_name": "中国核工业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cnnc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-11acb1119219",
-      "canonical_name": "中国检验认证（集团）有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.ccic.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-621e49ace198",
-      "canonical_name": "中国民航信息集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.travelsky.cn",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "confidence": "official_seed",
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-cnooc",
@@ -1534,50 +717,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.cnooc.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-cbe2cf98b705",
-      "canonical_name": "中国煤炭科工集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.ccteg.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-0f966e9ffcd3",
-      "canonical_name": "中国物流集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.chinalogisticsgroup.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-ctcc",
@@ -1591,12 +736,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.chinatelecom.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-powerchina",
@@ -1610,31 +755,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.powerchina.cn",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-fe2f751a361c",
-      "canonical_name": "中国电子信息产业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cec.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-cetc",
@@ -1648,50 +774,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.cetc.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-6e7b67176816",
-      "canonical_name": "中国电气装备集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cee-group.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-9026df7abfbd",
-      "canonical_name": "中国盐业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.chinasalt.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-sinopec",
@@ -1705,12 +793,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.sinopecgroup.com/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-petrochina",
@@ -1724,31 +812,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.cnpc.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-3fe4f2321978",
-      "canonical_name": "中国矿产资源集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cmr-co.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-cmcc",
@@ -1762,50 +831,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.10086.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f0146615399f",
-      "canonical_name": "中国稀土集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.regcc.cn",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-08b2f47f242b",
-      "canonical_name": "中国第一汽车集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.faw.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-unicom",
@@ -1819,12 +850,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.chinaunicom.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-ceec",
@@ -1838,183 +869,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.ceec.net.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-278cc3fcc54c",
-      "canonical_name": "中国航天科工集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.casic.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-6ab47a05802e",
-      "canonical_name": "中国航空器材集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.casc.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-d41e15175c43",
-      "canonical_name": "中国航空工业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.avic.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-57bb2e9b9a42",
-      "canonical_name": "中国航空集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.airchinagroup.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-45d3f2f52974",
-      "canonical_name": "中国船舶集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.csic.com.cn/index.html",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-7e6fe3f81fff",
-      "canonical_name": "中国节能环保集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cecep.cn",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-077eb688e8bb",
-      "canonical_name": "中国融通资产管理集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.crtamg.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-e8fc51233de6",
-      "canonical_name": "中国诚通控股集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cctgroup.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-4ad71b82e4eb",
-      "canonical_name": "中国资源循环集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.crrg.com.cn",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-cosco",
@@ -2028,50 +888,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.coscoshipping.com",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-bd40d61468a6",
-      "canonical_name": "中国通用技术（集团）控股有限责任公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.gt.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-d2256bbba1dc",
-      "canonical_name": "中国钢研科技集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cisri.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-crcc",
@@ -2093,196 +915,6 @@
       "last_verified": "2026-09-02"
     },
     {
-      "entity_id": "auto-7e7dd4e89f31",
-      "canonical_name": "中国铁路工程集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.crecg.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-b33a02f96bdc",
-      "canonical_name": "中国铁路通信信号集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.crsc.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-360fe53f6aaf",
-      "canonical_name": "中国铁道建筑集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.crcc.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-e23be3d13d33",
-      "canonical_name": "中国铝业集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.chinalco.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-7077bc047e40",
-      "canonical_name": "中国长安汽车集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.ccag.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-99f90c9ccd26",
-      "canonical_name": "中国长江三峡集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.ctg.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-89b800ecf035",
-      "canonical_name": "中国雅江集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-720ca7bbbd2d",
-      "canonical_name": "中国黄金集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.chinagoldgroup.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-24257a59bcb1",
-      "canonical_name": "中粮集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.cofco.com",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-fd48bd759d9b",
-      "canonical_name": "华侨城集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.chinaoct.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
       "entity_id": "cn-crc",
       "canonical_name": "华润（集团）有限公司",
       "short_name": "华润集团",
@@ -2294,88 +926,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.crc.com.hk/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-1c5d818d160d",
-      "canonical_name": "南光（集团）有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
       "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-01783d72587d",
-      "canonical_name": "南光（集团）有限公司[中国南光集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.namkwong.com.mo/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-62a8b1f41085",
-      "canonical_name": "哈尔滨电气集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.harbin-electric.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-f809d0f23c40",
-      "canonical_name": "国家开发投资集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.sdic.com.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "confidence": "official_seed",
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-spic",
@@ -2389,12 +945,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.spic.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-sgcc",
@@ -2408,31 +964,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.sgcc.com.cn/",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-c9b08e703449",
-      "canonical_name": "国家石油天然气管网集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.pipechina.com.cn",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-chinaenergy",
@@ -2446,12 +983,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.ceic.com",
+      "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "cn-cmhk",
@@ -2465,88 +1002,12 @@
       "district": "",
       "org_type": "soe",
       "regulator": "国务院国资委",
-      "website": "http://www.cmhk.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_seed",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-4621184d3611",
-      "canonical_name": "新兴际华集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.xxcig.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-cbb057fbe336",
-      "canonical_name": "矿冶科技集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "http://www.bgrimm.com/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-9e682d7ed2e6",
-      "canonical_name": "鞍钢集团有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
-      "website": "https://www.ansteel.cn/",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
-    },
-    {
-      "entity_id": "auto-808bbfee738c",
-      "canonical_name": "香港中旅（集团）有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "央企集团",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "国务院国资委央企名录",
       "website": "",
       "recruit_url": "",
       "wechat": "",
       "source_url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "confidence": "official_seed",
+      "last_verified": "2026-09-02"
     },
     {
       "entity_id": "auto-a1de48757d00",
@@ -2565,7 +1026,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-5c3115c73484",
@@ -2584,7 +1045,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-1fe9e0dc20ea",
@@ -2603,7 +1064,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-5ff272d0f5cf",
@@ -2622,7 +1083,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-1b563f6c745f",
@@ -2641,7 +1102,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-e72f6667934e",
@@ -2660,7 +1121,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-d528066e4d6d",
@@ -2679,7 +1140,7 @@
       "wechat": "",
       "source_url": "https://www.fengxian.gov.cn/gzw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-d317ae1c65f7",
@@ -2698,7 +1159,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-2cdf2ff79608",
@@ -2717,7 +1178,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-42a562e4d980",
@@ -2736,7 +1197,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-78fa8c21b799",
@@ -2755,7 +1216,7 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-1b22d4bc42d7",
@@ -2774,7 +1235,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-6889d30c1924",
@@ -2793,7 +1254,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-b523ec5d1aa5",
@@ -2812,7 +1273,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-946e7f8ed3c9",
@@ -2831,7 +1292,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-6c5d40832bb1",
@@ -2850,7 +1311,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-55f9673f748a",
@@ -2869,7 +1330,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-7c98596c5d2f",
@@ -2888,7 +1349,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-cc5c71bac6d8",
@@ -2907,7 +1368,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-38f7a001aa50",
@@ -2926,7 +1387,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-02244bf16e5a",
@@ -2945,7 +1406,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-a4b3a9371b32",
@@ -2964,7 +1425,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-1eef87c0adec",
@@ -2983,7 +1444,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-11224e21be51",
@@ -3002,7 +1463,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-48c3bac9d425",
@@ -3021,7 +1482,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-377ab3df8d37",
@@ -3040,7 +1501,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-2a9237274c90",
@@ -3059,7 +1520,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-e88c77195c15",
@@ -3078,7 +1539,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-633f26004573",
@@ -3097,7 +1558,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-205c6f8ad99d",
@@ -3116,7 +1577,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-44bc77d1ea52",
@@ -3135,7 +1596,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-b1c36752c413",
@@ -3154,7 +1615,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-df41157b8fa2",
@@ -3173,7 +1634,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-a39d6d74bd45",
@@ -3192,7 +1653,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-5abc156d9eef",
@@ -3211,7 +1672,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-2251e9982f1f",
@@ -3230,7 +1691,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-360c2beadeb7",
@@ -3249,7 +1710,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-fdbbcd316aad",
@@ -3268,7 +1729,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-5ee55cc006b7",
@@ -3287,7 +1748,7 @@
       "wechat": "",
       "source_url": "https://www.lyg.gov.cn/zglygzfmhwz/ftyg/content/d09c7f19-2d90-4e4d-8f59-929f4ff75b68.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-54ca10a1c025",
@@ -3306,7 +1767,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-3226b526054f",
@@ -3325,7 +1786,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-da00cfdb1f8b",
@@ -3344,7 +1805,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-b05c03d53df7",
@@ -3363,7 +1824,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-74bfa30c7ea3",
@@ -3382,7 +1843,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-c7ed64c7b7fc",
@@ -3401,7 +1862,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-b9e0a594a50d",
@@ -3420,7 +1881,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-5cec3e0ad6e0",
@@ -3439,7 +1900,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-16afea057083",
@@ -3458,7 +1919,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-d2677222c8c0",
@@ -3477,7 +1938,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-4e19959c3513",
@@ -3496,7 +1957,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-d1badead9f3e",
@@ -3515,7 +1976,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-e892118a4b71",
@@ -3534,7 +1995,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-c6ac15b0f5e8",
@@ -3553,7 +2014,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-a7e3667a29de",
@@ -3572,7 +2033,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-a89d30e39927",
@@ -3591,7 +2052,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-1bd7d999886d",
@@ -3610,7 +2071,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-b41ffe2b8c32",
@@ -3629,7 +2090,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-b5f65902aad7",
@@ -3648,7 +2109,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-bc804c2cf3a6",
@@ -3667,7 +2128,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-89c24e6aba84",
@@ -3686,7 +2147,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-7bf4976552c4",
@@ -3705,7 +2166,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-f00fbe910de6",
@@ -3724,7 +2185,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-621ffe0f9d3c",
@@ -3743,7 +2204,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-85a61c31013a",
@@ -3762,7 +2223,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-49e5040899df",
@@ -3781,7 +2242,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-0b0005308604",
@@ -3800,7 +2261,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-15c0d621ab75",
@@ -3819,7 +2280,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-c31d533915b4",
@@ -3838,7 +2299,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-f41615341728",
@@ -3857,7 +2318,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-87506041793b",
@@ -3876,7 +2337,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-8bd71b9479c2",
@@ -3895,7 +2356,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-9e485074cc0d",
@@ -3914,7 +2375,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-939307680add",
@@ -3933,7 +2394,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-hub",
@@ -3952,7 +2413,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-lingang",
@@ -3971,7 +2432,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-jiushi",
@@ -3990,7 +2451,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-exchange",
@@ -4009,7 +2470,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-instrument",
@@ -4028,7 +2489,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-srcb",
@@ -4047,7 +2508,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-huahong",
@@ -4066,7 +2527,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-huayi",
@@ -4085,7 +2546,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-gztz",
@@ -4104,7 +2565,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-guosheng",
@@ -4123,7 +2584,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-sipg",
@@ -4142,7 +2603,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-international",
@@ -4161,7 +2622,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-land",
@@ -4180,7 +2641,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-chengtou",
@@ -4199,7 +2660,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-shi",
@@ -4218,7 +2679,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-test",
@@ -4237,7 +2698,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-agri",
@@ -4256,7 +2717,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-construction",
@@ -4275,7 +2736,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-data",
@@ -4294,7 +2755,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-airport",
@@ -4313,7 +2774,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-saic",
@@ -4332,7 +2793,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-spdb",
@@ -4351,7 +2812,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-shendi",
@@ -4370,7 +2831,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-metro",
@@ -4389,7 +2850,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-electric",
@@ -4408,7 +2869,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-lianhe",
@@ -4427,7 +2888,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-bank",
@@ -4446,7 +2907,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-tunnel",
@@ -4465,7 +2926,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-donghao",
@@ -4484,7 +2945,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-cic",
@@ -4503,7 +2964,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-bright",
@@ -4522,7 +2983,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-arcplus",
@@ -4541,7 +3002,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-guotaihaitong",
@@ -4560,7 +3021,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-shenergy",
@@ -4579,7 +3040,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-bailian",
@@ -4598,7 +3059,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-jinjiang",
@@ -4617,7 +3078,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-delta",
@@ -4636,7 +3097,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "sh-yangtze",
@@ -4655,7 +3116,7 @@
       "wechat": "",
       "source_url": "https://www.gzw.sh.gov.cn/shgzw_xtdw/index.html",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "ah-hf-xt",
@@ -4845,7 +3306,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-wx-metro",
@@ -4864,7 +3325,7 @@
       "wechat": "",
       "source_url": "http://gzw.wuxi.gov.cn",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-sz-guofa",
@@ -4902,7 +3363,7 @@
       "wechat": "",
       "source_url": "http://guozw.suzhou.gov.cn/gzw/qyml/list.shtml",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "zj-nb-metro",
@@ -5358,7 +3819,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_seed",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-zhongjiang",
@@ -5396,7 +3857,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-7a5cfb5c0916",
@@ -5415,7 +3876,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-jinling",
@@ -5472,7 +3933,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-d25d102fb35b",
@@ -5491,7 +3952,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-xukuang",
@@ -5529,7 +3990,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-99d69fef591e",
@@ -5548,7 +4009,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-jt",
@@ -5586,7 +4047,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "js-sports",
@@ -5833,7 +4294,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-92146084914e",
@@ -5852,7 +4313,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-6bbbfb62bbaf",
@@ -5871,7 +4332,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-860aa4555fdc",
@@ -5890,7 +4351,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/col/col61361/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-142cbc8f4b9a",
@@ -5909,7 +4370,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-a94251afdbd2",
@@ -5928,7 +4389,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "auto-95cd80775bbc",
@@ -5947,7 +4408,7 @@
       "wechat": "",
       "source_url": "https://jsgzw.jiangsu.gov.cn/",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-05"
+      "last_verified": "2026-09-06"
     },
     {
       "entity_id": "zj-hangsteel",
