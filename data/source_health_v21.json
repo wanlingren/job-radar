@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-07 01:14:25",
+  "checked_at": "2026-09-07 15:57:12",
   "total": 80,
   "ok": 70,
   "items": [
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ahu",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",

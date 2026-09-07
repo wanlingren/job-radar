@@ -11,7 +11,7 @@
 - reg-gov-ah｜安徽省人民政府｜HTTP 403｜HTTPError｜https://www.ah.gov.cn/
 - reg-hrss-zj｜浙江省人社厅｜HTTP 0｜URLError｜https://rlsbt.zj.gov.cn/
 - reg-hrss-ah｜安徽省人社厅｜HTTP 403｜HTTPError｜https://hrss.ah.gov.cn/
-- edu-hfut｜合肥工业大学就业网｜HTTP 0｜TimeoutError｜https://gdjy.hfut.edu.cn/
 - edu-ahu｜安徽大学就业网｜HTTP 412｜HTTPError｜http://job.ahu.edu.cn/
+- edu-ecust｜华东理工大学就业网｜HTTP 483｜HTTPError｜https://career.ecust.edu.cn/
 - auto-gov-18a28a9b71｜泾县人民政府｜HTTP 0｜UnicodeEncodeError｜https://www.ahjx.gov.cn/Search/?keyword=就业创业
 - auto-gov-3539806151｜义乌市人民政府｜HTTP 0｜URLError｜https://www.yw.gov.cn/

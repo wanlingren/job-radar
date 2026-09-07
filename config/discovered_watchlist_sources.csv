@@ -1,1 +1,14 @@
 ﻿source_id,company_name,org_type,source_type,adapter,endpoint,priority,fetch_method,requires_login,city_scope,poll_interval_minutes,status,notes
+watch-01bc1e58f4984f,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://www.zhaopin.com/companydetail/CC287655339.htm||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：合肥兴泰金融控股 (集团)有限公司招聘 - 智联招聘
+watch-5ba7fa166893b8,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://ah.huatu.com/2026/0408/3223522.html||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：2026年合肥兴泰金融控股（集团）有限公司招聘17人公告
+watch-7cde8d1ec6b8f4,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://www.xtkg.com/col47/2305.html||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：人才招聘 - 合肥兴泰金融控股（集团）有限公司
+watch-8308867d4a99f3,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://companyads.51job.com/companyads/2026/ah/xtkg/job.html||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：合肥兴泰金融控股(集团)有限公司
+watch-d80812f37c0036,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://www.zhaopin.com/companydetail/jobs-CZ287655330/||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：合肥兴泰金融控股(集团)有限公司招聘信息-2026年最新-智联招聘
+watch-ed4fd5e4d8b356,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://ah.gongkao100.cn/22379.html||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：2026年合肥兴泰金融控股（集团）有限公司招聘17人公告-公考100
+watch-612accb0b589de,安徽省交通控股集团有限公司,soe,aggregator,web_article,https://www.ahjkjt.com/news/read/id/26374.html||安徽||安徽省交通控股集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：安徽省交通控股集团有限公司2025届管理培训生招聘公告 - 公示公告-安徽省交通控股集团有限公司
+watch-8cb7793e24b741,安徽省交通控股集团有限公司,soe,aggregator,web_article,https://www.ahjkjt.com/news/read/id/30166.html||安徽||安徽省交通控股集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：安徽交控集团所属安徽交控建设公司2026届校园招聘公告 - 公示公告-安徽省交通控股集团有限公司
+watch-9b08b06b49023a,安徽省交通控股集团有限公司,soe,aggregator,web_article,https://www.toutiao.com/article/7585531204615586346/||安徽||安徽省交通控股集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：安徽省交通控股集团有限公司部分直属单位2026届校园招聘公告 - 今日头条
+watch-ee3f04852f210e,安徽省交通控股集团有限公司,soe,aggregator,web_article,https://www.jrzp.com/xiaozhaoView/4715730.shtml||安徽||安徽省交通控股集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：安徽省交通控股集团有限公司-2027校园招聘-今日招聘网
+watch-5e62097c191172,安徽省港航集团有限公司,soe,aggregator,web_article,https://www.zhipin.com/companys/d1c6cce46225a42c1ndz3NW_GVs~.html||安徽||安徽省港航集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：「安徽省港航集团有限公司招聘」-BOSS直聘
+watch-663b912828f3a8,安徽省港航集团有限公司,soe,aggregator,web_article,https://www.zhaopin.com/companydetail/91345038VVZT76V99Q.htm||安徽||安徽省港航集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：安徽省港航集团有限公司招聘信息 - 智联招聘
+watch-bfebd782222204,安徽省港航集团有限公司,soe,aggregator,web_article,https://ah.gongkao100.cn/15697.html||安徽||安徽省港航集团有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：2025年下半年安徽省港航集团有限公司所属企业招聘22人公告-公考100
