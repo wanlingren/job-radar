@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-09 01:40:52",
+  "checked_at": "2026-09-09 14:42:25",
   "total": 80,
-  "ok": 69,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-ustc",
@@ -255,9 +255,9 @@
       "source_id": "edu-ecnu",
       "name": "华东师范大学就业网",
       "url": "https://career.ecnu.edu.cn/career/index",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-shu",
@@ -279,9 +279,9 @@
       "source_id": "auto-gov-85e7cd484a",
       "name": "奉贤区人民政府",
       "url": "https://www.fengxian.gov.cn/gzw/index.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8981195aad",

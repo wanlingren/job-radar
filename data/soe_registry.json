@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:04:49.406580+00:00",
+  "generated_at": "2026-09-09T14:02:41.437003+00:00",
   "total": 320,
   "entities": [
     {
@@ -41,8 +41,8 @@
       "last_verified": "2026-09-09"
     },
     {
-      "entity_id": "auto-8b8f909ef2b2",
-      "canonical_name": "中国大地财产保险股份有限公司",
+      "entity_id": "auto-5be07d546ab8",
+      "canonical_name": "中国工商银行",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -55,7 +55,7 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=5ihAtADwZWcViinsxXu5SG",
+      "source_url": "http://www.job.mohrss.gov.cn:80/qyzp/172442.jhtml",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-09"
     },
@@ -79,25 +79,6 @@
       "last_verified": "2026-09-09"
     },
     {
-      "entity_id": "auto-73a77781b5e4",
-      "canonical_name": "中国银行股份有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=SLaDB8f5H72xoPf8Xxek6Q",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-09"
-    },
-    {
       "entity_id": "auto-74156291243f",
       "canonical_name": "中电信人工智能科技（北京）有限公司",
       "short_name": "",
@@ -114,6 +95,25 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
+      "last_verified": "2026-09-09"
+    },
+    {
+      "entity_id": "auto-e8879a725a86",
+      "canonical_name": "衡阳县天耀新能源有限公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "官方招聘公告反向核验",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "http://job.mohrss.gov.cn/cjobs/jobinfo/showDetail?aab001=36935874",
+      "confidence": "official_job_observed",
       "last_verified": "2026-09-09"
     },
     {
@@ -136,13 +136,13 @@
       "last_verified": "2026-09-09"
     },
     {
-      "entity_id": "auto-fcfa0a7a0d60",
-      "canonical_name": "旌德旌水云筑建设工程有限公司",
+      "entity_id": "auto-bded0f799f35",
+      "canonical_name": "中国农业银行",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
       "parent_group": "",
-      "province": "安徽",
+      "province": "上海",
       "city": "",
       "district": "",
       "org_type": "soe",
@@ -150,7 +150,7 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ahjd.gov.cn/News/show/1728145.html",
+      "source_url": "http://www.job.mohrss.gov.cn:80/qyzp/172421.jhtml",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-09"
     },

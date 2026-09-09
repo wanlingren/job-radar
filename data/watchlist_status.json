@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:40:52.411902+00:00",
+  "generated_at": "2026-09-09T14:42:26.145256+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -50,9 +50,9 @@
       "company": "安徽省能源集团有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-09",
-      "days_since_last": 0,
+      "active_jobs": 1,
+      "last_discovered": "2026-09-04",
+      "days_since_last": 5,
       "status": "正常"
     },
     {
@@ -86,10 +86,10 @@
       "company": "铜陵有色金属集团控股有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 4,
-      "last_discovered": "2026-09-08",
-      "days_since_last": 1,
-      "status": "正常"
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
     },
     {
       "company": "安徽海螺集团有限责任公司",
@@ -258,8 +258,8 @@
       "region": "上海",
       "priority": "1",
       "active_jobs": 2,
-      "last_discovered": "2026-09-08",
-      "days_since_last": 1,
+      "last_discovered": "2026-09-09",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -338,7 +338,7 @@
       "company": "国网上海市电力公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 26,
+      "active_jobs": 24,
       "last_discovered": "2026-09-07",
       "days_since_last": 2,
       "status": "正常"
