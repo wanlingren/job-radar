@@ -49,13 +49,13 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 上海,市辖区,310110,杨浦区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310112,闵行区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310113,宝山区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
-上海,市辖区,310114,嘉定区,county,missing,,
+上海,市辖区,310114,嘉定区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310115,浦东新区,functional,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310116,金山区,county,missing,,
 上海,市辖区,310117,松江区,county,covered,https://www.songjiang.gov.cn/,search+sitecode
 上海,市辖区,310118,青浦区,county,covered,https://www.shanghai.gov.cn/,search+strict-name
 上海,市辖区,310120,奉贤区,county,covered,https://www.fengxian.gov.cn/,search+strict-name
-上海,市辖区,310151,崇明区,county,missing,,
+上海,市辖区,310151,崇明区,county,covered,https://www.shcm.gov.cn/,search+strict-name
 江苏,南京市,320102,玄武区,county,covered,https://www.xwzf.gov.cn/,search+sitecode
 江苏,南京市,320104,秦淮区,county,missing,,
 江苏,南京市,320105,建邺区,county,missing,,
@@ -277,7 +277,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,蚌埠市,340311,淮上区,county,missing,,
 安徽,蚌埠市,340321,怀远县,county,missing,,
 安徽,蚌埠市,340322,五河县,county,missing,,
-安徽,蚌埠市,340323,固镇县,county,missing,,
+安徽,蚌埠市,340323,固镇县,county,covered,https://www.guzhen.gov.cn/,search+sitecode
 安徽,蚌埠市,340371,蚌埠市高新技术开发区,functional,missing,,
 安徽,蚌埠市,340372,蚌埠市经济开发区,functional,missing,,
 安徽,淮南市,340402,大通区,county,missing,,
@@ -343,7 +343,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,宿州市,341321,砀山县,county,missing,,
 安徽,宿州市,341322,萧县,county,missing,,
 安徽,宿州市,341323,灵璧县,county,covered,https://www.lingbi.gov.cn/,search+sitecode
-安徽,宿州市,341324,泗县,county,missing,,
+安徽,宿州市,341324,泗县,county,covered,https://www.sixian.gov.cn/,search+sitecode
 安徽,宿州市,341371,宿州马鞍山现代产业园区,functional,missing,,
 安徽,宿州市,341372,宿州经济技术开发区,functional,missing,,
 安徽,六安市,341502,金安区,county,missing,,
@@ -359,7 +359,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,亳州市,341623,利辛县,county,missing,,
 安徽,池州市,341702,贵池区,county,missing,,
 安徽,池州市,341721,东至县,county,missing,,
-安徽,池州市,341722,石台县,county,missing,,
+安徽,池州市,341722,石台县,county,covered,https://www.stxfw.gov.cn/,search+strict-name
 安徽,池州市,341723,青阳县,county,missing,,
 安徽,宣城市,341802,宣州区,county,missing,,
 安徽,宣城市,341821,郎溪县,county,missing,,

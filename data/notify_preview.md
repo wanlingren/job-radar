@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-09-08
+# 🎯 江浙沪皖国资招聘雷达｜2026-09-09
 
-> 今日待提醒：**265 条**｜7天内截止：**7 条**
+> 今日待提醒：**38 条**｜7天内截止：**0 条**
 
-> 📍 浙江 38｜江苏 24｜上海 34｜安徽 9
+> 📍 浙江 1｜江苏 8｜上海 10｜安徽 16
 
-> ⭐27届校园招聘 28｜🟦校园招聘/应届生 197｜🟨国企公开招聘 10｜🟧国企社会招聘 17｜🟩事业单位/人才引进 5｜🟪事业单位/编外 3｜⬜政府官方招聘公告 5
+> ⭐27届校园招聘 6｜🟦校园招聘/应届生 5｜🟨国企公开招聘 8｜🟩事业单位/人才引进 12｜🟪事业单位/编外 1｜⬜政府官方招聘公告 6
 
-[📋 一次查看全部 265 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 38 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [中国建设银行总行直属机构｜中国建设银行总行直属机构2027年度校园招聘公告｜0天后截止](http://www.job.mohrss.gov.cn:80/qyzp/172432.jhtml)
-- [中国建设银行境内分支机构｜中国建设银行境内分支机构2027年度校园招聘公告｜0天后截止](http://www.job.mohrss.gov.cn:80/qyzp/172434.jhtml)
-- [中国冶金地质总局矿产资源研究院｜博士后工作站研究员｜2天后截止](https://www.iguopin.com/job/detail?id=217199191368139776)
-- [国家电投集团数字科技有限公司｜高级数据分析师-2026年第一批社会招聘（智慧产业部）｜6天后截止](https://www.iguopin.com/job/detail?id=205167262502486800)
-- [国家电投集团数字科技有限公司｜高级解决方案经理-2026年第一批社会招聘（智慧产业部）｜6天后截止](https://www.iguopin.com/job/detail?id=205168581913084688)
-- [国家电投集团数字科技有限公司｜智慧产业创新项目负责人-2026年第一批社会招聘（智慧产业部）｜6天后截止](https://www.iguopin.com/job/detail?id=205166734120846235)
-- [中电科航空电子有限公司｜中电科航空电子有限公司2027届校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=6c9340510b21659a91596de90776b2d4&dwxxid=JG0003518)
-- [中国电科五十五所｜中国电科五十五所2027届校招宣讲会](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=077b530f37694948269a1106625b4ab9&dwxxid=761C0E151F2C24AFE055000000000001)
-- [中国机械工业集团有限公司｜海外项目工程师-27届](https://www.iguopin.com/job/detail?id=217216651249058982)
-- [上汽集团｜上汽集团2027届全球校园招聘启动](https://www.gzw.sh.gov.cn/shgzw_xxgk_cqzp/20260908/57b74b0f5535440ca8f79fa73916530d.html)
+- [同济大学就业网｜用友网络科技股份有限公司 时间：19:00 地址：校外空中宣讲会（https://www.now…](http://tj91.tongji.edu.cn/f/recruitmentFair/show?recruitmentFairId=5470085fde054e698e02b272b33da6c6)
+- [中国航发湖南动力机械研究所｜中国航发湖南动力机械研究所2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/235808668745076736)
+- [中国移动在线营销服务中心｜中国移动在线营销服务中心 2027届秋季校招暨“金种子计划”招聘简章 2026-09-08](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=89320dbabaf04e66a56f2da61173d562)
+- [中国核建｜中国核建2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/235806726706827264)
+- [09-09] 新 军工央企桂林长海2027｜[09-09] 新 军工央企桂林长海2027校园招聘](https://job.hdu.edu.cn/campus/view?id=9738)
+- [上海电气集团｜上海电气集团2027届秋季校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/237518744266608640)
+- [09月08日 前锦网络信息技术（上海）有限公司 中国电力工程顾问集团西北电力设计院有限公司 2027年应届高校毕…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=45958c238e724f09bfb45a038fca2323;)
+- [中国太平保险集团 2026年秋季｜中国太平保险集团 2026年秋季校园招聘公告 2026-09-08](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=abe50495b8504d3f8e75dd921367685a)
+- [中国建设银行四川省分行2027年度｜中国建设银行四川省分行2027年度校园招聘公告 2026-09-08](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=6b8f31aba6744e1c8ea1d01a60fd3a6f)
+- [浦发银行宁波分行2027年度全球｜浦发银行宁波分行2027年度全球校园招聘 2026-09-08](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=5a67cb9c3545488faa47a82f90555a8c)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

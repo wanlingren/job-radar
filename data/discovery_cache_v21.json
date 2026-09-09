@@ -489,6 +489,56 @@
       "url": "https://www.shouxian.gov.cn/",
       "label": "寿县人民政府",
       "verification": "search+strict-name"
+    },
+    "310151": {
+      "unit_code": "310151",
+      "unit_name": "崇明区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shcm.gov.cn/",
+      "label": "崇明区人民政府",
+      "verification": "search+strict-name"
+    },
+    "310114": {
+      "unit_code": "310114",
+      "unit_name": "嘉定区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shanghai.gov.cn/",
+      "label": "嘉定区人民政府",
+      "verification": "search+strict-name"
+    },
+    "340323": {
+      "unit_code": "340323",
+      "unit_name": "固镇县",
+      "province": "安徽",
+      "city": "蚌埠市",
+      "level": "county",
+      "url": "https://www.guzhen.gov.cn/",
+      "label": "固镇县人民政府",
+      "verification": "search+sitecode"
+    },
+    "341324": {
+      "unit_code": "341324",
+      "unit_name": "泗县",
+      "province": "安徽",
+      "city": "宿州市",
+      "level": "county",
+      "url": "https://www.sixian.gov.cn/",
+      "label": "泗县人民政府",
+      "verification": "search+sitecode"
+    },
+    "341722": {
+      "unit_code": "341722",
+      "unit_name": "石台县",
+      "province": "安徽",
+      "city": "池州市",
+      "level": "county",
+      "url": "https://www.stxfw.gov.cn/",
+      "label": "石台县人民政府",
+      "verification": "search+strict-name"
     }
   },
   "universities": {
@@ -893,5 +943,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-09-05 23:10:30"
+  "updated_at": "2026-09-08 23:38:57"
 }
