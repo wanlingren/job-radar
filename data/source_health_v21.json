@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-09 14:42:25",
+  "checked_at": "2026-09-10 01:28:59",
   "total": 80,
-  "ok": 70,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ustc",
