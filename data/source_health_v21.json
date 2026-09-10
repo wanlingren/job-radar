@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-10 01:28:59",
+  "checked_at": "2026-09-10 14:42:07",
   "total": 80,
-  "ok": 71,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -335,9 +335,9 @@
       "source_id": "auto-gov-cea59b92fb",
       "name": "宁国市人民政府",
       "url": "https://www.ningguo.gov.cn/Search/?keyword=%E5%B0%B1%E4%B8%9A%E5%88%9B%E4%B8%9A&amp;field=all",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "auto-gov-70f08226da",

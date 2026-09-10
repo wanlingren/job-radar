@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:28:59.762106+00:00",
+  "generated_at": "2026-09-10T14:42:07.662937+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -338,9 +338,9 @@
       "company": "国网上海市电力公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 24,
-      "last_discovered": "2026-09-07",
-      "days_since_last": 3,
+      "active_jobs": 23,
+      "last_discovered": "2026-09-10",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
