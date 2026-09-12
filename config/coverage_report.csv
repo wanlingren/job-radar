@@ -129,7 +129,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,盐城市,320904,大丰区,county,missing,,
 江苏,盐城市,320921,响水县,county,missing,,
 江苏,盐城市,320922,滨海县,county,missing,,
-江苏,盐城市,320923,阜宁县,county,missing,,
+江苏,盐城市,320923,阜宁县,county,covered,https://www.funing.gov.cn/,search+strict-name
 江苏,盐城市,320924,射阳县,county,missing,,
 江苏,盐城市,320925,建湖县,county,missing,,
 江苏,盐城市,320971,盐城经济技术开发区,functional,missing,,

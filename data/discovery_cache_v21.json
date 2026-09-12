@@ -539,6 +539,16 @@
       "url": "https://www.stxfw.gov.cn/",
       "label": "石台县人民政府",
       "verification": "search+strict-name"
+    },
+    "320923": {
+      "unit_code": "320923",
+      "unit_name": "阜宁县",
+      "province": "江苏",
+      "city": "盐城市",
+      "level": "county",
+      "url": "https://www.funing.gov.cn/",
+      "label": "阜宁县人民政府",
+      "verification": "search+strict-name"
     }
   },
   "universities": {
@@ -882,9 +892,9 @@
       "name": "安徽师范大学",
       "location": "安徽·芜湖",
       "root_url": "https://www.ahnu.edu.cn/",
-      "career_url": "http://career.ahnu.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "安徽财经大学": {
       "name": "安徽财经大学",
@@ -898,9 +908,9 @@
       "name": "安徽农业大学",
       "location": "安徽·合肥",
       "root_url": "https://www.ahau.edu.cn/",
-      "career_url": "",
-      "status": "unresolved",
-      "verification": ""
+      "career_url": "http://job.ahau.edu.cn/",
+      "status": "discovered",
+      "verification": "discovered-from-university-homepage"
     },
     "合肥大学": {
       "name": "合肥大学",
@@ -938,10 +948,10 @@
       "name": "安庆师范大学",
       "location": "安徽·安庆",
       "root_url": "https://www.aqnu.edu.cn/",
-      "career_url": "https://www.aqnu.edu.cn/jyjx.htm",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     }
   },
-  "updated_at": "2026-09-08 23:38:57"
+  "updated_at": "2026-09-12 23:16:28"
 }

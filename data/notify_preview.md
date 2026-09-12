@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-09-12
+# 🎯 江浙沪皖国资招聘雷达｜2026-09-13
 
-> 今日待提醒：**23 条**｜7天内截止：**0 条**
+> 今日待提醒：**43 条**｜7天内截止：**1 条**
 
-> 📍 浙江 15｜江苏 0｜上海 3｜安徽 2
+> 📍 浙江 0｜江苏 1｜上海 36｜安徽 1
 
-> ⭐27届校园招聘 4｜🟦校园招聘/应届生 1｜🟨国企公开招聘 11｜🟩事业单位/人才引进 5｜🟪事业单位/编外 2
+> ⭐27届校园招聘 20｜🟦校园招聘/应届生 9｜🟨国企公开招聘 7｜🟩事业单位/人才引进 7
 
-[📋 一次查看全部 23 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 43 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [企业招聘|中国移动浙江公司台州分公司2027｜企业招聘|中国移动浙江公司台州分公司2027校园招聘公告](http://career.zjnu.edu.cn/campus/view/id/872200)
-- [中国航发贵州黎阳航空动力有限公司｜中国航发贵州黎阳航空动力有限公司2027届校招宣讲会 环宇楼D105](https://jyb.cjlu.edu.cn/teachin/view/id/57857)
-- [09-11] 新 中国移动浙江公司台州分公司 2027｜[09-11] 新 中国移动浙江公司台州分公司 2027…](http://career.hznu.edu.cn/campus/view/id/551204)
-- [企业招聘|中煤科工集团杭州研究院有限公司｜企业招聘|中煤科工集团杭州研究院有限公司2027届全球校园招聘公告](https://job.wzu.edu.cn/news/view/aid/159678/tag/syzp)
-- [中国500强】浙江三花智控｜【中国500强】浙江三花智控2026届全球校招](http://jyb.zstu.edu.cn/campus/view/id/340241)
-- [企业招聘|平湖市金投人才发展集团有限公司国企高层次｜企业招聘|平湖市金投人才发展集团有限公司国企高层次人才招聘公告](http://career.zjnu.edu.cn/campus/view/id/872202)
-- [企业招聘|杭州市科创集团有限公司｜企业招聘|杭州市科创集团有限公司公开招聘公告](http://career.zjnu.edu.cn/campus/view/id/872201)
-- [中国平安人寿保险股份有限公司上海徐汇龙漕路营销服务部｜短期健康保险产品经理](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=5FLne1ib1maAunhRtfPJeL)
-- [中国平安人寿保险股份有限公司上海徐汇龙漕路营销服务部｜营销企划岗](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=CzamYNvWVfiFJEvVrD1ssk)
-- [中国平安人寿保险股份有限公司上海徐汇龙漕路营销服务部｜社区网格区域](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=DoGMv3MUjsomGHzFKiJKb4)
+- [同济大学就业网｜【通知】2026年辽宁省 “天辽地宁聚英才，振兴突破创未来” 主题宣讲会 Sep 11｜3天后截止](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=b9f56b81a1af4d05b7bd1b2553638dbc)
+- [公务员&选调生｜【公务员&选调生】2027届选调生宣讲会汇总 Sep 09](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=4a45673f7e9e4842aad1ba09ef0824e7)
+- [09月12日 北京网聘咨询有限公司上海分公司 中国移动研究院2027｜2026 09月12日 北京网聘咨询有限公…](https://tjjyzx.tongji.edu.cn/jyfw/sys/jypubapp/*default/index.do?type=zwxq;zwdm=ef941ff91fa541dfb5f53db9ad9c6669;)
+- [航空工业第一飞机设计研究院｜航空工业第一飞机设计研究院2027届校园招聘专场宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/238613027488927744)
+- [中国航发控制系统研究所｜中国航发控制系统研究所2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/238682462350348288)
+- [中国移动海南公司2027｜中国移动海南公司2027校园招聘 2026-09-11](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=2886f0a47a1a4fd18c49ef5e1484fc78)
+- [就业】中国电子科技集团公司第二十三研究所 2027｜【就业】中国电子科技集团公司第二十三研究所 2027校园招聘…](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=33755a498c7c4e1cbcad8be0455a2081)
+- [中国移动｜中国移动2027校园招聘全面启动！](https://www.job.sjtu.edu.cn/career/xjhxx/view/236088503832809472)
+- [航空工业南京机电｜航空工业南京机电2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/238041266598842368)
+- [航空工业自控所｜航空工业自控所2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/235716314440798208)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

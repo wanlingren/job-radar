@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:49:01.544838+00:00",
+  "generated_at": "2026-09-12T23:51:26.156763+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -248,16 +248,16 @@
       "company": "上海汽车集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-08",
-      "days_since_last": 4,
+      "active_jobs": 3,
+      "last_discovered": "2026-09-12",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
       "company": "上海电气集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 2,
+      "active_jobs": 1,
       "last_discovered": "2026-09-09",
       "days_since_last": 3,
       "status": "正常"
