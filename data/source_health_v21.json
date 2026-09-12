@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-12 01:31:23",
+  "checked_at": "2026-09-12 13:49:01",
   "total": 80,
-  "ok": 71,
+  "ok": 72,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -607,9 +607,9 @@
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
       "url": "https://www.ks.gov.cn/kss/gsgg/common_list2.shtml",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-519f3837e3",

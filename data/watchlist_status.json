@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:31:23.778885+00:00",
+  "generated_at": "2026-09-12T13:49:01.544838+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -293,9 +293,9 @@
       "company": "上海机场（集团）有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-12",
-      "days_since_last": 0,
+      "active_jobs": 1,
+      "last_discovered": "2026-08-19",
+      "days_since_last": 24,
       "status": "正常"
     },
     {

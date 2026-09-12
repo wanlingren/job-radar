@@ -1,24 +1,24 @@
 # 🎯 江浙沪皖国资招聘雷达｜2026-09-12
 
-> 今日待提醒：**15 条**｜7天内截止：**0 条**
+> 今日待提醒：**23 条**｜7天内截止：**0 条**
 
-> 📍 浙江 2｜江苏 2｜上海 11｜安徽 0
+> 📍 浙江 15｜江苏 0｜上海 3｜安徽 2
 
-> ⭐27届校园招聘 3｜🟦校园招聘/应届生 1｜🟨国企公开招聘 9｜🟩事业单位/人才引进 2
+> ⭐27届校园招聘 4｜🟦校园招聘/应届生 1｜🟨国企公开招聘 11｜🟩事业单位/人才引进 5｜🟪事业单位/编外 2
 
-[📋 一次查看全部 15 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 23 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [中国移动云公司｜中国移动云公司2027届校园招聘简章](https://career.ecust.edu.cn/PositionDetail.aspx?zwid=76989)
-- [温州电信2027｜温州电信2027校招（市本级） 中国电信股份有限公司温州分公](https://job.wzu.edu.cn/job/view/id/786587)
-- [温州电信2027｜温州电信2027校招（县分公司） 中国电信股份有限公司温州分公](https://job.wzu.edu.cn/job/view/id/786586)
-- [市国资委｜体验国企优质服务，“上海国企开放日”第四批集中开放活动精彩回顾请查收→](https://www.gzw.sh.gov.cn/shgzw_wsbs_zfkfy/20260901/26947e40762f4210a19f044516a1845e.html)
-- [上海市国资委｜本市地方国有企业2016年度总体运行情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20171105/0054-72623.html)
-- [上海市国资委｜本市地方国有企业2015年度总体运行情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20160824/0054-71552.html)
-- [上海市国资委｜本市地方国有企业2014年度总体运行情况和保值增值情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20150825/0054-72622.html)
-- [上海市国资委｜本市地方国有企业2013年度总体运行情况和保值增值情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20141107/0054-72621.html)
-- [上海市国资委｜文汇报整版报道：深化上海国资国企改革的破局与立势](https://www.gzw.sh.gov.cn/shgzw_xxgk_cyggcz/20260210/4c77045492db44b28a2b3658aab5941c.html)
-- [市国资委｜上观带你看国企 | 一部沪语电影，让老字号点心店打开新局面](https://www.gzw.sh.gov.cn/shgzw_xwzx_xwfb/20260911/6775b6e3707849b681af701ca016c7b9.html)
+- [企业招聘|中国移动浙江公司台州分公司2027｜企业招聘|中国移动浙江公司台州分公司2027校园招聘公告](http://career.zjnu.edu.cn/campus/view/id/872200)
+- [中国航发贵州黎阳航空动力有限公司｜中国航发贵州黎阳航空动力有限公司2027届校招宣讲会 环宇楼D105](https://jyb.cjlu.edu.cn/teachin/view/id/57857)
+- [09-11] 新 中国移动浙江公司台州分公司 2027｜[09-11] 新 中国移动浙江公司台州分公司 2027…](http://career.hznu.edu.cn/campus/view/id/551204)
+- [企业招聘|中煤科工集团杭州研究院有限公司｜企业招聘|中煤科工集团杭州研究院有限公司2027届全球校园招聘公告](https://job.wzu.edu.cn/news/view/aid/159678/tag/syzp)
+- [中国500强】浙江三花智控｜【中国500强】浙江三花智控2026届全球校招](http://jyb.zstu.edu.cn/campus/view/id/340241)
+- [企业招聘|平湖市金投人才发展集团有限公司国企高层次｜企业招聘|平湖市金投人才发展集团有限公司国企高层次人才招聘公告](http://career.zjnu.edu.cn/campus/view/id/872202)
+- [企业招聘|杭州市科创集团有限公司｜企业招聘|杭州市科创集团有限公司公开招聘公告](http://career.zjnu.edu.cn/campus/view/id/872201)
+- [中国平安人寿保险股份有限公司上海徐汇龙漕路营销服务部｜短期健康保险产品经理](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=5FLne1ib1maAunhRtfPJeL)
+- [中国平安人寿保险股份有限公司上海徐汇龙漕路营销服务部｜营销企划岗](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=CzamYNvWVfiFJEvVrD1ssk)
+- [中国平安人寿保险股份有限公司上海徐汇龙漕路营销服务部｜社区网格区域](https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=DoGMv3MUjsomGHzFKiJKb4)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
