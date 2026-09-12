@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-09-11
+# 🎯 江浙沪皖国资招聘雷达｜2026-09-12
 
-> 今日待提醒：**259 条**｜7天内截止：**2 条**
+> 今日待提醒：**15 条**｜7天内截止：**0 条**
 
-> 📍 浙江 38｜江苏 11｜上海 24｜安徽 2
+> 📍 浙江 2｜江苏 2｜上海 11｜安徽 0
 
-> ⭐27届校园招聘 17｜🟦校园招聘/应届生 184｜🟨国企公开招聘 24｜🟧国企社会招聘 25｜🟩事业单位/人才引进 6｜🟪事业单位/编外 3
+> ⭐27届校园招聘 3｜🟦校园招聘/应届生 1｜🟨国企公开招聘 9｜🟩事业单位/人才引进 2
 
-[📋 一次查看全部 259 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 15 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [凯泰科（中国）医疗器械股份有限公司｜生产助理｜5天后截止](https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=ADM-ba0ac39771a0f1e531deb46f14679cc1&bcb009=2097974751470718978)
-- [琼海市中医院｜男科医师｜5天后截止](https://www.iguopin.com/job/detail?id=217764890318734886)
-- [中国航空工业集团｜中国航空工业集团2027届校园招聘浙大专场](https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=5977FDC68329F6B0E0653A68DD0E9B18)
-- [中国航天科技集团｜中国航天科技集团2027届校园招聘浙大专场](https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=5977FDC68311F6B0E0653A68DD0E9B18)
-- [中国兵器工业第二〇三研究所｜中国兵器工业第二〇三研究所2027届秋季校园招聘宣讲会](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=1cae83f7c786f380f06c6a7e8faef7fc&dwxxid=761C0E156C0924AFE055000000000001)
-- [中国原子能科学研究院｜中国原子能科学研究院2027届秋季校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=ffa34491701ef8a04b4d7ca0bb18965a&dwxxid=JG1223730)
-- [中国石油天然气集团｜中国石油天然气集团2027届校园招聘浙大专场](https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=59EBAD67CA4AD4F8E0653A68DD0E9B18)
-- [上海畅联国际物流股份有限公司｜畅联股份2027届储备人才](https://www.iguopin.com/job/detail?id=217767386147718693)
-- [中国移动广西公司｜中国移动广西公司2027届秋季校园招聘火热报名中！](https://ndjy.nbu.edu.cn/campus/view/id/389125)
-- [中国广核集团｜中国广核集团2027届秋季校园招聘宣讲会](https://career.shiep.edu.cn/teachin/view/id/110618)
+- [中国移动云公司｜中国移动云公司2027届校园招聘简章](https://career.ecust.edu.cn/PositionDetail.aspx?zwid=76989)
+- [温州电信2027｜温州电信2027校招（市本级） 中国电信股份有限公司温州分公](https://job.wzu.edu.cn/job/view/id/786587)
+- [温州电信2027｜温州电信2027校招（县分公司） 中国电信股份有限公司温州分公](https://job.wzu.edu.cn/job/view/id/786586)
+- [市国资委｜体验国企优质服务，“上海国企开放日”第四批集中开放活动精彩回顾请查收→](https://www.gzw.sh.gov.cn/shgzw_wsbs_zfkfy/20260901/26947e40762f4210a19f044516a1845e.html)
+- [上海市国资委｜本市地方国有企业2016年度总体运行情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20171105/0054-72623.html)
+- [上海市国资委｜本市地方国有企业2015年度总体运行情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20160824/0054-71552.html)
+- [上海市国资委｜本市地方国有企业2014年度总体运行情况和保值增值情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20150825/0054-72622.html)
+- [上海市国资委｜本市地方国有企业2013年度总体运行情况和保值增值情况](https://www.gzw.sh.gov.cn/shgzw_xxgk_tzxx/20141107/0054-72621.html)
+- [上海市国资委｜文汇报整版报道：深化上海国资国企改革的破局与立势](https://www.gzw.sh.gov.cn/shgzw_xxgk_cyggcz/20260210/4c77045492db44b28a2b3658aab5941c.html)
+- [市国资委｜上观带你看国企 | 一部沪语电影，让老字号点心店打开新局面](https://www.gzw.sh.gov.cn/shgzw_xwzx_xwfb/20260911/6775b6e3707849b681af701ca016c7b9.html)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
