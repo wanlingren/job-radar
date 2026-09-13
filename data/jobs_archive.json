@@ -1,5 +1,89 @@
 [
   {
+    "dedup_key": "f0c21f6a71015b46",
+    "source_id": "auto-sasac-d70b515ce4",
+    "company_name": "国务院国资委",
+    "title": "云南激活国资国企发展新动能 上半年省属企业利润同比增长76.54%",
+    "location": "江苏·南京市·玄武区",
+    "official_url": "http://www.sasac.gov.cn/n16582853/n16582893/c35826043/content.html",
+    "first_seen": "2026-09-11T13:57:43.527769+00:00",
+    "last_seen": "2026-09-12T13:14:55.806697+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 32
+  },
+  {
+    "dedup_key": "760859fa640fd808",
+    "source_id": "auto-edu-64cdab6b9f",
+    "company_name": "浙江财经大学就业网",
+    "title": "实习是不是越多越好",
+    "location": "浙江·杭州",
+    "official_url": "http://zccareer.zufe.edu.cn/news/view/aid/414484/tag/qzjq",
+    "first_seen": "2026-09-10T00:53:44.371717+00:00",
+    "last_seen": "2026-09-12T23:17:50.316614+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 14
+  },
+  {
+    "dedup_key": "24d082470a9fba64",
+    "source_id": "auto-edu-64cdab6b9f",
+    "company_name": "4.16】多益网络",
+    "title": "【4.16】多益网络2026届春招第二场在线宣讲会",
+    "location": "浙江·杭州",
+    "official_url": "http://zccareer.zufe.edu.cn/teachin/view/id/150740",
+    "first_seen": "2026-08-08T10:23:22.388414+00:00",
+    "last_seen": "2026-09-12T23:17:50.316614+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 22
+  },
+  {
+    "dedup_key": "12acaaba1a3de269",
+    "source_id": "auto-edu-64cdab6b9f",
+    "company_name": "浙江财经大学就业网",
+    "title": "运营管理实习生",
+    "location": "浙江·杭州",
+    "official_url": "http://zccareer.zufe.edu.cn/job/view/id/1936339",
+    "first_seen": "2026-08-08T10:23:22.388414+00:00",
+    "last_seen": "2026-09-12T23:17:50.316614+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 20
+  },
+  {
+    "dedup_key": "b563c80b218cb341",
+    "source_id": "auto-edu-64cdab6b9f",
+    "company_name": "浙江财经大学就业网",
+    "title": "校招失败？多半是没有思考过这 5 个问题！",
+    "location": "浙江·杭州",
+    "official_url": "http://zccareer.zufe.edu.cn/news/view/aid/414469/tag/qzjq",
+    "first_seen": "2026-08-08T10:23:22.388414+00:00",
+    "last_seen": "2026-09-12T23:17:50.316614+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 14
+  },
+  {
+    "dedup_key": "b6c61796b48ff397",
+    "source_id": "auto-edu-64cdab6b9f",
+    "company_name": "摘“兴”筑梦 “嘉”速成长 嘉兴银行",
+    "title": "摘“兴”筑梦 “嘉”速成长 嘉兴银行2026届春季校园招聘",
+    "location": "浙江·杭州",
+    "official_url": "http://zccareer.zufe.edu.cn/teachin/view/id/150739",
+    "first_seen": "2026-08-08T10:23:22.388414+00:00",
+    "last_seen": "2026-09-12T23:17:50.316614+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 0
+  },
+  {
+    "dedup_key": "58f47344ba47dd3a",
+    "source_id": "auto-edu-64cdab6b9f",
+    "company_name": "浙江财经大学就业网",
+    "title": "人事档案实习生",
+    "location": "浙江·杭州",
+    "official_url": "http://zccareer.zufe.edu.cn/job/view/id/1936248",
+    "first_seen": "2026-08-08T10:23:22.388414+00:00",
+    "last_seen": "2026-09-12T23:17:50.316614+00:00",
+    "archived_at": "2026-09-13T00:39:54.968322+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "9b03d34d2e1111c4",
     "source_id": "edu-tongji",
     "company_name": "同济大学就业网",
@@ -61500,18 +61584,6 @@
     "match_score": 68
   },
   {
-    "dedup_key": "f0c21f6a71015b46",
-    "source_id": "auto-sasac-d70b515ce4",
-    "company_name": "国务院国资委",
-    "title": "云南激活国资国企发展新动能 上半年省属企业利润同比增长76.54%",
-    "location": "江苏·南京市·玄武区",
-    "official_url": "http://www.sasac.gov.cn/n2588025/n2588129/c35826043/content.html",
-    "first_seen": "2026-08-31T17:26:27.962069+00:00",
-    "last_seen": "2026-08-31T17:26:27.962069+00:00",
-    "archived_at": "2026-09-02T00:58:43.573430+00:00",
-    "match_score": 68
-  },
-  {
     "dedup_key": "d2c7b9a31512b45e",
     "source_id": "auto-edu-0bdf27a6fd",
     "company_name": "标题",
@@ -87343,18 +87415,6 @@
     "location": "浙江·杭州",
     "official_url": "http://jyb.zstu.edu.cn/job/view/id/474565",
     "first_seen": "2026-08-25T23:32:30.082102+00:00",
-    "last_seen": "2026-08-26T10:33:15.135625+00:00",
-    "archived_at": "2026-08-27T20:10:47.032249+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "760859fa640fd808",
-    "source_id": "auto-edu-64cdab6b9f",
-    "company_name": "浙江财经大学就业网",
-    "title": "实习是不是越多越好",
-    "location": "浙江·杭州",
-    "official_url": "http://zccareer.zufe.edu.cn/news/view/aid/414484/tag/qzjq",
-    "first_seen": "2026-08-08T10:23:22.388414+00:00",
     "last_seen": "2026-08-26T10:33:15.135625+00:00",
     "archived_at": "2026-08-27T20:10:47.032249+00:00",
     "match_score": 14
@@ -119938,65 +119998,5 @@
     "last_seen": "2026-08-17T23:27:35.938108+00:00",
     "archived_at": "2026-08-18T10:22:55.883883+00:00",
     "match_score": 40
-  },
-  {
-    "dedup_key": "5b6a60554a59f3f9",
-    "source_id": "cn-iguopin",
-    "company_name": "东方市人力资源和社会保障局",
-    "title": "海南蜜恋生态-庄园助理",
-    "location": "东方",
-    "official_url": "https://www.iguopin.com/job/detail?id=213711964596077417",
-    "first_seen": "2026-08-14T10:56:08.911125+00:00",
-    "last_seen": "2026-08-17T23:27:35.938108+00:00",
-    "archived_at": "2026-08-18T10:22:55.883883+00:00",
-    "match_score": 40
-  },
-  {
-    "dedup_key": "6e09b9f17b8392c7",
-    "source_id": "edu-hdu",
-    "company_name": "08-15] 新 Li想世界不设限 宁德新能源(ATL)2027全球",
-    "title": "[08-15] 新 Li想世界不设限 宁德新能源(ATL)2027全球校招正式启动！",
-    "location": "浙江·杭州",
-    "official_url": "https://job.hdu.edu.cn/campus/view?id=9492",
-    "first_seen": "2026-08-17T10:25:38.171771+00:00",
-    "last_seen": "2026-08-17T23:27:35.938108+00:00",
-    "archived_at": "2026-08-18T10:22:55.883883+00:00",
-    "match_score": 39
-  },
-  {
-    "dedup_key": "e992a4c8f22afef5",
-    "source_id": "cn-iguopin",
-    "company_name": "中冶建筑研究总院有限公司",
-    "title": "材料研发工程师-2027校招",
-    "location": "天津-蓟州区",
-    "official_url": "https://www.iguopin.com/job/detail?id=214154036687930337",
-    "first_seen": "2026-08-17T10:25:38.171771+00:00",
-    "last_seen": "2026-08-17T23:27:35.938108+00:00",
-    "archived_at": "2026-08-18T10:22:55.883883+00:00",
-    "match_score": 38
-  },
-  {
-    "dedup_key": "ded678c624232d19",
-    "source_id": "cn-iguopin",
-    "company_name": "中建四局安装工程有限公司",
-    "title": "2027届工程技术管理人员",
-    "location": "广东 / 贵州 / 内蒙古",
-    "official_url": "https://www.iguopin.com/job/detail?id=214125527282221963",
-    "first_seen": "2026-08-17T10:25:38.171771+00:00",
-    "last_seen": "2026-08-17T23:27:35.938108+00:00",
-    "archived_at": "2026-08-18T10:22:55.883883+00:00",
-    "match_score": 38
-  },
-  {
-    "dedup_key": "68bc911dd9a85f76",
-    "source_id": "cn-iguopin",
-    "company_name": "平安银行股份有限公司佛山分行",
-    "title": "零售业务培训生",
-    "location": "佛山-顺德区",
-    "official_url": "https://www.iguopin.com/job/detail?id=214111606286582667",
-    "first_seen": "2026-08-17T10:25:38.171771+00:00",
-    "last_seen": "2026-08-17T23:27:35.938108+00:00",
-    "archived_at": "2026-08-18T10:22:55.883883+00:00",
-    "match_score": 32
   }
 ]
