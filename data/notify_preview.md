@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-09-13
+# 🎯 江浙沪皖国资招聘雷达｜2026-09-14
 
-> 今日待提醒：**155 条**｜7天内截止：**1 条**
+> 今日待提醒：**13 条**｜7天内截止：**0 条**
 
-> 📍 浙江 14｜江苏 0｜上海 3｜安徽 1
+> 📍 浙江 10｜江苏 2｜上海 1｜安徽 0
 
-> ⭐27届校园招聘 6｜🟦校园招聘/应届生 55｜🟨国企公开招聘 1｜🟧国企社会招聘 86｜🟩事业单位/人才引进 1｜🟪事业单位/编外 6
+> ⭐27届校园招聘 3｜🟦校园招聘/应届生 9｜🟨国企公开招聘 1
 
-[📋 一次查看全部 155 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 13 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [广东日耀产业投资集团有限公司｜英语运营专员｜7天后截止](https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=4401-DT_68074938&bcb009=2097882734648528898)
-- [中国航发北京航空材料研究院｜中国航发北京航空材料研究院2027届校招宣讲会](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=d8e67f829f5767e362025f9db2420a98&dwxxid=761C0E15258B24AFE055000000000001)
-- [北京英博电气股份有限公司｜北京英博电气股份有限公司2027届校招线下宣讲会](https://career.shiep.edu.cn/teachin/view/id/110623)
-- [上海电力大学就业网｜2027届校招-工程/设计类](https://career.shiep.edu.cn/job/view/id/1293537)
-- [上海电力大学就业网｜2027届校招-研发岗](https://career.shiep.edu.cn/job/view/id/1293536)
-- [标题：中国工商银行安徽分行｜标题：中国工商银行安徽分行2027届校园招聘简章 点击数：39 发表时间：2026-…](https://jyzd.chnu.edu.cn/xsfw/gwxx/content_151924)
-- [浙江省交通投资集团有限公司｜浙江省交通投资集团有限公司2027届校园招聘 浙江交投科教集团有限公司](https://jyb.cjlu.edu.cn/job/view/id/429302)
-- [武汉市｜武汉市2027年选聘生管培生招聘](https://www.career.zju.edu.cn/notification/detail?xwid=5B540E133BBFD70CE0653A68DD0E9B18)
-- [中国计量大学就业网｜运营助理实习生 杭州小桥科技有限公司](https://jyb.cjlu.edu.cn/job/view/id/429294)
-- [中国计量大学就业网｜市场实习生 杭州汉兴联贸易有限公司](https://jyb.cjlu.edu.cn/job/view/id/429293)
+- [.09.14 中国兵器｜2026.09.14 中国兵器2027届秋季校园招聘正式启动](http://job.zjut.edu.cn/campus/view/id/1137244)
+- [厦门市思明区育龙课外培训学校｜厦门市思明区育龙课外培训学校27届校园招聘公告](https://career.shiep.edu.cn/campus/view/id/667388)
+- [浙江省交通投资集团有限公司｜浙江省交通投资集团有限公司2027届校园招聘](http://jyb.zstu.edu.cn/job/view/id/475316)
+- [秋启新程| 宜兴市2026年秋季｜秋启新程| 宜兴市2026年秋季校园招聘系列活动即将开启！](http://www.yixing.gov.cn/doc/2026/09/14/1414708.shtml)
+- [中国移动通信集团台州分公司2024年度秋季｜中国移动通信集团台州分公司2024年度秋季校园招聘公告](http://jyb.zstu.edu.cn/job/view/id/452708)
+- [中国移动通信集团台州分公司2024年度春季｜中国移动通信集团台州分公司2024年度春季校园招聘](http://jyb.zstu.edu.cn/job/view/id/456729)
+- [企业招聘|中国建设银行总部2027年｜企业招聘|中国建设银行总部2027年校园招聘公告](https://job.wzu.edu.cn/news/view/aid/159676/tag/syzp)
+- [浙江理工大学就业网｜浙江省交通投资集团有限公司暑期实习生](http://jyb.zstu.edu.cn/job/view/id/473801)
+- [宁波大学就业网｜浙江省交通投资集团有限公司暑期实习生](https://ndjy.nbu.edu.cn/job/view/id/455964)
+- [浙江省交通投资集团有限公司｜浙江省交通投资集团有限公司2025届 校园招聘简章](http://jyb.zstu.edu.cn/job/view/id/461976)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

@@ -1,4 +1,7 @@
 ﻿source_id,company_name,org_type,source_type,adapter,endpoint,priority,fetch_method,requires_login,city_scope,poll_interval_minutes,status,notes
+watch-6df8021d7f31d2,上海华虹（集团）有限公司,soe,aggregator,web_article,https://www.zhaopin.com/companydetail/jobs-KA0543882828D90000001000/||上海||上海华虹（集团）有限公司,2,html,no,上海,720,active,V2.3重点企业补漏；搜索标题：华虹集团- 上海华虹（集团）有限公司招聘信息-2026年最新-智联招聘
+watch-7fa5d46d6f79d9,上海华虹（集团）有限公司,soe,aggregator,web_article,https://www.huahong.com.cn/?m=channel&id=44||上海||上海华虹（集团）有限公司,2,html,no,上海,720,active,V2.3重点企业补漏；搜索标题：人才招聘-华虹集团官网
+watch-d182e25109a8c7,上海华虹（集团）有限公司,soe,aggregator,web_article,https://www.huahong.com.cn/?m=channel&id=50||上海||上海华虹（集团）有限公司,2,html,no,上海,720,active,V2.3重点企业补漏；搜索标题：校园招聘-华虹集团官网
 watch-01bc1e58f4984f,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://www.zhaopin.com/companydetail/CC287655339.htm||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：合肥兴泰金融控股 (集团)有限公司招聘 - 智联招聘
 watch-5ba7fa166893b8,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://ah.huatu.com/2026/0408/3223522.html||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：2026年合肥兴泰金融控股（集团）有限公司招聘17人公告
 watch-7cde8d1ec6b8f4,合肥兴泰金融控股（集团）有限公司,soe,aggregator,web_article,https://www.xtkg.com/col47/2305.html||安徽||合肥兴泰金融控股（集团）有限公司,2,html,no,安徽,720,active,V2.3重点企业补漏；搜索标题：人才招聘 - 合肥兴泰金融控股（集团）有限公司

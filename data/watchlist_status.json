@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:38:26.325634+00:00",
+  "generated_at": "2026-09-14T01:18:30.131632+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -52,7 +52,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-04",
-      "days_since_last": 9,
+      "days_since_last": 10,
       "status": "正常"
     },
     {
@@ -131,8 +131,8 @@
       "company": "浙江省交通投资集团有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-09-13",
+      "active_jobs": 7,
+      "last_discovered": "2026-09-14",
       "days_since_last": 0,
       "status": "正常"
     },
@@ -187,7 +187,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 36,
+      "days_since_last": 37,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 36,
+      "days_since_last": 37,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -241,7 +241,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-08-08",
-      "days_since_last": 36,
+      "days_since_last": 37,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -250,7 +250,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-09-12",
-      "days_since_last": 1,
+      "days_since_last": 2,
       "status": "正常"
     },
     {
@@ -259,7 +259,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-09",
-      "days_since_last": 4,
+      "days_since_last": 5,
       "status": "正常"
     },
     {
@@ -277,7 +277,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 36,
+      "days_since_last": 37,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -295,7 +295,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-19",
-      "days_since_last": 25,
+      "days_since_last": 26,
       "status": "正常"
     },
     {
@@ -340,7 +340,7 @@
       "priority": "1",
       "active_jobs": 23,
       "last_discovered": "2026-09-13",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 36,
+      "days_since_last": 37,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
