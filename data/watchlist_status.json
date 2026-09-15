@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:35:39.235894+00:00",
+  "generated_at": "2026-09-15T01:50:56.980777+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -23,10 +23,10 @@
       "company": "安徽省交通控股集团有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 0,
-      "last_discovered": "",
-      "days_since_last": null,
-      "status": "尚未发现"
+      "active_jobs": 1,
+      "last_discovered": "2026-08-08",
+      "days_since_last": 38,
+      "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
       "company": "安徽叉车集团有限责任公司",
@@ -52,7 +52,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-04",
-      "days_since_last": 10,
+      "days_since_last": 11,
       "status": "正常"
     },
     {
@@ -187,7 +187,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 37,
+      "days_since_last": 38,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 37,
+      "days_since_last": 38,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -241,7 +241,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-08-08",
-      "days_since_last": 37,
+      "days_since_last": 38,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -250,7 +250,7 @@
       "priority": "1",
       "active_jobs": 4,
       "last_discovered": "2026-09-12",
-      "days_since_last": 2,
+      "days_since_last": 3,
       "status": "正常"
     },
     {
@@ -268,7 +268,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-24",
-      "days_since_last": 21,
+      "days_since_last": 22,
       "status": "正常"
     },
     {
@@ -277,7 +277,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 37,
+      "days_since_last": 38,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -338,9 +338,9 @@
       "company": "国网上海市电力公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 24,
+      "active_jobs": 22,
       "last_discovered": "2026-09-14",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 37,
+      "days_since_last": 38,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
