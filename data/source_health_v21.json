@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-15 01:50:56",
+  "checked_at": "2026-09-15 15:11:47",
   "total": 80,
-  "ok": 71,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -95,9 +95,9 @@
       "source_id": "reg-gov-sh",
       "name": "上海市人民政府",
       "url": "https://www.shanghai.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "reg-gov-ah",
@@ -127,9 +127,9 @@
       "source_id": "reg-hrss-sh",
       "name": "上海市人社局",
       "url": "https://rsj.sh.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "reg-hrss-ah",
