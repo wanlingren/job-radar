@@ -133,7 +133,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,盐城市,320924,射阳县,county,missing,,
 江苏,盐城市,320925,建湖县,county,missing,,
 江苏,盐城市,320971,盐城经济技术开发区,functional,missing,,
-江苏,盐城市,320981,东台市,county,missing,,
+江苏,盐城市,320981,东台市,county,covered,https://www.dongtai.gov.cn/,search+sitecode
 江苏,扬州市,321002,广陵区,county,missing,,
 江苏,扬州市,321003,邗江区,county,missing,,
 江苏,扬州市,321012,江都区,county,missing,,

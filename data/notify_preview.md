@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-09-15
+# 🎯 江浙沪皖国资招聘雷达｜2026-09-16
 
-> 今日待提醒：**254 条**｜7天内截止：**0 条**
+> 今日待提醒：**61 条**｜7天内截止：**32 条**
 
-> 📍 浙江 42｜江苏 8｜上海 34｜安徽 2
+> 📍 浙江 6｜江苏 3｜上海 15｜安徽 2
 
-> ⭐27届校园招聘 17｜🟦校园招聘/应届生 177｜🟨国企公开招聘 21｜🟧国企社会招聘 29｜🟩事业单位/人才引进 4｜🟪事业单位/编外 4｜⬜政府官方招聘公告 2
+> ⭐27届校园招聘 12｜🟦校园招聘/应届生 8｜🟨国企公开招聘 4｜🟧国企社会招聘 32｜🟩事业单位/人才引进 2｜⬜政府官方招聘公告 3
 
-[📋 一次查看全部 254 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 61 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [中国南方电网有限责任公司超高压输电公司｜中国南方电网有限责任公司超高压输电公司2027届秋季校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=a734b8bfaf981ae8d97b608a520f04f2&dwxxid=761C0E150D5624AFE055000000000001)
-- [中国工程物理研究院｜中国工程物理研究院2027届校园招聘浙大专场](https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=5B7FC807FD3682DBE0653A68DD0E9B18)
-- [中国航发控制系统研究所|无锡动控科技有限公司｜中国航发控制系统研究所|无锡动控科技有限公司 2027届校园招聘宣讲会](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=723964028d40924172f8724998d8f8e4&dwxxid=JG1430666)
-- [中国南方电网｜中国南方电网2027校园招聘宣讲会](https://www.career.zju.edu.cn/notification/detail?xwid=5B8703599D42D6E8E0653A68DD0E9B18)
-- [南京首场秋季｜2026年南京首场秋季校园招聘亮相！](https://jshrss.jiangsu.gov.cn/art/2026/9/15/art_78498_11830090.html)
-- [康龙化成（北京）新药技术股份有限公司｜2027届-博士-药理学研究员-宁波](https://www.iguopin.com/job/detail?id=218336179622250140)
-- [中国计量大学就业网｜【27届校招】税友软件集团股份有限公司校园招聘](https://jyb.cjlu.edu.cn/campus/view/id/354097)
-- [企业招聘|中国移动浙江公司｜企业招聘|中国移动浙江公司2027届校园招聘公告](http://career.zjnu.edu.cn/campus/view/id/872219)
-- [中国电建昆明院｜中国电建昆明院2027届校园招聘简章](https://career.shiep.edu.cn/campus/view/id/667400)
-- [企业招聘 | 中国外运华中有限公司｜企业招聘 | 中国外运华中有限公司2027届秋季校园招聘](https://job.wzu.edu.cn/news/view/aid/159694/tag/syzp)
+- [新疆新业国有资产经营（集团）有限责任公司｜战略规划部（项目前期办公室）部长｜7天后截止](https://www.iguopin.com/job/detail?id=218341642350888593)
+- [新疆新业国有资产经营（集团）有限责任公司｜战略规划部（项目前期办公室）副部长（投资）｜7天后截止](https://www.iguopin.com/job/detail?id=218341531352827542)
+- [新疆新业国有资产经营（集团）有限责任公司｜战略规划部（项目前期办公室）副部长（工程建设）｜7天后截止](https://www.iguopin.com/job/detail?id=218341500432418452)
+- [新疆新业国有资产经营（集团）有限责任公司｜战略规划部（项目前期办公室）副部长（项目前期）｜7天后截止](https://www.iguopin.com/job/detail?id=218341460955629212)
+- [新疆新业国有资产经营（集团）有限责任公司｜工会工作部（工会办公室、团委办公室）部长｜7天后截止](https://www.iguopin.com/job/detail?id=218341753835488924)
+- [新疆新业国有资产经营（集团）有限责任公司｜科技管理部部长｜7天后截止](https://www.iguopin.com/job/detail?id=218341740749260444)
+- [通知】【新增场次】单位邀请函 | 同济大学｜【通知】【新增场次】单位邀请函 | 同济大学2027届毕业生校园综合…](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=3f4361d64760403d9feca247548dfe80)
+- [中国兵器工业第二〇三研究所｜中国兵器工业第二〇三研究所2027届校园宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/240113281673596928)
+- [中国工程物理研究院｜中国工程物理研究院2027届招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/235062150442389504)
+- [中国电子信息产业集团有限公司｜中国电子信息产业集团有限公司 2027届校园招聘会](https://www.job.sjtu.edu.cn/career/xjhxx/view/239740989940568064)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。
