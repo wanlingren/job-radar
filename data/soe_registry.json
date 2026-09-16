@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:08:40.201439+00:00",
-  "total": 321,
+  "generated_at": "2026-09-16T14:28:12.604919+00:00",
+  "total": 324,
   "entities": [
     {
       "entity_id": "auto-c5f1442740a1",
@@ -41,6 +41,25 @@
       "last_verified": "2026-09-16"
     },
     {
+      "entity_id": "auto-5be07d546ab8",
+      "canonical_name": "中国工商银行",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "官方招聘公告反向核验",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "http://www.job.mohrss.gov.cn:80/qyzp/172442.jhtml",
+      "confidence": "official_job_observed",
+      "last_verified": "2026-09-16"
+    },
+    {
       "entity_id": "auto-ec1b63b4cd78",
       "canonical_name": "中国电气装备集团投资有限公司",
       "short_name": "",
@@ -60,8 +79,8 @@
       "last_verified": "2026-09-16"
     },
     {
-      "entity_id": "auto-73a77781b5e4",
-      "canonical_name": "中国银行股份有限公司",
+      "entity_id": "auto-ca27afdf3e5b",
+      "canonical_name": "北京中发芯测科技有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -74,7 +93,26 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=SLaDB8f5H72xoPf8Xxek6Q",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=JQy4xJr8mrErLK4BX2eDpK",
+      "confidence": "official_job_observed",
+      "last_verified": "2026-09-16"
+    },
+    {
+      "entity_id": "auto-76930c0c24b2",
+      "canonical_name": "北京睿智航显示科技有限公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "官方招聘公告反向核验",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=TtKWLVM584fQeZiYtgzZsP",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-16"
     },
@@ -95,6 +133,25 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
+      "last_verified": "2026-09-16"
+    },
+    {
+      "entity_id": "auto-af06fd7fca07",
+      "canonical_name": "广西期刊传媒集团有限公司",
+      "short_name": "",
+      "aliases": "",
+      "level": "地方国企",
+      "parent_group": "",
+      "province": "",
+      "city": "",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "官方招聘公告反向核验",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=MqPg4LXkkYqTTeUgPxAy41",
+      "confidence": "official_job_observed",
       "last_verified": "2026-09-16"
     },
     {
@@ -136,8 +193,8 @@
       "last_verified": "2026-09-16"
     },
     {
-      "entity_id": "auto-d4192c1561e9",
-      "canonical_name": "恩业企业管理咨询（上海）有限公司",
+      "entity_id": "auto-bded0f799f35",
+      "canonical_name": "中国农业银行",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -150,18 +207,18 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2949920",
+      "source_url": "http://www.job.mohrss.gov.cn:80/qyzp/172421.jhtml",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-16"
     },
     {
-      "entity_id": "auto-fcfa0a7a0d60",
-      "canonical_name": "旌德旌水云筑建设工程有限公司",
+      "entity_id": "auto-8b8f909ef2b2",
+      "canonical_name": "中国大地财产保险股份有限公司",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
       "parent_group": "",
-      "province": "安徽",
+      "province": "上海",
       "city": "",
       "district": "",
       "org_type": "soe",
@@ -169,7 +226,7 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.ahjd.gov.cn/News/show/1728145.html",
+      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=LDLf9cR7Xgan27FGwzidKU",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-16"
     },
