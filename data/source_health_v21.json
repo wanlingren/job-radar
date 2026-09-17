@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-17 01:43:44",
+  "checked_at": "2026-09-17 15:10:08",
   "total": 80,
-  "ok": 70,
+  "ok": 71,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",

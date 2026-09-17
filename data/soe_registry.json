@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T01:07:14.388548+00:00",
-  "total": 323,
+  "generated_at": "2026-09-17T14:33:15.011010+00:00",
+  "total": 321,
   "entities": [
     {
       "entity_id": "auto-c5f1442740a1",
@@ -22,8 +22,8 @@
       "last_verified": "2026-09-17"
     },
     {
-      "entity_id": "auto-b6fe3b8b25dc",
-      "canonical_name": "中国国际人才开发中心有限公司",
+      "entity_id": "auto-5be07d546ab8",
+      "canonical_name": "中国工商银行",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -36,7 +36,7 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://www.iguopin.com/job/detail?id=218498335038767272",
+      "source_url": "http://www.job.mohrss.gov.cn:80/qyzp/172442.jhtml",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-17"
     },
@@ -76,25 +76,6 @@
       "wechat": "",
       "source_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/index.html",
       "confidence": "official_discovered",
-      "last_verified": "2026-09-17"
-    },
-    {
-      "entity_id": "auto-73a77781b5e4",
-      "canonical_name": "中国银行股份有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=SLaDB8f5H72xoPf8Xxek6Q",
-      "confidence": "official_job_observed",
       "last_verified": "2026-09-17"
     },
     {
@@ -155,8 +136,8 @@
       "last_verified": "2026-09-17"
     },
     {
-      "entity_id": "auto-d4192c1561e9",
-      "canonical_name": "恩业企业管理咨询（上海）有限公司",
+      "entity_id": "auto-bded0f799f35",
+      "canonical_name": "中国农业银行",
       "short_name": "",
       "aliases": "",
       "level": "地方国企",
@@ -169,45 +150,7 @@
       "website": "",
       "recruit_url": "",
       "wechat": "",
-      "source_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2949920",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-17"
-    },
-    {
-      "entity_id": "auto-fcfa0a7a0d60",
-      "canonical_name": "旌德旌水云筑建设工程有限公司",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "安徽",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "https://www.ahjd.gov.cn/News/show/1728145.html",
-      "confidence": "official_job_observed",
-      "last_verified": "2026-09-17"
-    },
-    {
-      "entity_id": "auto-6ee67344ffc7",
-      "canonical_name": "09-16]国有企业|浙江省绍兴市柯桥区开发经营集团",
-      "short_name": "",
-      "aliases": "",
-      "level": "地方国企",
-      "parent_group": "",
-      "province": "浙江",
-      "city": "",
-      "district": "",
-      "org_type": "soe",
-      "regulator": "官方招聘公告反向核验",
-      "website": "",
-      "recruit_url": "",
-      "wechat": "",
-      "source_url": "http://career.hznu.edu.cn/news/view/aid/230707/tag/gkgx",
+      "source_url": "http://www.job.mohrss.gov.cn:80/qyzp/172421.jhtml",
       "confidence": "official_job_observed",
       "last_verified": "2026-09-17"
     },
@@ -2646,6 +2589,25 @@
     {
       "entity_id": "auto-e72f6667934e",
       "canonical_name": "全力当好工业智能化转型的先行探路者、集成服务商！市委书记陈吉宁调研上海电气集团",
+      "short_name": "",
+      "aliases": "",
+      "level": "市县属国企",
+      "parent_group": "",
+      "province": "上海",
+      "city": "市辖区",
+      "district": "",
+      "org_type": "soe",
+      "regulator": "闵行区·市国资委",
+      "website": "",
+      "recruit_url": "",
+      "wechat": "",
+      "source_url": "https://www.gzw.sh.gov.cn/",
+      "confidence": "official_discovered",
+      "last_verified": "2026-09-17"
+    },
+    {
+      "entity_id": "auto-9bd3242fd1da",
+      "canonical_name": "国茂（新加坡）有限公司",
       "short_name": "",
       "aliases": "",
       "level": "市县属国企",

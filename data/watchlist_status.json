@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:43:44.367546+00:00",
+  "generated_at": "2026-09-17T15:10:08.621293+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -149,9 +149,9 @@
       "company": "物产中大集团股份有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-16",
-      "days_since_last": 1,
+      "active_jobs": 1,
+      "last_discovered": "2026-09-15",
+      "days_since_last": 2,
       "status": "正常"
     },
     {
@@ -266,9 +266,9 @@
       "company": "上海建工集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-08-24",
-      "days_since_last": 24,
+      "active_jobs": 2,
+      "last_discovered": "2026-09-17",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -338,9 +338,9 @@
       "company": "国网上海市电力公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 24,
-      "last_discovered": "2026-09-16",
-      "days_since_last": 1,
+      "active_jobs": 26,
+      "last_discovered": "2026-09-17",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
