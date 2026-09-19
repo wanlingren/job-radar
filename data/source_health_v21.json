@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-18 14:41:04",
+  "checked_at": "2026-09-19 01:34:09",
   "total": 80,
-  "ok": 71,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -295,9 +295,9 @@
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-012bc75882",
@@ -439,9 +439,9 @@
       "source_id": "auto-gov-b7640ae67f",
       "name": "龙子湖区人民政府",
       "url": "https://www.bblzh.gov.cn/xwzx/bmdt/5096401.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-e09137f3c0",
