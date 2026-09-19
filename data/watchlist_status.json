@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:34:09.876031+00:00",
+  "generated_at": "2026-09-19T14:14:12.961783+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -132,8 +132,8 @@
       "region": "浙江",
       "priority": "1",
       "active_jobs": 3,
-      "last_discovered": "2026-09-18",
-      "days_since_last": 1,
+      "last_discovered": "2026-09-19",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -149,9 +149,9 @@
       "company": "物产中大集团股份有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 3,
-      "last_discovered": "2026-09-18",
-      "days_since_last": 1,
+      "active_jobs": 4,
+      "last_discovered": "2026-09-19",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
