@@ -112,7 +112,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,连云港市,320703,连云区,county,missing,,
 江苏,连云港市,320706,海州区,county,covered,http://www.lyghz.gov.cn/,search+strict-name
 江苏,连云港市,320707,赣榆区,county,missing,,
-江苏,连云港市,320722,东海县,county,missing,,
+江苏,连云港市,320722,东海县,county,covered,http://www.jsdh.gov.cn/,search+strict-name
 江苏,连云港市,320723,灌云县,county,missing,,
 江苏,连云港市,320724,灌南县,county,missing,,
 江苏,连云港市,320771,连云港经济技术开发区,functional,missing,,
@@ -262,7 +262,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 安徽,合肥市,340177,合肥经济技术开发区,functional,missing,,
 安徽,合肥市,340178,合肥新站高新技术产业开发区,functional,missing,,
 安徽,合肥市,340181,巢湖市,county,missing,,
-安徽,芜湖市,340202,镜湖区,county,missing,,
+安徽,芜湖市,340202,镜湖区,county,covered,https://www.whjhq.gov.cn/,search+sitecode
 安徽,芜湖市,340207,鸠江区,county,missing,,
 安徽,芜湖市,340209,弋江区,county,missing,,
 安徽,芜湖市,340210,湾沚区,county,missing,,

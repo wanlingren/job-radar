@@ -559,6 +559,26 @@
       "url": "https://www.dongtai.gov.cn/",
       "label": "东台市人民政府",
       "verification": "search+sitecode"
+    },
+    "320722": {
+      "unit_code": "320722",
+      "unit_name": "东海县",
+      "province": "江苏",
+      "city": "连云港市",
+      "level": "county",
+      "url": "http://www.jsdh.gov.cn/",
+      "label": "东海县人民政府",
+      "verification": "search+strict-name"
+    },
+    "340202": {
+      "unit_code": "340202",
+      "unit_name": "镜湖区",
+      "province": "安徽",
+      "city": "芜湖市",
+      "level": "county",
+      "url": "https://www.whjhq.gov.cn/",
+      "label": "镜湖区人民政府",
+      "verification": "search+sitecode"
     }
   },
   "universities": {
@@ -942,7 +962,7 @@
       "name": "合肥师范学院",
       "location": "安徽·合肥",
       "root_url": "https://www.hfnu.edu.cn/",
-      "career_url": "https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm",
+      "career_url": "https://www.hfnu.edu.cn/info/1044/400063.htm",
       "status": "discovered",
       "verification": "discovered-from-university-homepage"
     },
@@ -963,5 +983,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-09-15 23:44:01"
+  "updated_at": "2026-09-19 23:26:24"
 }

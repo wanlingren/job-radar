@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-19T14:14:12.961783+00:00",
+  "generated_at": "2026-09-20T00:10:17.310955+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 0,
-      "last_discovered": "",
-      "days_since_last": null,
-      "status": "尚未发现"
+      "active_jobs": 1,
+      "last_discovered": "2026-08-08",
+      "days_since_last": 43,
+      "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
       "company": "合肥水务集团有限公司",
@@ -25,7 +25,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 42,
+      "days_since_last": 43,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -133,7 +133,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-09-19",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -149,9 +149,9 @@
       "company": "物产中大集团股份有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 4,
+      "active_jobs": 3,
       "last_discovered": "2026-09-19",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -187,7 +187,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 42,
+      "days_since_last": 43,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 42,
+      "days_since_last": 43,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -241,7 +241,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-09-16",
-      "days_since_last": 3,
+      "days_since_last": 4,
       "status": "正常"
     },
     {
@@ -250,7 +250,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-09-12",
-      "days_since_last": 7,
+      "days_since_last": 8,
       "status": "正常"
     },
     {
@@ -259,7 +259,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-15",
-      "days_since_last": 4,
+      "days_since_last": 5,
       "status": "正常"
     },
     {
@@ -268,7 +268,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-09-17",
-      "days_since_last": 2,
+      "days_since_last": 3,
       "status": "正常"
     },
     {
@@ -277,7 +277,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 42,
+      "days_since_last": 43,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -340,7 +340,7 @@
       "priority": "1",
       "active_jobs": 22,
       "last_discovered": "2026-09-18",
-      "days_since_last": 1,
+      "days_since_last": 2,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 42,
+      "days_since_last": 43,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
