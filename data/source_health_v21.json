@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-21 01:28:28",
+  "checked_at": "2026-09-21 16:51:16",
   "total": 80,
-  "ok": 69,
+  "ok": 68,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-ahu",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",
@@ -279,9 +279,9 @@
       "source_id": "auto-gov-85e7cd484a",
       "name": "奉贤区人民政府",
       "url": "https://www.fengxian.gov.cn/gzw/index.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8981195aad",
@@ -295,9 +295,9 @@
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/xwzx/001003/20260918/0453c2ac-d759-44b8-b9a5-cc2bdab8611d.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-012bc75882",
@@ -455,9 +455,9 @@
       "source_id": "auto-gov-e09137f3c0",
       "name": "铜陵市人民政府",
       "url": "https://www.tl.gov.cn/tlsrmzf/zgz/pc/list.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-2d2275cee3",

@@ -1,23 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-09-21
+# 🎯 江浙沪皖国资招聘雷达｜2026-09-22
 
-> 今日待提醒：**9 条**｜7天内截止：**0 条**
+> 今日待提醒：**222 条**｜7天内截止：**1 条**
 
-> 📍 浙江 4｜江苏 1｜上海 0｜安徽 1
+> 📍 浙江 32｜江苏 10｜上海 19｜安徽 3
 
-> ⭐27届校园招聘 1｜🟦校园招聘/应届生 5｜🟨国企公开招聘 3
+> ⭐27届校园招聘 28｜🟦校园招聘/应届生 135｜🟨国企公开招聘 4｜🟧国企社会招聘 45｜🟩事业单位/人才引进 6｜🟪事业单位/编外 2｜⬜政府官方招聘公告 2
 
-[📋 一次查看全部 9 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 222 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [中粮集团｜中粮集团2027届校园招聘](https://ndjy.nbu.edu.cn/campus/view/id/389229)
-- [Coach中国2027零售管理培训生｜Coach中国2027零售管理培训生校园招聘](https://ndjy.nbu.edu.cn/campus/view/id/389230)
-- [中国邮政储蓄银行股份有限公司重庆分行2027年｜中国邮政储蓄银行股份有限公司重庆分行2027年校园招聘](http://zccareer.zufe.edu.cn/campus/view/id/869952)
-- [标题：中国邮政储蓄银行芜湖市分行2027秋季｜标题：中国邮政储蓄银行芜湖市分行2027秋季校园招聘简章（经济学、…](https://jyzd.chnu.edu.cn/xsfw/gwxx/content_152553)
-- [苏州市人民政府国有资产监督管理委员会｜热血践初心 担当献大爱 |市国资委联合市属国企开展义务献血活动](http://guozw.suzhou.gov.cn/gzw/tpxw/202609/23d83e3d24b14bc4af50129b9ececc5b.shtml)
-- [企业招聘|国有企业 | 浙江省绍兴市柯桥区开发经营集团｜企业招聘|国有企业 | 浙江省绍兴市柯桥区开发经营集团招…](https://job.wzu.edu.cn/news/view/aid/159709/tag/syzp)
-- [中国远洋海运集团｜中国远洋海运集团2027全球校园招聘](http://www.sasac.gov.cn/n2588035/n2588325/n2588350/c35963130/content.html)
-- [国药集团新疆新特药业有限公司｜物流中心 乌鲁木齐新市区 拣选员（应届本科、物流相关专业）](https://www.iguopin.com/job/detail?id=209654556940830961)
-- [航空工业信息技术中心（金航数码）｜航空工业信息技术中心（金航数码）2026年度高技术人才招聘公告](http://www.sasac.gov.cn/n2588035/n2588325/n2588350/c35963806/content.html)
+- [广州市番禺协诚实业有限公司｜业务岗（实习生）｜5天后截止](https://www.iguopin.com/job/detail?id=219200516557636266)
+- [中国电信集团有限公司｜中国电信集团有限公司2027届校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=4b8c7d84f6b9542320d4c676cd3940bf&dwxxid=JG1196456)
+- [中国电科产业基础研究院｜中国电科产业基础研究院2027届校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=aef90e24509689773a341a477a8b721b&dwxxid=761C0E153A0224AFE055000000000001)
+- [中粮集团有限公司｜中粮集团有限公司2027届秋季校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=3dc382689bc5db6990cc2b697dd94c37&dwxxid=761C0E15181124AFE055000000000001)
+- [中国广核集团有限公司｜中国广核集团有限公司2027届秋季校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=cb337c5360b77fbff2032c615ee6caab&dwxxid=761C0E1538E224AFE055000000000001)
+- [上海电气集团｜上海电气集团2027届秋季校园招聘](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=6384bbc80bfadfefbf0c1cd98c3dcc56&dwxxid=761C0E15167C24AFE055000000000001)
+- [浙江省交通投资集团有限公司｜浙江省交通投资集团有限公司 2027届校园招聘宣讲会](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=5eed8a0150bbd02039988744d832ec9c&dwxxid=JG1446694)
+- [世界500强国企-物产中大集团｜世界500强国企-物产中大集团2027校园招聘（现场面试）](https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=7e53cd44019b961b89c26b3b395e7a99&dwxxid=761C0E15524524AFE055000000000001)
+- [浙江华睿科技股份有限公司｜【27届】技术支持管培生](https://www.iguopin.com/job/detail?id=219179980171510057)
+- [市人力资源和社会保障局｜人社部启动2026年全国城市联合招聘高校毕业生秋季专场活动](http://rsj.sh.gov.cn/tgwyrsb_17088/20260921/t0035_1443840.html)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

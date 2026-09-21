@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:28:28.409276+00:00",
+  "generated_at": "2026-09-21T16:51:16.478914+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -86,10 +86,10 @@
       "company": "铜陵有色金属集团控股有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 0,
-      "last_discovered": "",
-      "days_since_last": null,
-      "status": "尚未发现"
+      "active_jobs": 1,
+      "last_discovered": "2026-09-21",
+      "days_since_last": 0,
+      "status": "正常"
     },
     {
       "company": "安徽海螺集团有限责任公司",
@@ -131,9 +131,9 @@
       "company": "浙江省交通投资集团有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-19",
-      "days_since_last": 2,
+      "active_jobs": 3,
+      "last_discovered": "2026-09-21",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -149,9 +149,9 @@
       "company": "物产中大集团股份有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-18",
-      "days_since_last": 3,
+      "active_jobs": 3,
+      "last_discovered": "2026-09-21",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -239,7 +239,7 @@
       "company": "苏州市轨道交通集团有限公司",
       "region": "江苏",
       "priority": "1",
-      "active_jobs": 4,
+      "active_jobs": 3,
       "last_discovered": "2026-09-21",
       "days_since_last": 0,
       "status": "正常"
@@ -257,16 +257,16 @@
       "company": "上海电气集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-09-15",
-      "days_since_last": 6,
+      "active_jobs": 2,
+      "last_discovered": "2026-09-21",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
       "company": "上海建工集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 2,
+      "active_jobs": 3,
       "last_discovered": "2026-09-17",
       "days_since_last": 4,
       "status": "正常"
@@ -338,9 +338,9 @@
       "company": "国网上海市电力公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 23,
-      "last_discovered": "2026-09-20",
-      "days_since_last": 1,
+      "active_jobs": 22,
+      "last_discovered": "2026-09-21",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
