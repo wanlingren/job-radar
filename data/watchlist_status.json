@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:25:32.840378+00:00",
+  "generated_at": "2026-09-21T01:28:28.409276+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -7,7 +7,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 43,
+      "days_since_last": 44,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -23,10 +23,10 @@
       "company": "安徽省交通控股集团有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-08-08",
-      "days_since_last": 43,
-      "status": "⚠️30天未发现招聘，建议人工检查"
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
     },
     {
       "company": "安徽叉车集团有限责任公司",
@@ -133,7 +133,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-09-19",
-      "days_since_last": 1,
+      "days_since_last": 2,
       "status": "正常"
     },
     {
@@ -151,7 +151,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-09-18",
-      "days_since_last": 2,
+      "days_since_last": 3,
       "status": "正常"
     },
     {
@@ -187,7 +187,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 43,
+      "days_since_last": 44,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 43,
+      "days_since_last": 44,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -239,9 +239,9 @@
       "company": "苏州市轨道交通集团有限公司",
       "region": "江苏",
       "priority": "1",
-      "active_jobs": 3,
-      "last_discovered": "2026-09-16",
-      "days_since_last": 4,
+      "active_jobs": 4,
+      "last_discovered": "2026-09-21",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -250,7 +250,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-09-12",
-      "days_since_last": 8,
+      "days_since_last": 9,
       "status": "正常"
     },
     {
@@ -259,7 +259,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-15",
-      "days_since_last": 5,
+      "days_since_last": 6,
       "status": "正常"
     },
     {
@@ -268,7 +268,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-09-17",
-      "days_since_last": 3,
+      "days_since_last": 4,
       "status": "正常"
     },
     {
@@ -277,7 +277,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 43,
+      "days_since_last": 44,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -340,7 +340,7 @@
       "priority": "1",
       "active_jobs": 23,
       "last_discovered": "2026-09-20",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 43,
+      "days_since_last": 44,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {

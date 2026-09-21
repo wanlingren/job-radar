@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-20 14:25:32",
+  "checked_at": "2026-09-21 01:28:28",
   "total": 80,
-  "ok": 72,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -279,9 +279,9 @@
       "source_id": "auto-gov-85e7cd484a",
       "name": "奉贤区人民政府",
       "url": "https://www.fengxian.gov.cn/gzw/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "auto-gov-8981195aad",
@@ -295,9 +295,9 @@
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/xwzx/001003/20260918/0453c2ac-d759-44b8-b9a5-cc2bdab8611d.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-012bc75882",
@@ -631,9 +631,9 @@
       "source_id": "auto-gov-fc8b3c4107",
       "name": "昆山市人民政府",
       "url": "https://www.ks.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-519f3837e3",
