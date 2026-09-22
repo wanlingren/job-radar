@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-21 16:51:16",
+  "checked_at": "2026-09-22 02:11:00",
   "total": 80,
-  "ok": 68,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -167,9 +167,9 @@
       "source_id": "edu-hfut",
       "name": "合肥工业大学就业网",
       "url": "https://gdjy.hfut.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ahu",
@@ -455,9 +455,9 @@
       "source_id": "auto-gov-e09137f3c0",
       "name": "铜陵市人民政府",
       "url": "https://www.tl.gov.cn/tlsrmzf/zgz/pc/list.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-2d2275cee3",
