@@ -1,8 +1,8 @@
 # 信源健康检查 V2.1
 
 - 检查：80
-- 正常：70
-- 异常：10
+- 正常：69
+- 异常：11
 
 ## 异常信源
 - reg-sasac-zj｜浙江省国资委｜HTTP 0｜URLError｜https://gzw.zj.gov.cn/
@@ -14,4 +14,5 @@
 - edu-ahu｜安徽大学就业网｜HTTP 412｜HTTPError｜http://job.ahu.edu.cn/
 - edu-ecust｜华东理工大学就业网｜HTTP 483｜HTTPError｜https://career.ecust.edu.cn/
 - auto-gov-18a28a9b71｜泾县人民政府｜HTTP 0｜UnicodeEncodeError｜https://www.ahjx.gov.cn/Search/?keyword=就业创业
+- auto-gov-e47e876baf｜镜湖区人民政府｜HTTP 429｜HTTPError｜https://www.whjhq.gov.cn/public/column/6603421?type=4&catId=6722981&action=list
 - auto-gov-fc8b3c4107｜昆山市人民政府｜HTTP 0｜URLError｜https://www.ks.gov.cn/

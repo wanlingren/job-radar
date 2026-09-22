@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-22 02:11:00",
+  "checked_at": "2026-09-22 15:03:42",
   "total": 80,
-  "ok": 70,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -431,9 +431,9 @@
       "source_id": "auto-gov-e47e876baf",
       "name": "镜湖区人民政府",
       "url": "https://www.whjhq.gov.cn/public/column/6603421?type=4&catId=6722981&action=list",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 429,
+      "error": "HTTPError"
     },
     {
       "source_id": "auto-gov-24ddb1b897",
