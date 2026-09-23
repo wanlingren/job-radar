@@ -579,6 +579,76 @@
       "url": "https://www.whjhq.gov.cn/",
       "label": "镜湖区人民政府",
       "verification": "search+sitecode"
+    },
+    "3417": {
+      "unit_code": "3417",
+      "unit_name": "池州市",
+      "province": "安徽",
+      "city": "池州市",
+      "level": "city",
+      "url": "http://chizhou.gov.cn/",
+      "label": "池州市人民政府",
+      "verification": "search+sitecode"
+    },
+    "310107": {
+      "unit_code": "310107",
+      "unit_name": "普陀区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.shpt.gov.cn/",
+      "label": "普陀区人民政府",
+      "verification": "search+strict-name"
+    },
+    "310106": {
+      "unit_code": "310106",
+      "unit_name": "静安区",
+      "province": "上海",
+      "city": "市辖区",
+      "level": "county",
+      "url": "https://www.jingan.gov.cn/",
+      "label": "静安区人民政府",
+      "verification": "search+sitecode"
+    },
+    "320115": {
+      "unit_code": "320115",
+      "unit_name": "江宁区",
+      "province": "江苏",
+      "city": "南京市",
+      "level": "county",
+      "url": "http://www.jiangning.gov.cn/",
+      "label": "江宁区人民政府",
+      "verification": "search+strict-name"
+    },
+    "320205": {
+      "unit_code": "320205",
+      "unit_name": "锡山区",
+      "province": "江苏",
+      "city": "无锡市",
+      "level": "county",
+      "url": "https://www.jsxishan.gov.cn/",
+      "label": "锡山区人民政府",
+      "verification": "search+sitecode"
+    },
+    "330903": {
+      "unit_code": "330903",
+      "unit_name": "普陀区",
+      "province": "浙江",
+      "city": "舟山市",
+      "level": "county",
+      "url": "https://www.shpt.gov.cn/",
+      "label": "普陀区人民政府",
+      "verification": "search+strict-name"
+    },
+    "341523": {
+      "unit_code": "341523",
+      "unit_name": "舒城县",
+      "province": "安徽",
+      "city": "六安市",
+      "level": "county",
+      "url": "https://www.shucheng.gov.cn/",
+      "label": "舒城县人民政府",
+      "verification": "search+sitecode"
     }
   },
   "universities": {
@@ -983,5 +1053,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-09-19 23:26:24"
+  "updated_at": "2026-09-22 23:49:29"
 }
