@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24 15:19:44",
+  "checked_at": "2026-09-25 01:46:49",
   "total": 80,
   "ok": 69,
   "items": [
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",
@@ -487,9 +487,9 @@
       "source_id": "auto-gov-e09137f3c0",
       "name": "铜陵市人民政府",
       "url": "https://www.tl.gov.cn/tlsrmzf/zgz/pc/list.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-698dcd5dd7",
