@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26 01:44:07",
+  "checked_at": "2026-09-26 14:40:51",
   "total": 80,
   "ok": 68,
   "items": [
@@ -295,17 +295,17 @@
       "source_id": "auto-gov-bfb78e2119",
       "name": "普陀区人民政府",
       "url": "https://www.shpt.gov.cn/zhengwu/gsgg/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-811c22a6ac",
       "name": "松江区人民政府",
       "url": "https://www.songjiang.gov.cn/xwzx/001002/001002021/20260921/e1e47fe0-3069-48ea-8208-4b01bec0b22b.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8ce217a7ae",
