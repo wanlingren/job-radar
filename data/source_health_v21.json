@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-27 01:39:40",
+  "checked_at": "2026-09-27 15:36:59",
   "total": 80,
-  "ok": 69,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "edu-nju",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": false,
-      "http_status": 483,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-job-sh",
@@ -423,9 +423,9 @@
       "source_id": "auto-gov-308c504b74",
       "name": "池州市人民政府",
       "url": "http://chizhou.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8d5d77ce58",
