@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "5eaa039067bf9a7a",
+    "source_id": "cn-iguopin",
+    "company_name": "绿盟科技集团股份有限公司",
+    "title": "秋招市场管培生（销售方向）-重庆",
+    "location": "重庆-渝北区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215446299502184015",
+    "first_seen": "2026-09-26T23:52:03.327117+00:00",
+    "last_seen": "2026-09-26T23:52:03.327117+00:00",
+    "archived_at": "2026-09-27T01:07:43.149382+00:00",
+    "match_score": 58
+  },
+  {
+    "dedup_key": "be7946657a9c899d",
+    "source_id": "cn-iguopin",
+    "company_name": "海南矿业股份有限公司",
+    "title": "【校招】终端管理岗",
+    "location": "澄迈",
+    "official_url": "https://www.iguopin.com/job/detail?id=215607532809355362",
+    "first_seen": "2026-09-26T23:52:03.327117+00:00",
+    "last_seen": "2026-09-26T23:52:03.327117+00:00",
+    "archived_at": "2026-09-27T01:07:43.149382+00:00",
+    "match_score": 40
+  },
+  {
+    "dedup_key": "619ffc568414bc4c",
+    "source_id": "cn-iguopin",
+    "company_name": "绿盟科技集团股份有限公司",
+    "title": "秋招市场管培生（销售方向）-银川",
+    "location": "银川-金凤区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215443825970120258",
+    "first_seen": "2026-09-25T14:53:07.474902+00:00",
+    "last_seen": "2026-09-26T23:52:03.327117+00:00",
+    "archived_at": "2026-09-27T01:07:43.149382+00:00",
+    "match_score": 58
+  },
+  {
+    "dedup_key": "2036925a47a0e94b",
+    "source_id": "cn-iguopin",
+    "company_name": "卓望公司",
+    "title": "运维工程师-深圳-27届校招",
+    "location": "深圳",
+    "official_url": "https://www.iguopin.com/job/detail?id=216576928688112400",
+    "first_seen": "2026-09-26T01:14:38.014138+00:00",
+    "last_seen": "2026-09-26T23:52:03.327117+00:00",
+    "archived_at": "2026-09-27T01:07:43.149382+00:00",
+    "match_score": 68
+  },
+  {
+    "dedup_key": "bd18be8821208bde",
+    "source_id": "cn-iguopin",
+    "company_name": "卓望公司",
+    "title": "运维工程师-北京-27届校招",
+    "location": "北京",
+    "official_url": "https://www.iguopin.com/job/detail?id=216576117476164366",
+    "first_seen": "2026-09-26T01:14:38.014138+00:00",
+    "last_seen": "2026-09-26T23:52:03.327117+00:00",
+    "archived_at": "2026-09-27T01:07:43.149382+00:00",
+    "match_score": 68
+  },
+  {
     "dedup_key": "c49fb1e07e944bb7",
     "source_id": "auto-edu-d22d28ba5d",
     "company_name": "安庆师范大学就业网",
@@ -1788,18 +1848,6 @@
     "match_score": 0
   },
   {
-    "dedup_key": "5eaa039067bf9a7a",
-    "source_id": "cn-iguopin",
-    "company_name": "绿盟科技集团股份有限公司",
-    "title": "秋招市场管培生（销售方向）-重庆",
-    "location": "重庆-渝北区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215446299502184015",
-    "first_seen": "2026-09-25T14:53:07.474902+00:00",
-    "last_seen": "2026-09-25T14:53:07.474902+00:00",
-    "archived_at": "2026-09-26T01:14:38.014138+00:00",
-    "match_score": 58
-  },
-  {
     "dedup_key": "8ed0575830c77847",
     "source_id": "cn-iguopin",
     "company_name": "上海中远海运集装箱运输有限公司",
@@ -3118,18 +3166,6 @@
     "last_seen": "2026-09-25T01:11:01.395316+00:00",
     "archived_at": "2026-09-25T14:53:07.474902+00:00",
     "match_score": 42
-  },
-  {
-    "dedup_key": "be7946657a9c899d",
-    "source_id": "cn-iguopin",
-    "company_name": "海南矿业股份有限公司",
-    "title": "【校招】终端管理岗",
-    "location": "澄迈",
-    "official_url": "https://www.iguopin.com/job/detail?id=215607532809355362",
-    "first_seen": "2026-09-25T01:11:01.395316+00:00",
-    "last_seen": "2026-09-25T01:11:01.395316+00:00",
-    "archived_at": "2026-09-25T14:53:07.474902+00:00",
-    "match_score": 40
   },
   {
     "dedup_key": "b6b091f37fdacbb3",
@@ -4734,18 +4770,6 @@
     "title": "秋招市场管培生（销售方向）-太原",
     "location": "太原-小店区",
     "official_url": "https://www.iguopin.com/job/detail?id=215444034225702466",
-    "first_seen": "2026-09-24T01:10:01.908448+00:00",
-    "last_seen": "2026-09-24T14:33:04.196959+00:00",
-    "archived_at": "2026-09-25T01:11:01.395316+00:00",
-    "match_score": 58
-  },
-  {
-    "dedup_key": "619ffc568414bc4c",
-    "source_id": "cn-iguopin",
-    "company_name": "绿盟科技集团股份有限公司",
-    "title": "秋招市场管培生（销售方向）-银川",
-    "location": "银川-金凤区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215443825970120258",
     "first_seen": "2026-09-24T01:10:01.908448+00:00",
     "last_seen": "2026-09-24T14:33:04.196959+00:00",
     "archived_at": "2026-09-25T01:11:01.395316+00:00",
@@ -119970,30 +119994,6 @@
     "title": "退伍军人（管理人员培养，行政管理干部）",
     "location": "惠州市惠东县",
     "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1849010899641614338&bcb009=2094339505982443522",
-    "first_seen": "2026-09-04T13:53:41.454142+00:00",
-    "last_seen": "2026-09-05T00:39:10.038892+00:00",
-    "archived_at": "2026-09-05T13:07:46.132721+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "8221495333457964",
-    "source_id": "gov-mohrss",
-    "company_name": "惠州市钜讯通电子有限公司",
-    "title": "普工",
-    "location": "惠州市惠东县",
-    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1849010070565617666&bcb009=2094268754585194498",
-    "first_seen": "2026-09-04T13:53:41.454142+00:00",
-    "last_seen": "2026-09-05T00:39:10.038892+00:00",
-    "archived_at": "2026-09-05T13:07:46.132721+00:00",
-    "match_score": 0
-  },
-  {
-    "dedup_key": "6f5d49e11e39f3ce",
-    "source_id": "gov-mohrss",
-    "company_name": "台州博尔特塑胶电子有限公司",
-    "title": "技术员",
-    "location": "浙江省仙居县",
-    "official_url": "https://www.zjhr.com/010/client/index7.jsp?column1=8a129366a055935801a055b64fa65263&column2=1&t=1574133601459",
     "first_seen": "2026-09-04T13:53:41.454142+00:00",
     "last_seen": "2026-09-05T00:39:10.038892+00:00",
     "archived_at": "2026-09-05T13:07:46.132721+00:00",
