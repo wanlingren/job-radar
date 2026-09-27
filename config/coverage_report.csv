@@ -95,7 +95,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 江苏,苏州市,320506,吴中区,county,covered,http://www.szwz.gov.cn/,search+sitecode
 江苏,苏州市,320507,相城区,county,missing,,
 江苏,苏州市,320508,姑苏区,county,covered,https://www.gusu.gov.cn/,search+sitecode
-江苏,苏州市,320509,吴江区,county,missing,,
+江苏,苏州市,320509,吴江区,county,covered,https://www.wujiang.gov.cn/,search+sitecode
 江苏,苏州市,320576,苏州工业园区,functional,missing,,
 江苏,苏州市,320581,常熟市,county,covered,https://www.changshu.gov.cn/,search+sitecode
 江苏,苏州市,320582,张家港市,county,covered,https://www.zjg.gov.cn/,search+sitecode
