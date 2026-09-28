@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-27 15:36:59",
+  "checked_at": "2026-09-28 02:10:52",
   "total": 80,
-  "ok": 70,
+  "ok": 67,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -95,9 +95,9 @@
       "source_id": "reg-gov-sh",
       "name": "上海市人民政府",
       "url": "https://www.shanghai.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "reg-gov-ah",
@@ -127,9 +127,9 @@
       "source_id": "reg-hrss-sh",
       "name": "上海市人社局",
       "url": "https://rsj.sh.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "reg-hrss-ah",
@@ -183,9 +183,9 @@
       "source_id": "edu-ahpu",
       "name": "安徽工程大学就业网",
       "url": "https://job.ahpu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-nju",
@@ -295,9 +295,9 @@
       "source_id": "auto-gov-bfb78e2119",
       "name": "普陀区人民政府",
       "url": "https://www.shpt.gov.cn/zhengwu/gsgg/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-811c22a6ac",
@@ -311,9 +311,9 @@
       "source_id": "auto-gov-8ce217a7ae",
       "name": "静安区人民政府",
       "url": "https://zwdt.sh.gov.cn/govPortals/region/SH00JA",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-012bc75882",
