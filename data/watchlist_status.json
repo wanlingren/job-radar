@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T03:01:14.429174+00:00",
+  "generated_at": "2026-09-29T16:56:58.867381+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -77,10 +77,10 @@
       "company": "安徽江淮汽车集团控股有限公司",
       "region": "安徽",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-09-24",
-      "days_since_last": 5,
-      "status": "正常"
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
     },
     {
       "company": "铜陵有色金属集团控股有限公司",
@@ -131,9 +131,9 @@
       "company": "浙江省交通投资集团有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-24",
-      "days_since_last": 5,
+      "active_jobs": 1,
+      "last_discovered": "2026-09-22",
+      "days_since_last": 7,
       "status": "正常"
     },
     {
@@ -339,8 +339,8 @@
       "region": "上海",
       "priority": "1",
       "active_jobs": 18,
-      "last_discovered": "2026-09-28",
-      "days_since_last": 1,
+      "last_discovered": "2026-09-29",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
