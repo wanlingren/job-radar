@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-28 18:28:40",
+  "checked_at": "2026-09-29 03:01:14",
   "total": 80,
-  "ok": 68,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -151,9 +151,9 @@
       "source_id": "edu-hdu",
       "name": "杭州电子科技大学就业网",
       "url": "https://job.hdu.edu.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-ustc",
@@ -215,9 +215,9 @@
       "source_id": "edu-sjtu",
       "name": "上海交通大学就业网",
       "url": "https://www.job.sjtu.edu.cn/",
-      "ok": false,
-      "http_status": 500,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-tongji",
