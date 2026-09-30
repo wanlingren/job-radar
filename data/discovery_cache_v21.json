@@ -778,9 +778,9 @@
       "name": "南京航空航天大学",
       "location": "江苏·南京",
       "root_url": "https://www.nuaa.edu.cn/",
-      "career_url": "https://nuaa.91job.org.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "南京理工大学": {
       "name": "南京理工大学",
@@ -906,9 +906,9 @@
       "name": "东华大学",
       "location": "上海",
       "root_url": "https://www.dhu.edu.cn/",
-      "career_url": "http://ejob.dhu.edu.cn/",
-      "status": "discovered",
-      "verification": "discovered-from-university-homepage"
+      "career_url": "",
+      "status": "unresolved",
+      "verification": ""
     },
     "上海大学": {
       "name": "上海大学",
@@ -1042,7 +1042,7 @@
       "name": "合肥师范学院",
       "location": "安徽·合肥",
       "root_url": "https://www.hfnu.edu.cn/",
-      "career_url": "https://www.hfnu.edu.cn/jgsz1/sjytgsjg.htm",
+      "career_url": "https://www.hfnu.edu.cn/info/1044/400683.htm",
       "status": "discovered",
       "verification": "discovered-from-university-homepage"
     },
@@ -1063,5 +1063,5 @@
       "verification": "discovered-from-university-homepage"
     }
   },
-  "updated_at": "2026-09-26 23:50:48"
+  "updated_at": "2026-09-30 00:45:59"
 }
