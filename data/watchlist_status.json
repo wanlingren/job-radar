@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:25:32.376544+00:00",
+  "generated_at": "2026-09-30T02:31:39.632905+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -87,8 +87,8 @@
       "region": "安徽",
       "priority": "1",
       "active_jobs": 2,
-      "last_discovered": "2026-09-29",
-      "days_since_last": 1,
+      "last_discovered": "2026-09-30",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
