@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-01 02:25:21",
+  "checked_at": "2026-10-01 17:29:31",
   "total": 80,
-  "ok": 70,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -87,9 +87,9 @@
       "source_id": "reg-gov-js",
       "name": "江苏省人民政府",
       "url": "https://www.jiangsu.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "reg-gov-sh",
