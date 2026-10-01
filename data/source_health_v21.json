@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-09-30 16:52:51",
+  "checked_at": "2026-10-01 02:25:21",
   "total": 80,
-  "ok": 71,
+  "ok": 70,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -423,9 +423,9 @@
       "source_id": "auto-gov-308c504b74",
       "name": "池州市人民政府",
       "url": "http://chizhou.gov.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-8d5d77ce58",
