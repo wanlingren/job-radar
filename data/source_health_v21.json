@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-01 17:29:31",
+  "checked_at": "2026-10-02 02:31:33",
   "total": 80,
-  "ok": 69,
+  "ok": 72,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -87,9 +87,9 @@
       "source_id": "reg-gov-js",
       "name": "江苏省人民政府",
       "url": "https://www.jiangsu.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-gov-sh",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": false,
-      "http_status": 483,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-job-sh",
@@ -423,9 +423,9 @@
       "source_id": "auto-gov-308c504b74",
       "name": "池州市人民政府",
       "url": "http://chizhou.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8d5d77ce58",
