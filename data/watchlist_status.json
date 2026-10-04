@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:12:06.739265+00:00",
+  "generated_at": "2026-10-04T00:47:06.749321+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -88,7 +88,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-10-03",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -131,9 +131,9 @@
       "company": "浙江省交通投资集团有限公司",
       "region": "浙江",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-09-22",
-      "days_since_last": 11,
+      "active_jobs": 2,
+      "last_discovered": "2026-10-04",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -185,10 +185,10 @@
       "company": "江苏交通控股有限公司",
       "region": "江苏",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-08-08",
-      "days_since_last": 56,
-      "status": "⚠️30天未发现招聘，建议人工检查"
+      "active_jobs": 2,
+      "last_discovered": "2026-10-04",
+      "days_since_last": 0,
+      "status": "正常"
     },
     {
       "company": "江苏省国信集团有限公司",
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 56,
+      "days_since_last": 57,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -240,27 +240,27 @@
       "region": "江苏",
       "priority": "1",
       "active_jobs": 3,
-      "last_discovered": "2026-09-21",
-      "days_since_last": 12,
+      "last_discovered": "2026-10-04",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
       "company": "上海汽车集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 2,
-      "last_discovered": "2026-09-12",
-      "days_since_last": 21,
+      "active_jobs": 1,
+      "last_discovered": "2026-09-08",
+      "days_since_last": 26,
       "status": "正常"
     },
     {
       "company": "上海电气集团股份有限公司",
       "region": "上海",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-09-15",
-      "days_since_last": 18,
-      "status": "正常"
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
     },
     {
       "company": "上海建工集团股份有限公司",
@@ -268,7 +268,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-17",
-      "days_since_last": 16,
+      "days_since_last": 17,
       "status": "正常"
     },
     {
@@ -340,7 +340,7 @@
       "priority": "1",
       "active_jobs": 19,
       "last_discovered": "2026-09-30",
-      "days_since_last": 3,
+      "days_since_last": 4,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 56,
+      "days_since_last": 57,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -392,10 +392,10 @@
       "company": "中国电子科技集团公司第二十八研究所",
       "region": "江苏",
       "priority": "1",
-      "active_jobs": 1,
-      "last_discovered": "2026-09-22",
-      "days_since_last": 11,
-      "status": "正常"
+      "active_jobs": 0,
+      "last_discovered": "",
+      "days_since_last": null,
+      "status": "尚未发现"
     }
   ]
 }

@@ -1,24 +1,24 @@
-# 🎯 江浙沪皖国资招聘雷达｜2026-10-03
+# 🎯 江浙沪皖国资招聘雷达｜2026-10-04
 
-> 今日待提醒：**12 条**｜7天内截止：**0 条**
+> 今日待提醒：**49 条**｜7天内截止：**0 条**
 
-> 📍 浙江 4｜江苏 2｜上海 2｜安徽 2
+> 📍 浙江 6｜江苏 9｜上海 23｜安徽 0
 
-> ⭐27届校园招聘 2｜🟦校园招聘/应届生 5｜🟨国企公开招聘 3｜🟧国企社会招聘 2
+> ⭐27届校园招聘 26｜🟦校园招聘/应届生 5｜🟨国企公开招聘 5｜🟧国企社会招聘 1｜🟩事业单位/人才引进 5｜🟪事业单位/编外 1｜⬜政府官方招聘公告 6
 
-[📋 一次查看全部 12 条招聘信息](https://wanlingren.github.io/job-radar/)
+[📋 一次查看全部 49 条招聘信息](https://wanlingren.github.io/job-radar/)
 
 ## 🔥 优先查看
 
-- [标题：铜陵有色矿产资源中心｜标题：铜陵有色矿产资源中心2027届高校毕业生校园招聘简章（应用化学、化学工程与工艺…](https://jyzd.chnu.edu.cn/xsfw/gwxx/content_152963)
-- [标题：中国五冶集团有限公司2027｜标题：中国五冶集团有限公司2027校园招聘（计算机科学与技术、材料科学与工程…](https://jyzd.chnu.edu.cn/xsfw/gwxx/content_152965)
-- [上海格琳贝诗实业有限公司｜全屋定制销售（社招，校招）](https://www.iguopin.com/job/detail?id=193993320765066376)
-- [09-29] 中国移动通信集团浙江有限公司嘉兴分公司2026年度秋季｜[09-29] 中国移动通信集团浙江有限公…](https://job.hdu.edu.cn/campus/view?id=10043)
-- [中石化镇海炼化2027年｜中石化镇海炼化2027年校园招聘 中石化宁波镇海炼化有限公司](https://job.wzu.edu.cn/job/view/id/787022)
-- [中石化镇海炼化有限公司2027年｜中石化镇海炼化有限公司2027年校园招聘 中国石油化工股份有限公司镇海](https://job.wzu.edu.cn/job/view/id/787021)
-- [09-29] 中国工商银行安徽省分行2027年度｜[09-29] 中国工商银行安徽省分行2027年度校园招聘公告](http://career.hznu.edu.cn/campus/view/id/551301)
-- [连云港市安防产业发展集团有限公司2026年｜连云港市安防产业发展集团有限公司2026年公开招聘工作人员补充公告](http://www.lyghz.gov.cn/lyghzqrmzf/tzggg/content/a4f5c21a-b2b2-4385-ac65-6e0e5c80d7ad.html)
-- [无锡爱尔拓燃气技术设备有限公司｜氩焊电焊工](https://gzggzpw.gzsrs.cn/#/positionInfo?acb210=1410791787371663362)
-- [国投人力资源服务有限公司上海分公司｜创新拓展部部长/副部长 （国企代招）](https://www.iguopin.com/job/detail?id=211381441588628223)
+- [通知】【学院专场】单位邀请函-机械工程与机器人学院｜【通知】【学院专场】单位邀请函-机械工程与机器人学院 202…](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=c7602b9cf16342b59c529a243d0eb24a)
+- [就业】中国通信服务浙江公司2027｜【就业】中国通信服务浙江公司2027校园招聘 Sep 30](http://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=f15ebdb20ac448c9a9c4ce83ecc25613)
+- [中电科航空电子有限公司｜中电科航空电子有限公司 2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/244896882491527168)
+- [中国联通新苗计划｜中国联通新苗计划2027校园招聘](https://www.job.sjtu.edu.cn/career/xjhxx/view/242318711590096896)
+- [阿斯利康中国｜阿斯利康中国2027校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/241952344131112960)
+- [华润三九｜华润三九2027届校招AI短剧空宣重磅上线！](https://www.job.sjtu.edu.cn/career/xjhxx/view/245161964588896256)
+- [斯堪尼亚集团中国｜斯堪尼亚集团中国2027届校园招聘线下宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/244900365080858624)
+- [招商局集团｜招商局集团2027届校园招聘](https://www.job.sjtu.edu.cn/career/xjhxx/view/243066391480111104)
+- [汽梦同行，研创未来 中国汽研｜汽梦同行，研创未来 中国汽研2027届校园招聘宣讲会](https://www.job.sjtu.edu.cn/career/xjhxx/view/242761117972172800)
+- [宣上实集团&上海医药2027届｜宣上实集团&上海医药2027届校园招聘宣讲会](https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=983ee19e-5538-2508-c581-383548e2de17&hold_date=2026-10-13)
 
 > 官方政府/国资/人社 + 企业官网 + 高校就业网 + 国家招聘平台多源交叉；已提醒公告自动去重。

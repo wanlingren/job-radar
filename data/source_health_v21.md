@@ -1,8 +1,8 @@
 # 信源健康检查 V2.1
 
-- 检查：80
-- 正常：70
-- 异常：10
+- 检查：167
+- 正常：149
+- 异常：18
 
 ## 异常信源
 - reg-sasac-zj｜浙江省国资委｜HTTP 0｜URLError｜https://gzw.zj.gov.cn/
@@ -13,5 +13,13 @@
 - reg-hrss-ah｜安徽省人社厅｜HTTP 403｜HTTPError｜https://hrss.ah.gov.cn/
 - edu-ahu｜安徽大学就业网｜HTTP 412｜HTTPError｜http://job.ahu.edu.cn/
 - edu-ecust｜华东理工大学就业网｜HTTP 483｜HTTPError｜https://career.ecust.edu.cn/
+- edu-ecnu｜华东师范大学就业网｜HTTP 0｜TimeoutError｜https://career.ecnu.edu.cn/career/index
 - auto-gov-18a28a9b71｜泾县人民政府｜HTTP 0｜UnicodeEncodeError｜https://www.ahjx.gov.cn/Search/?keyword=就业创业
 - auto-gov-308c504b74｜池州市人民政府｜HTTP 0｜URLError｜http://chizhou.gov.cn/
+- auto-gov-c92a8863a6｜无锡市人民政府｜HTTP 502｜HTTPError｜https://wx.jszwfw.gov.cn/ipgs/ipgs/gotoWxQjdFwListZRR.do?iddict_matter_class=ZRR030
+- auto-gov-3539806151｜义乌市人民政府｜HTTP 0｜URLError｜https://www.yw.gov.cn/
+- auto-sasac-cea59b92fb｜宁国市·财政局国资委｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/395/0/page_1.html
+- auto-hrss-cea59b92fb｜宁国市·人社局｜HTTP 408｜HTTPError｜https://www.ningguo.gov.cn/XxgkContent/showList/441/0/page_1.html
+- auto-hrss-18a28a9b71｜泾县·人社局｜HTTP 408｜HTTPError｜https://www.ahjx.gov.cn/OpennessContent/showList/340/0/page_1.html
+- auto-edu-49df68f54a｜东华大学就业网｜HTTP 483｜HTTPError｜http://ejob.dhu.edu.cn/
+- auto-edu-40dffc5e09｜上海财经大学就业网｜HTTP 0｜URLError｜https://career.sufe.edu.cn/
