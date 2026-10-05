@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:42:32.348747+00:00",
+  "generated_at": "2026-10-05T02:16:03.507610+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -87,8 +87,8 @@
       "region": "安徽",
       "priority": "1",
       "active_jobs": 2,
-      "last_discovered": "2026-10-03",
-      "days_since_last": 1,
+      "last_discovered": "2026-10-05",
+      "days_since_last": 0,
       "status": "正常"
     },
     {
@@ -133,7 +133,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-10-04",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -187,7 +187,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-10-04",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 57,
+      "days_since_last": 58,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -241,7 +241,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-10-04",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -250,7 +250,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-08",
-      "days_since_last": 26,
+      "days_since_last": 27,
       "status": "正常"
     },
     {
@@ -268,7 +268,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-17",
-      "days_since_last": 17,
+      "days_since_last": 18,
       "status": "正常"
     },
     {
@@ -340,7 +340,7 @@
       "priority": "1",
       "active_jobs": 19,
       "last_discovered": "2026-09-30",
-      "days_since_last": 4,
+      "days_since_last": 5,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 57,
+      "days_since_last": 58,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
