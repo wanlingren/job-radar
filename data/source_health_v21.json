@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05 02:16:03",
+  "checked_at": "2026-10-05 19:30:18",
   "total": 80,
   "ok": 70,
   "items": [
@@ -232,8 +232,8 @@
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
       "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "http_status": 483,
+      "error": "HTTPError"
     },
     {
       "source_id": "reg-job-sh",
