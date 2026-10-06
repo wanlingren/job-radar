@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-06 03:21:25",
+  "checked_at": "2026-10-06 17:00:58",
   "total": 80,
-  "ok": 69,
+  "ok": 72,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -199,9 +199,9 @@
       "source_id": "edu-seu",
       "name": "东南大学就业网",
       "url": "https://seu.91job.org.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "TimeoutError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "edu-fudan",
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": false,
-      "http_status": 483,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-job-sh",
@@ -423,9 +423,9 @@
       "source_id": "auto-gov-308c504b74",
       "name": "池州市人民政府",
       "url": "http://chizhou.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8d5d77ce58",
