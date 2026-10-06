@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-05 19:30:18",
+  "checked_at": "2026-10-06 03:21:25",
   "total": 80,
-  "ok": 70,
+  "ok": 69,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -199,9 +199,9 @@
       "source_id": "edu-seu",
       "name": "东南大学就业网",
       "url": "https://seu.91job.org.cn/",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "TimeoutError"
     },
     {
       "source_id": "edu-fudan",
