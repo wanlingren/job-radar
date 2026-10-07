@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:00:58.602605+00:00",
+  "generated_at": "2026-10-07T01:41:28.573969+00:00",
   "companies": [
     {
       "company": "安徽建工集团股份有限公司",
@@ -88,7 +88,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-10-06",
-      "days_since_last": 0,
+      "days_since_last": 1,
       "status": "正常"
     },
     {
@@ -133,7 +133,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-10-04",
-      "days_since_last": 2,
+      "days_since_last": 3,
       "status": "正常"
     },
     {
@@ -187,7 +187,7 @@
       "priority": "1",
       "active_jobs": 2,
       "last_discovered": "2026-10-04",
-      "days_since_last": 2,
+      "days_since_last": 3,
       "status": "正常"
     },
     {
@@ -196,7 +196,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 59,
+      "days_since_last": 60,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {
@@ -241,7 +241,7 @@
       "priority": "1",
       "active_jobs": 3,
       "last_discovered": "2026-10-04",
-      "days_since_last": 2,
+      "days_since_last": 3,
       "status": "正常"
     },
     {
@@ -250,7 +250,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-08",
-      "days_since_last": 28,
+      "days_since_last": 29,
       "status": "正常"
     },
     {
@@ -268,7 +268,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-09-17",
-      "days_since_last": 19,
+      "days_since_last": 20,
       "status": "正常"
     },
     {
@@ -340,7 +340,7 @@
       "priority": "1",
       "active_jobs": 19,
       "last_discovered": "2026-09-30",
-      "days_since_last": 6,
+      "days_since_last": 7,
       "status": "正常"
     },
     {
@@ -349,7 +349,7 @@
       "priority": "1",
       "active_jobs": 1,
       "last_discovered": "2026-08-08",
-      "days_since_last": 59,
+      "days_since_last": 60,
       "status": "⚠️30天未发现招聘，建议人工检查"
     },
     {

@@ -57,7 +57,7 @@ province,city,unit_code,unit_name,level,status,source_url,verification
 上海,市辖区,310120,奉贤区,county,covered,https://www.fengxian.gov.cn/,search+strict-name
 上海,市辖区,310151,崇明区,county,covered,https://www.shcm.gov.cn/,search+strict-name
 江苏,南京市,320102,玄武区,county,covered,https://www.xwzf.gov.cn/,search+sitecode
-江苏,南京市,320104,秦淮区,county,missing,,
+江苏,南京市,320104,秦淮区,county,covered,http://www.njqh.gov.cn/,search+sitecode
 江苏,南京市,320105,建邺区,county,missing,,
 江苏,南京市,320106,鼓楼区,county,missing,,
 江苏,南京市,320111,浦口区,county,missing,,
