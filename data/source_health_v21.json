@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07 02:43:57",
+  "checked_at": "2026-10-07 17:43:28",
   "total": 80,
   "ok": 70,
   "items": [
@@ -231,9 +231,9 @@
       "source_id": "edu-ecust",
       "name": "华东理工大学就业网",
       "url": "https://career.ecust.edu.cn/",
-      "ok": false,
-      "http_status": 483,
-      "error": "HTTPError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "reg-job-sh",
@@ -631,9 +631,9 @@
       "source_id": "auto-gov-cfa0f79b7b",
       "name": "盐城市人民政府",
       "url": "https://www.yancheng.gov.cn/col/col50/index.html",
-      "ok": true,
-      "http_status": 200,
-      "error": "ok"
+      "ok": false,
+      "http_status": 0,
+      "error": "URLError"
     },
     {
       "source_id": "auto-gov-a7ba639a1e",
