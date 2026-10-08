@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-07 17:43:28",
+  "checked_at": "2026-10-08 03:09:40",
   "total": 80,
-  "ok": 70,
+  "ok": 72,
   "items": [
     {
       "source_id": "gov-sasac",
@@ -423,9 +423,9 @@
       "source_id": "auto-gov-308c504b74",
       "name": "池州市人民政府",
       "url": "http://chizhou.gov.cn/",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-8d5d77ce58",
@@ -631,9 +631,9 @@
       "source_id": "auto-gov-cfa0f79b7b",
       "name": "盐城市人民政府",
       "url": "https://www.yancheng.gov.cn/col/col50/index.html",
-      "ok": false,
-      "http_status": 0,
-      "error": "URLError"
+      "ok": true,
+      "http_status": 200,
+      "error": "ok"
     },
     {
       "source_id": "auto-gov-a7ba639a1e",
